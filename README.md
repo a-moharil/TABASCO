@@ -1,4 +1,4 @@
 # TABASCO
 We have designed and developed TABASCO, a tool for detecting and identifying intra-domain ambiguities present in the software requirements and other project related documents. TABASCO provides an intuitive graphical user interface which can be used to generate a summary report and a detailed report for each target term providing the details of different contexts in which this term has been used in the project. The detailed report also presents the most similar words for every context and some example sentences from the corpus to show the context- specific meaning. Our detailed experimental results with a requirements case study demonstrate that TABASCO is easy to use and very helpful in identifying intra-domain ambiguities in software requirements and other project related documents
 
-![alt text]([http://url/to/img.png](https://github.com/a-moharil/TABASCO/blob/main/screenshots/home.png))
+![plot]([http://url/to/img.png](https://github.com/a-moharil/TABASCO/blob/main/screenshots/home.png))
