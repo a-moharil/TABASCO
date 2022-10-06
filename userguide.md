@@ -22,6 +22,7 @@ The frequency plot on clicking will expand in another tab and the user can have 
 From this list of top N nouns, the user is supposed to select a term T that needs to be contextualized or is ambigous from the assessment and pre-judgement of the user. 
 The another parameter that the user needs to select is the maximum frequency F of occurrence of all the sentences consisting of the target term T. If F is lower than the actual frequency in which T occurs then TABASCO will consider only F sentences, if F is greater than the acutal frequency then the computation is done over the actual number of sentences in which T occcurs.
 ![targterm](https://user-images.githubusercontent.com/93342024/194397703-06b4207e-9f1b-4f02-931c-69b483682b98.png)
+
 The user can click submit once the target term has been entered and F has been selected.
 
 
