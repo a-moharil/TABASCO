@@ -1,0 +1,3787 @@
+Top-most context words from the cluster :-
+***********************************************
+upon , various , for , ff , display , line , sign , record , designation , awarding , mode , status , declaration , fc , pushes , return , these , prepares , proceed , activate , simply , necessary , initiate , telephone , procedure , programmer , test , … , logging , device , match , priority , required , provider , derive , can , using , functions , object , requiring , not , driver , immediate , added , service , claims , needs , verify , fill , regular
+***********************************************
+Call 21
+Instance 21 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.3.4 Message Input Port Proxy Binding
+ SceMiMessageInPortProxy *
+ SceMi::BindMessageInPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageInPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of input ports learned from the parameter file that is generated during
+ infrastructure linkage for one whose names match the transactorName and portName arguments.
+##############################################################
+Call 11
+Instance 11 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+A C application can simply call the abort() or exit()
+ function after printing out or logging the error information.
+##############################################################
+Call 127
+Instance 127 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+In order to call a particular
+ locomotive, it shall be possible to call a number associated with the tractive
+ unit'
+ s stock number.
+##############################################################
+Call 161
+Instance 161 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Release dedicated group call.
+##############################################################
+Call 45
+Instance 45 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_select() applied to a valid GtkEntry widget to perform the operation.
+##############################################################
+Call 48
+Instance 48 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Instead of calling _wpi_getsystemmetrics() the function should call various GTK functions to get
+ different values.
+##############################################################
+Call 50
+Instance 50 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should create a GtkMenu widget, and call GUITrackFloatingPopup.
+##############################################################
+Call 97
+Instance 97 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Emergency access
+ 
+ Page
+ 
+ 60
+ 
+ PSA167D006-15
+ 
+ 5
+ 
+ 5.5.5
+ 
+ Cab radio
+ 
+ Emergency access shall be provided to initiate the following call: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Emergency call number
+ 
+ Group call
+ 
+ 0
+ 
+ Functional number
+ 
+ Table 5-2: Call types requiring MMI emergency access
+ 
+ Priority access
+ 5.5.6
+ 
+ Priority access shall be provided to initiate the following: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Primary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Secondary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Power supply controller
+ (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Other drivers in area
+ 
+ Group call
+ 
+ 2
+ 
+ Functional number
+ 
+ Other drivers on same
+ train
+ 
+ Point-to-point
+ (Multi Party)
+ 
+ 3
+ 
+ Functional number
+ 
+ Chief conductor
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ (*) For these destinations, see the requirement below.
+##############################################################
+Call 1
+Instance 1 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The IOC software is designed so that the database access layer knows nothing about the
+ record support layer other than how to call it.
+##############################################################
+Call 23
+Instance 23 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.3.5 Message Output Port Proxy Binding
+ SceMiMessageOutPortProxy *
+ SceMi::BindMessageOutPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageOutPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of output ports learned from the parameter file that was generated during
+ infrastructure linkage for one whose names match the transactorName and portName argument.
+##############################################################
+Call 151
+Instance 151 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ 14.2.2
+ 
+ If a shunting group ID is activated, the operational radio shall proceed to re-establish
+ the group call.
+##############################################################
+Call 44
+Instance 44 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+In GTK port, the function should call gtk_widget_destroy() for the given window or for the toplevel window if NULL.
+##############################################################
+Call 46
+Instance 46 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_select() applied to valid GtkEntry widget to perform the operation.
+##############################################################
+Call 181
+Instance 181 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+1.4
+ 
+ System overview
+ 
+ 1.4.1
+ 
+ Extent of specification
+ 
+ 1.4.1.1
+ 
+ To meet the functionality and performance requirements of EIRENE, the following
+ system services are required:
+ −
+ 
+ Page
+ 
+ 14
+ 
+ voice services:
+ − point-to-point voice calls;
+ − public emergency calls;
+ − broadcast voice calls;
+ − group voice calls;
+ − multi-party voice calls;
+ 
+ PSA167D005-7
+ 
+ 1
+ 
+ Introduction
+ 
+ −
+ 
+ data services:
+ − text message bearer service;
+ − bearer service for general data applications;
+ − bearer service for automatic fax;
+ − bearer service for train control applications;
+ 
+ −
+ 
+ call related services:
+ − closed user group;
+ − multi-level priority and pre-emption;
+ − advanced call handling, such as call hold, call transfer, call queuing, etc;
+ − auto answer service;
+ − barring incoming or outgoing calls;
+ − call supervisory indications;
+ − charging information;
+ 
+ −
+ 
+ railway specific applications:
+ − support for functional addressing by train, engine or coach number or
+ functional number;
+ − call specific persons depending upon user location;
+ − specific mode for shunting operations providing a link assurance signal;
+ − multiple driver communications within the same train;
+ − railway operational emergency calls;
+ 
+ −
+ 
+ direct mode facility for local set-to-set operation without network infrastructure;
+ 
+ −
+ 
+ railway specific features:
+ − set-up of urgent or frequent calls through single keystroke or similar;
+ − display of functional identity of calling/called party;
+ − fast and guaranteed call set-up;
+ − seamless communication support for train speeds up to 500 km/h;
+ − automatic and manual test modes with fault indications;
+ − control over mobile network selection;
+ − control over system configuration.
+##############################################################
+Call 49
+Instance 49 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+##############################################################
+Call 193
+Instance 193 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ −
+ 
+ A mechanism shall be provided by the system to arbitrate between those users
+ wishing to speak within the group call.
+##############################################################
+Call 165
+Instance 165 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Maintain dedicated group call.
+##############################################################
+Call 42
+Instance 42 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+When ported, this function should make a call of gtk_window_new(), and apply parameters passed in
+ info.
+##############################################################
+Call 154
+Instance 154 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Table 14-1: Operational radio “regular shunting mode ON” procedure
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 125
+ 
+ 14.2.4
+ 
+ After the “regular shunting mode ON” procedure has been completed, the procedures
+ shown in table 14-2 and 14-3 shall be used to register the shunting leader and shunting
+ members to a dedicated group call.
+##############################################################
+Call 173
+Instance 173 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+17
+ 
+ Version 1.0
+ 
+ EUROPEAN INTEGRATED RAILWAY RADIO
+ ENHANCED NETWORK
+ 
+ UIC Project EIRENE
+ Functional Requirements Specification
+ 
+ Source:
+ Date:
+ Reference:
+ Version:
+ No of pages:
+ 
+ GSM-R Functional Group
+ 17 May 2006
+ PSA167D005
+ 7
+ Cover + 93 pages
+ 
+ Document History
+ 
+ Version
+ 
+ Date
+ 
+ Details
+ 
+ 6.0
+ 
+ 21 October 2003
+ 
+ O-9000 (FCR 00-87.2)
+ O-9001 (FCR 02-97.2)
+ O-9002 (FCR 01-98.1)
+ O-9003 (FCR 02-103.1)
+ 
+ 7.0
+ 
+ 29 March 2006
+ 
+ O-9018
+ O-9027
+ O-9028
+ O-9031
+ O-9043
+ O-9044
+ O-9054
+ O-9059
+ O-9061
+ O-9072
+ O-9077
+ O-9079
+ O-9087
+ O-9090
+ O-9098
+ 
+ 7
+ 
+ PSA167D005-7
+ 
+ 17 May 2006
+ 
+ Approved by GSM-R
+ Operators Group,
+ Functional Group and
+ Industry Group
+ 
+ Page
+ 
+ 1
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ Document History
+ 
+ 1
+ 
+ List of abbreviations
+ 
+ 5
+ 
+ List of definitions
+ 
+ 7
+ 
+ 1
+ 1.1
+ 1.2
+ 1.3
+ 1.4
+ 1.5
+ 
+ Introduction
+ General
+ Scope
+ Applicability
+ System overview
+ Structure of the specification
+ 
+ 13
+ 13
+ 13
+ 14
+ 14
+ 16
+ 
+ 2
+ 2.1
+ 2.2
+ 2.3
+ 2.4
+ 2.5
+ 
+ Network requirements
+ Introduction
+ Voice services
+ Data services
+ Call related services
+ Railway specific services
+ 
+ 17
+ 17
+ 17
+ 18
+ 20
+ 22
+ 
+ 3
+ 3.1
+ 3.2
+ 3.3
+ 3.4
+ 3.5
+ 
+ Network configuration
+ Introduction
+ Coverage and performance
+ Network interconnection
+ Call set-up time requirement
+ Broadcast and group call areas
+ 
+ 23
+ 23
+ 23
+ 23
+ 23
+ 24
+ 
+ 4
+ 4.1
+ 4.2
+ 4.3
+ 
+ Mobile equipment core specification
+ Introduction
+ Services and facilities
+ Environmental and physical requirements
+ 
+ 27
+ 27
+ 27
+ 29
+ 
+ 5
+ 5.1
+ 5.2
+ 5.3
+ 5.4
+ 5.5
+ 5.6
+ 5.7
+ 5.8
+ 5.9
+ 5.10
+ 
+ Cab radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ Driver man-machine interface
+ Deleted
+ Deleted
+ Driver safety device interface
+ Train-borne recorder
+ Control/command interfaces
+ Other interfaces
+ 
+ 31
+ 31
+ 31
+ 46
+ 46
+ 48
+ 48
+ 48
+ 48
+ 49
+ 49
+ 
+ 6
+ 6.1
+ 6.2
+ 6.3
+ 
+ General purpose radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ 
+ 51
+ 51
+ 51
+ 54
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 1
+ 
+ Page
+ 
+ 6.4
+ 
+ Man-machine interface
+ 
+ 55
+ 
+ 7
+ 7.1
+ 7.2
+ 7.3
+ 7.4
+ 
+ Operational radio
+ Introduction
+ Operational radio functions
+ Environmental and physical requirements
+ Operational radio man-machine interface
+ 
+ 57
+ 57
+ 57
+ 62
+ 63
+ 
+ 8
+ 8.1
+ 8.2
+ 8.3
+ 8.4
+ 8.5
+ 
+ Controller equipment specifications
+ General
+ Primary controller’s MMI
+ Other controllers’ MMIs
+ Controller terminal interface
+ Environmental specification
+ 
+ 65
+ 65
+ 65
+ 66
+ 66
+ 66
+ 
+ 9
+ 9.1
+ 9.2
+ 9.3
+ 9.4
+ 9.5
+ 
+ Numbering plan
+ General
+ Numbering plan requirements
+ Telephone numbers
+ Group numbers
+ Calls from external networks to the EIRENE network
+ 
+ 67
+ 67
+ 67
+ 68
+ 69
+ 69
+ 
+ 10
+ 10.1
+ 10.2
+ 10.3
+ 10.4
+ 10.5
+ 10.6
+ 
+ Subscriber management
+ Introduction
+ Allocation of priorities
+ Call restriction
+ Group membership
+ Network selection list
+ Access matrix
+ 
+ 71
+ 71
+ 71
+ 72
+ 73
+ 73
+ 73
+ 
+ 11
+ 11.1
+ 11.2
+ 11.3
+ 11.4
+ 
+ Functional numbering and location dependent addressing
+ General
+ Functional addressing
+ Functional addressing registration procedures principles
+ Location dependent addressing
+ 
+ 75
+ 75
+ 75
+ 77
+ 78
+ 
+ 12
+ 12.1
+ 12.2
+ 12.3
+ 12.4
+ 
+ Text messaging
+ Introduction
+ Definition of the service
+ Performance
+ Interface
+ 
+ 81
+ 81
+ 81
+ 81
+ 81
+ 
+ 13
+ 13.1
+ 13.2
+ 13.3
+ 13.4
+ 
+ Railway emergency calls
+ Introduction
+ Management of Railway emergency calls
+ Receipt of Railway emergency calls
+ Confirmation of Railway emergency calls
+ 
+ 83
+ 83
+ 83
+ 85
+ 85
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ 14
+ 14.1
+ 14.2
+ 14.3
+ 14.4
+ 14.5
+ 
+ Shunting mode
+ Introduction
+ Functional requirements
+ Group membership
+ Link assurance signal
+ Constraints
+ 
+ 87
+ 87
+ 87
+ 88
+ 89
+ 90
+ 
+ 15
+ 15.1
+ 15.2
+ 
+ Direct mode
+ Introduction
+ Functional requirements
+ 
+ 91
+ 91
+ 91
+ 
+ A
+ 
+ References
+ 
+ 93
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 3
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 4
+ 
+ PSA167D005-7
+ 
+ List of abbreviations
+ 
+ CENELEC
+ 
+ European Committee for Electrotechnical Standardisation
+ 
+ CTS
+ 
+ Centralised Train Signalling
+ 
+ DSD
+ 
+ Driver Safety Device
+ 
+ EIRENE
+ 
+ European Integrated Railway Radio Enhanced Network
+ 
+ EMC
+ 
+ Electromagnetic Compatibility
+ 
+ ERTMS
+ 
+ European Rail Traffic Management System
+ 
+ ETCS
+ 
+ European Train Control System
+ 
+ GPS
+ 
+ Global Positioning System
+ 
+ MMI
+ 
+ Man-Machine Interface
+ 
+ PTT
+ 
+ Push-To-Talk
+ 
+ RBC
+ 
+ Radio Block Centre
+ 
+ TCS
+ 
+ Train Control System
+ 
+ UIC
+ 
+ Union Internationale des Chemins de Fer
+ 
+ VBS
+ 
+ Voice Broadcast Service
+ 
+ VGCS
+ 
+ Voice Group Call Service
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 5
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 6
+ 
+ PSA167D005-7
+ 
+ List of definitions
+ 
+ Balise
+ A passive or active device normally mounted in proximity to the track for
+ communications with passing trains.
+##############################################################
+Call 30
+Instance 30 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.6.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageInPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageInPortBinding object originally furnished to the
+ SceMi::BindMessageInPortProxy() call that created this port proxy object (see 4.3.3.4 on page 66).
+##############################################################
+Call 163
+Instance 163 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+In the meantime, all other shunting team
+ members remain active within the dedicated group call.
+##############################################################
+Call 170
+Instance 170 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Activate dedicated group ID and join the group call.
+##############################################################
+Call 41
+Instance 41 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Display window initialization
+ In order to initialize the library, programmer should call GUIWndInit() function.
+##############################################################
+Call 2
+Instance 2 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The record support layer in turn knows nothing about it’s device support layer other than how to call it.
+##############################################################
+Call 52
+Instance 52 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The function should call gdk_window_get_children(), get the child's gui_window via
+ GUIFindWindowFromHWND, and call necessary callback.
+##############################################################
+Call 35
+Instance 35 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Instead of calling PutObjRec(), we will call OWLEmitData().
+##############################################################
+Call 3
+Instance 3 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Similarly the only thing a
+ device support layer knows about it’s associated driver is how to call it.
+##############################################################
+Call 155
+Instance 155 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Activate the selected group ID and set up the
+ dedicated group call.
+##############################################################
+Call 32
+Instance 32 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.7.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageOutPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageOutPortBinding object originally furnished to the
+ SceMi::BindMessageOutPortProxy() call that created this port proxy object (see 4.3.3.5 on page 67).
+##############################################################
+Call 167
+Instance 167 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ 14.3.2
+ 
+ If a shunting group ID is activated, the Cab radio shall proceed to re-establish the
+ group call.
+##############################################################
+Call 171
+Instance 171 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ 14.4.2
+ 
+ The common shunting group provides a point of contact for leaders and team
+ members to set up a dedicated shunting group call for their shunting operation.
+##############################################################
+Call 157
+Instance 157 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Activate dedicated group ID and join the group
+ call.
+##############################################################
+Call 47
+Instance 47 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+##############################################################
+Call 38
+Instance 38 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The corresponding GNU assembler line is call function@PLT.
+##############################################################
+Call 18
+Instance 18 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.3.2 Initialization
+ static SceMi *
+ SceMi::Init(
+ int version,
+ SceMiParameters *parameters,
+ SceMiEC *ec=NULL );
+ 
+ This call is the constructor of the SCE-MI interface.
+##############################################################
+Call 4
+Instance 4 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+But these findings
+ do not call for changing the requirements as such.
+##############################################################
+Call 111
+Instance 111 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Table 5A-1: Call arbitration rules
+ 
+ Page
+ 
+ 74
+ 
+ PSA167D006-15
+ 
+ 5A
+ 
+ 5A.2
+ 
+ Handling of calls
+ 
+ Call termination of outgoing calls table
+ 
+ Type of call
+ 
+ Replacing handset
+ 
+ Clearing call
+ 
+ Notes
+ 
+ Point-to-point
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Voice Broadcast call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Group call (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call (other
+ drivers same train)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2)
+ 
+ Voice Group call
+ (emergency)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2) (3)
+ 
+ (1)
+ (2)
+ (3)
+ 
+ Action by the driver on using the "Emergency", "Intercom" or "Public Address" functions has the same
+ effect as activating the ‘Call clear’ procedure
+ If the driver activates the "Intercom" or "Public Address" procedures, the emergency call is
+ transferred to the loudspeaker.
+##############################################################
+Call 34
+Instance 34 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The Member State CIAs should call upon this service when issuing a new card to get
+ the computed search keys of the driver’s surname and first names, so to store them in
+ their local data store.
+##############################################################
+Call 36
+Instance 36 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+$OWROOT/bld/cg/intel/386/c/386rgtbl.c
+ extern
+ 
+ hw_reg_set
+ 
+ FixedRegs() {
+ 
+ /************************************
+ return the set of register which may not be modified within this routine
+ */
+ 
+ hw_reg_set
+ 
+ fixed;
+ 
+ // ...
+ HW_CTurnOn( fixed, HW_EBX ); // PIC
+ return( fixed );
+ }
+ 
+ extern
+ 
+ hw_reg_set
+ 
+ AllCacheRegs() {
+ 
+ /***************************************
+ return the set of all registers that could be used to cache values
+ */
+ 
+ hw_reg_set all;
+ // ...
+ HW_CTurnOff( all, HW_EBX ); // PIC
+ return( all );
+ }
+ 
+ SciTech Software, Inc.
+ 
+ Open Watcom Linux Port
+ Compiler / Linker Software Requirements Specification
+ 
+ Page 36 of 55
+ 
+ Position-Independent Function Prologue
+ prologue:
+ 
+ .L1:
+ 
+ pushl
+ 
+ %ebp
+ 
+ movl
+ 
+ %esp, %ebp
+ 
+ subl
+ 
+ $80, %esp
+ 
+ pushl
+ 
+ %edi
+ 
+ pushl
+ 
+ %esi
+ 
+ pushl
+ 
+ %ebx
+ 
+ call
+ 
+ .L1
+ 
+ popl
+ 
+ %ebx
+ 
+ addl
+ 
+ $_GLOBAL_OFFSET_TABLE_+[.-.L1], %ebx
+ 
+ The call instruction pushes the absolute address of the next instruction onto the stack.
+##############################################################
+Call 31
+Instance 31 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Notice that no SceMiEC * error status object is passed to the call.
+##############################################################
+Call 85
+Instance 85 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ Call other drivers in the area
+ 
+ 5.3.3
+ 
+ On receipt of a ‘Call other drivers in area’ request, the radio shall initiate a group call
+ using the ‘all trains’ group identification (see section 9) with eMLPP priority level 2
+ (see section 10.2).
+##############################################################
+Call 80
+Instance 80 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Speech followed by data
+ 
+ Cab radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ M
+ M
+ M
+ M
+ M
+ M
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ General purpose
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ Operational
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ T - Transparent; NT - Non-transparent
+ 
+ Table 4-4: GSM bearer services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 47
+ 
+ 4.3.3
+ 
+ The following supplementary services, identified in section 2, are to be supported for
+ each type of mobile radio:
+ 
+ Supplementary service
+ 
+ Cab radio
+ 
+ General
+ purpose radio
+ 
+ Operational
+ radio
+ 
+ Calling Line Identification Presentation (CLIP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Connected Line Identification Presentation
+ (CoLP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on Mobile Subscriber Busy
+ (CFB)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not
+ Reachable (CFNRc)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country
+ (BOIC-exHC)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming
+ Outside the Home PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Unstructured Supplementary Service Data
+ (USSD)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Enhanced Multi-Level Precedence and Preemption (eMLPP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 4-5: GSM supplementary services to be supported
+ 
+ Page
+ 
+ 48
+ 
+ PSA167D006-15
+ 
+ 4
+ 
+ 4.3.4
+ 
+ Mobile equipment core specification
+ 
+ The following EIRENE features are to be supported for each type of mobile radio:
+ 
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Direct mode (section 15)
+ 
+ O
+ 
+ N/A
+ 
+ O
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ N/A
+ 
+ O
+ 
+ Multiple driver communications
+ (section 5)
+ 
+ M
+ 
+ N/A
+ 
+ N/A
+ 
+ Railway emergency calls
+ (section 13)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Table 4-6: EIRENE features to be supported
+ 
+ 4.3.5
+ 
+ If a Railway emergency call set up from an EIRENE radio is unsuccessful, the radio
+ shall automatically re-attempt the call setup until the call setup is successful, a retry
+ timer expires (duration 30 seconds, as specified in the [EIRENE FRS]) or the user
+ abandons the call.
+##############################################################
+Call 51
+Instance 51 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The function should call GUIGetAbsRect().
+##############################################################
+Call 160
+Instance 160 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+User Action
+ 
+ Application action
+ 
+ Inform all members to deregister their
+ member functional numbers before
+ releasing the call.
+##############################################################
+Call 10
+Instance 10 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+•
+ 
+ Else if the SceMiEC * pointer passed to the function is NULL (or nothing is passed since the
+ default is NULL in each API function), and an error handler was registered, that error handler is
+ called from within the errant API call.
+##############################################################
+Call 88
+Instance 88 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Each of the
+ other cabs on the train will be contacted using its functional number (registered by the
+ other drivers prior to the establishment of the call).
+##############################################################
+Call 66
+Instance 66 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ Supplementary service
+ Calling Line Identification Presentation (CLIP)
+ 
+ Requirement
+ 
+ Notes
+ 
+ M
+ 
+ Note 1
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ Connected Line Identification Presentation (CoLP)
+ 
+ M
+ 
+ Note 1
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ Note 2
+ 
+ Call Forwarding on Mobile Subscriber Busy (CFB)
+ 
+ M
+ 
+ Note 3
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not Reachable (CFNRc)
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country (BOIC-exHC)
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming Outside the Home
+ PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ Unstructured Supplementary Service Data (USSD)
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ Enhanced Multi-Level Precedence and Pre-emption (eMLPP)
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ Note 4
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ Notes 4 and 5
+ 
+ Note 1 - Provide additional safety check for driver-controller communications
+ Note 2 - Can be used for train number conversion (see section 11)
+ Note 3 - To be used for call forwarding where there are multiple radios in the cab
+ Note 4 - When available - Specification underway
+ Note 5 - Used for the transfer of functional numbers (sender and receiver) and railway emergency call
+ confirmation messages
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 2-3: GSM supplementary services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 37
+ 
+ 2.5
+ 
+ Railway specific services
+ 
+ 2.5.1
+ 
+ The railway specific services to be supported are listed in table 2-4.
+##############################################################
+Call 93
+Instance 93 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 57
+ 
+ Call other authorised users
+ 5.3.11
+ 
+ The Cab radio shall be capable of being used as a standard GSM telephone, such that
+ the driver is able to call any valid number subject to closed user group, call barring or
+ other restrictions.
+##############################################################
+Top-most context words from the cluster :-
+***********************************************
+calling , make , create , maintain , argument , upon , called , inform , various , method , connect , arguments , driver , generate , apply , arrange , contacted , to , for , using , added ,  , necessary , id , perform , initiate , join , interrupt , commands , answer , 
+***********************************************
+Call 32
+Instance 32 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.7.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageOutPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageOutPortBinding object originally furnished to the
+ SceMi::BindMessageOutPortProxy() call that created this port proxy object (see 4.3.3.5 on page 67).
+##############################################################
+Call 4
+Instance 4 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+But these findings
+ do not call for changing the requirements as such.
+##############################################################
+Call 51
+Instance 51 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The function should call GUIGetAbsRect().
+##############################################################
+Call 154
+Instance 154 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Table 14-1: Operational radio “regular shunting mode ON” procedure
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 125
+ 
+ 14.2.4
+ 
+ After the “regular shunting mode ON” procedure has been completed, the procedures
+ shown in table 14-2 and 14-3 shall be used to register the shunting leader and shunting
+ members to a dedicated group call.
+##############################################################
+Call 157
+Instance 157 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Activate dedicated group ID and join the group
+ call.
+##############################################################
+Call 161
+Instance 161 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Release dedicated group call.
+##############################################################
+Call 93
+Instance 93 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 57
+ 
+ Call other authorised users
+ 5.3.11
+ 
+ The Cab radio shall be capable of being used as a standard GSM telephone, such that
+ the driver is able to call any valid number subject to closed user group, call barring or
+ other restrictions.
+##############################################################
+Call 39
+Instance 39 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Gcc, nasm, and other Linux compilers typically generate the following:
+ e8 fc ff ff ff
+ 
+ call
+ 
+ somefunc
+ 
+ (0xfffffffc is the implicit addend for R386_PC32 relocation).
+##############################################################
+Call 155
+Instance 155 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Activate the selected group ID and set up the
+ dedicated group call.
+##############################################################
+Call 38
+Instance 38 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The corresponding GNU assembler line is call function@PLT.
+##############################################################
+Call 193
+Instance 193 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ −
+ 
+ A mechanism shall be provided by the system to arbitrate between those users
+ wishing to speak within the group call.
+##############################################################
+Call 66
+Instance 66 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ Supplementary service
+ Calling Line Identification Presentation (CLIP)
+ 
+ Requirement
+ 
+ Notes
+ 
+ M
+ 
+ Note 1
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ Connected Line Identification Presentation (CoLP)
+ 
+ M
+ 
+ Note 1
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ Note 2
+ 
+ Call Forwarding on Mobile Subscriber Busy (CFB)
+ 
+ M
+ 
+ Note 3
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not Reachable (CFNRc)
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country (BOIC-exHC)
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming Outside the Home
+ PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ Unstructured Supplementary Service Data (USSD)
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ Enhanced Multi-Level Precedence and Pre-emption (eMLPP)
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ Note 4
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ Notes 4 and 5
+ 
+ Note 1 - Provide additional safety check for driver-controller communications
+ Note 2 - Can be used for train number conversion (see section 11)
+ Note 3 - To be used for call forwarding where there are multiple radios in the cab
+ Note 4 - When available - Specification underway
+ Note 5 - Used for the transfer of functional numbers (sender and receiver) and railway emergency call
+ confirmation messages
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 2-3: GSM supplementary services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 37
+ 
+ 2.5
+ 
+ Railway specific services
+ 
+ 2.5.1
+ 
+ The railway specific services to be supported are listed in table 2-4.
+##############################################################
+Call 1
+Instance 1 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The IOC software is designed so that the database access layer knows nothing about the
+ record support layer other than how to call it.
+##############################################################
+Call 52
+Instance 52 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The function should call gdk_window_get_children(), get the child's gui_window via
+ GUIFindWindowFromHWND, and call necessary callback.
+##############################################################
+Call 31
+Instance 31 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Notice that no SceMiEC * error status object is passed to the call.
+##############################################################
+Call 181
+Instance 181 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+1.4
+ 
+ System overview
+ 
+ 1.4.1
+ 
+ Extent of specification
+ 
+ 1.4.1.1
+ 
+ To meet the functionality and performance requirements of EIRENE, the following
+ system services are required:
+ −
+ 
+ Page
+ 
+ 14
+ 
+ voice services:
+ − point-to-point voice calls;
+ − public emergency calls;
+ − broadcast voice calls;
+ − group voice calls;
+ − multi-party voice calls;
+ 
+ PSA167D005-7
+ 
+ 1
+ 
+ Introduction
+ 
+ −
+ 
+ data services:
+ − text message bearer service;
+ − bearer service for general data applications;
+ − bearer service for automatic fax;
+ − bearer service for train control applications;
+ 
+ −
+ 
+ call related services:
+ − closed user group;
+ − multi-level priority and pre-emption;
+ − advanced call handling, such as call hold, call transfer, call queuing, etc;
+ − auto answer service;
+ − barring incoming or outgoing calls;
+ − call supervisory indications;
+ − charging information;
+ 
+ −
+ 
+ railway specific applications:
+ − support for functional addressing by train, engine or coach number or
+ functional number;
+ − call specific persons depending upon user location;
+ − specific mode for shunting operations providing a link assurance signal;
+ − multiple driver communications within the same train;
+ − railway operational emergency calls;
+ 
+ −
+ 
+ direct mode facility for local set-to-set operation without network infrastructure;
+ 
+ −
+ 
+ railway specific features:
+ − set-up of urgent or frequent calls through single keystroke or similar;
+ − display of functional identity of calling/called party;
+ − fast and guaranteed call set-up;
+ − seamless communication support for train speeds up to 500 km/h;
+ − automatic and manual test modes with fault indications;
+ − control over mobile network selection;
+ − control over system configuration.
+##############################################################
+Call 47
+Instance 47 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+##############################################################
+Call 85
+Instance 85 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ Call other drivers in the area
+ 
+ 5.3.3
+ 
+ On receipt of a ‘Call other drivers in area’ request, the radio shall initiate a group call
+ using the ‘all trains’ group identification (see section 9) with eMLPP priority level 2
+ (see section 10.2).
+##############################################################
+Call 88
+Instance 88 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Each of the
+ other cabs on the train will be contacted using its functional number (registered by the
+ other drivers prior to the establishment of the call).
+##############################################################
+Call 163
+Instance 163 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+In the meantime, all other shunting team
+ members remain active within the dedicated group call.
+##############################################################
+Call 30
+Instance 30 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.6.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageInPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageInPortBinding object originally furnished to the
+ SceMi::BindMessageInPortProxy() call that created this port proxy object (see 4.3.3.4 on page 66).
+##############################################################
+Call 151
+Instance 151 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ 14.2.2
+ 
+ If a shunting group ID is activated, the operational radio shall proceed to re-establish
+ the group call.
+##############################################################
+Call 170
+Instance 170 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Activate dedicated group ID and join the group call.
+##############################################################
+Call 173
+Instance 173 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+17
+ 
+ Version 1.0
+ 
+ EUROPEAN INTEGRATED RAILWAY RADIO
+ ENHANCED NETWORK
+ 
+ UIC Project EIRENE
+ Functional Requirements Specification
+ 
+ Source:
+ Date:
+ Reference:
+ Version:
+ No of pages:
+ 
+ GSM-R Functional Group
+ 17 May 2006
+ PSA167D005
+ 7
+ Cover + 93 pages
+ 
+ Document History
+ 
+ Version
+ 
+ Date
+ 
+ Details
+ 
+ 6.0
+ 
+ 21 October 2003
+ 
+ O-9000 (FCR 00-87.2)
+ O-9001 (FCR 02-97.2)
+ O-9002 (FCR 01-98.1)
+ O-9003 (FCR 02-103.1)
+ 
+ 7.0
+ 
+ 29 March 2006
+ 
+ O-9018
+ O-9027
+ O-9028
+ O-9031
+ O-9043
+ O-9044
+ O-9054
+ O-9059
+ O-9061
+ O-9072
+ O-9077
+ O-9079
+ O-9087
+ O-9090
+ O-9098
+ 
+ 7
+ 
+ PSA167D005-7
+ 
+ 17 May 2006
+ 
+ Approved by GSM-R
+ Operators Group,
+ Functional Group and
+ Industry Group
+ 
+ Page
+ 
+ 1
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ Document History
+ 
+ 1
+ 
+ List of abbreviations
+ 
+ 5
+ 
+ List of definitions
+ 
+ 7
+ 
+ 1
+ 1.1
+ 1.2
+ 1.3
+ 1.4
+ 1.5
+ 
+ Introduction
+ General
+ Scope
+ Applicability
+ System overview
+ Structure of the specification
+ 
+ 13
+ 13
+ 13
+ 14
+ 14
+ 16
+ 
+ 2
+ 2.1
+ 2.2
+ 2.3
+ 2.4
+ 2.5
+ 
+ Network requirements
+ Introduction
+ Voice services
+ Data services
+ Call related services
+ Railway specific services
+ 
+ 17
+ 17
+ 17
+ 18
+ 20
+ 22
+ 
+ 3
+ 3.1
+ 3.2
+ 3.3
+ 3.4
+ 3.5
+ 
+ Network configuration
+ Introduction
+ Coverage and performance
+ Network interconnection
+ Call set-up time requirement
+ Broadcast and group call areas
+ 
+ 23
+ 23
+ 23
+ 23
+ 23
+ 24
+ 
+ 4
+ 4.1
+ 4.2
+ 4.3
+ 
+ Mobile equipment core specification
+ Introduction
+ Services and facilities
+ Environmental and physical requirements
+ 
+ 27
+ 27
+ 27
+ 29
+ 
+ 5
+ 5.1
+ 5.2
+ 5.3
+ 5.4
+ 5.5
+ 5.6
+ 5.7
+ 5.8
+ 5.9
+ 5.10
+ 
+ Cab radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ Driver man-machine interface
+ Deleted
+ Deleted
+ Driver safety device interface
+ Train-borne recorder
+ Control/command interfaces
+ Other interfaces
+ 
+ 31
+ 31
+ 31
+ 46
+ 46
+ 48
+ 48
+ 48
+ 48
+ 49
+ 49
+ 
+ 6
+ 6.1
+ 6.2
+ 6.3
+ 
+ General purpose radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ 
+ 51
+ 51
+ 51
+ 54
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 1
+ 
+ Page
+ 
+ 6.4
+ 
+ Man-machine interface
+ 
+ 55
+ 
+ 7
+ 7.1
+ 7.2
+ 7.3
+ 7.4
+ 
+ Operational radio
+ Introduction
+ Operational radio functions
+ Environmental and physical requirements
+ Operational radio man-machine interface
+ 
+ 57
+ 57
+ 57
+ 62
+ 63
+ 
+ 8
+ 8.1
+ 8.2
+ 8.3
+ 8.4
+ 8.5
+ 
+ Controller equipment specifications
+ General
+ Primary controller’s MMI
+ Other controllers’ MMIs
+ Controller terminal interface
+ Environmental specification
+ 
+ 65
+ 65
+ 65
+ 66
+ 66
+ 66
+ 
+ 9
+ 9.1
+ 9.2
+ 9.3
+ 9.4
+ 9.5
+ 
+ Numbering plan
+ General
+ Numbering plan requirements
+ Telephone numbers
+ Group numbers
+ Calls from external networks to the EIRENE network
+ 
+ 67
+ 67
+ 67
+ 68
+ 69
+ 69
+ 
+ 10
+ 10.1
+ 10.2
+ 10.3
+ 10.4
+ 10.5
+ 10.6
+ 
+ Subscriber management
+ Introduction
+ Allocation of priorities
+ Call restriction
+ Group membership
+ Network selection list
+ Access matrix
+ 
+ 71
+ 71
+ 71
+ 72
+ 73
+ 73
+ 73
+ 
+ 11
+ 11.1
+ 11.2
+ 11.3
+ 11.4
+ 
+ Functional numbering and location dependent addressing
+ General
+ Functional addressing
+ Functional addressing registration procedures principles
+ Location dependent addressing
+ 
+ 75
+ 75
+ 75
+ 77
+ 78
+ 
+ 12
+ 12.1
+ 12.2
+ 12.3
+ 12.4
+ 
+ Text messaging
+ Introduction
+ Definition of the service
+ Performance
+ Interface
+ 
+ 81
+ 81
+ 81
+ 81
+ 81
+ 
+ 13
+ 13.1
+ 13.2
+ 13.3
+ 13.4
+ 
+ Railway emergency calls
+ Introduction
+ Management of Railway emergency calls
+ Receipt of Railway emergency calls
+ Confirmation of Railway emergency calls
+ 
+ 83
+ 83
+ 83
+ 85
+ 85
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ 14
+ 14.1
+ 14.2
+ 14.3
+ 14.4
+ 14.5
+ 
+ Shunting mode
+ Introduction
+ Functional requirements
+ Group membership
+ Link assurance signal
+ Constraints
+ 
+ 87
+ 87
+ 87
+ 88
+ 89
+ 90
+ 
+ 15
+ 15.1
+ 15.2
+ 
+ Direct mode
+ Introduction
+ Functional requirements
+ 
+ 91
+ 91
+ 91
+ 
+ A
+ 
+ References
+ 
+ 93
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 3
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 4
+ 
+ PSA167D005-7
+ 
+ List of abbreviations
+ 
+ CENELEC
+ 
+ European Committee for Electrotechnical Standardisation
+ 
+ CTS
+ 
+ Centralised Train Signalling
+ 
+ DSD
+ 
+ Driver Safety Device
+ 
+ EIRENE
+ 
+ European Integrated Railway Radio Enhanced Network
+ 
+ EMC
+ 
+ Electromagnetic Compatibility
+ 
+ ERTMS
+ 
+ European Rail Traffic Management System
+ 
+ ETCS
+ 
+ European Train Control System
+ 
+ GPS
+ 
+ Global Positioning System
+ 
+ MMI
+ 
+ Man-Machine Interface
+ 
+ PTT
+ 
+ Push-To-Talk
+ 
+ RBC
+ 
+ Radio Block Centre
+ 
+ TCS
+ 
+ Train Control System
+ 
+ UIC
+ 
+ Union Internationale des Chemins de Fer
+ 
+ VBS
+ 
+ Voice Broadcast Service
+ 
+ VGCS
+ 
+ Voice Group Call Service
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 5
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 6
+ 
+ PSA167D005-7
+ 
+ List of definitions
+ 
+ Balise
+ A passive or active device normally mounted in proximity to the track for
+ communications with passing trains.
+##############################################################
+Call 49
+Instance 49 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+##############################################################
+Call 36
+Instance 36 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+$OWROOT/bld/cg/intel/386/c/386rgtbl.c
+ extern
+ 
+ hw_reg_set
+ 
+ FixedRegs() {
+ 
+ /************************************
+ return the set of register which may not be modified within this routine
+ */
+ 
+ hw_reg_set
+ 
+ fixed;
+ 
+ // ...
+ HW_CTurnOn( fixed, HW_EBX ); // PIC
+ return( fixed );
+ }
+ 
+ extern
+ 
+ hw_reg_set
+ 
+ AllCacheRegs() {
+ 
+ /***************************************
+ return the set of all registers that could be used to cache values
+ */
+ 
+ hw_reg_set all;
+ // ...
+ HW_CTurnOff( all, HW_EBX ); // PIC
+ return( all );
+ }
+ 
+ SciTech Software, Inc.
+ 
+ Open Watcom Linux Port
+ Compiler / Linker Software Requirements Specification
+ 
+ Page 36 of 55
+ 
+ Position-Independent Function Prologue
+ prologue:
+ 
+ .L1:
+ 
+ pushl
+ 
+ %ebp
+ 
+ movl
+ 
+ %esp, %ebp
+ 
+ subl
+ 
+ $80, %esp
+ 
+ pushl
+ 
+ %edi
+ 
+ pushl
+ 
+ %esi
+ 
+ pushl
+ 
+ %ebx
+ 
+ call
+ 
+ .L1
+ 
+ popl
+ 
+ %ebx
+ 
+ addl
+ 
+ $_GLOBAL_OFFSET_TABLE_+[.-.L1], %ebx
+ 
+ The call instruction pushes the absolute address of the next instruction onto the stack.
+##############################################################
+Call 48
+Instance 48 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Instead of calling _wpi_getsystemmetrics() the function should call various GTK functions to get
+ different values.
+##############################################################
+Call 46
+Instance 46 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_select() applied to valid GtkEntry widget to perform the operation.
+##############################################################
+Call 35
+Instance 35 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Instead of calling PutObjRec(), we will call OWLEmitData().
+##############################################################
+Call 42
+Instance 42 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+When ported, this function should make a call of gtk_window_new(), and apply parameters passed in
+ info.
+##############################################################
+Call 111
+Instance 111 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Table 5A-1: Call arbitration rules
+ 
+ Page
+ 
+ 74
+ 
+ PSA167D006-15
+ 
+ 5A
+ 
+ 5A.2
+ 
+ Handling of calls
+ 
+ Call termination of outgoing calls table
+ 
+ Type of call
+ 
+ Replacing handset
+ 
+ Clearing call
+ 
+ Notes
+ 
+ Point-to-point
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Voice Broadcast call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Group call (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call (other
+ drivers same train)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2)
+ 
+ Voice Group call
+ (emergency)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2) (3)
+ 
+ (1)
+ (2)
+ (3)
+ 
+ Action by the driver on using the "Emergency", "Intercom" or "Public Address" functions has the same
+ effect as activating the ‘Call clear’ procedure
+ If the driver activates the "Intercom" or "Public Address" procedures, the emergency call is
+ transferred to the loudspeaker.
+##############################################################
+Call 18
+Instance 18 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.3.2 Initialization
+ static SceMi *
+ SceMi::Init(
+ int version,
+ SceMiParameters *parameters,
+ SceMiEC *ec=NULL );
+ 
+ This call is the constructor of the SCE-MI interface.
+##############################################################
+Call 34
+Instance 34 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The Member State CIAs should call upon this service when issuing a new card to get
+ the computed search keys of the driver’s surname and first names, so to store them in
+ their local data store.
+##############################################################
+Call 171
+Instance 171 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ 14.4.2
+ 
+ The common shunting group provides a point of contact for leaders and team
+ members to set up a dedicated shunting group call for their shunting operation.
+##############################################################
+Call 165
+Instance 165 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Maintain dedicated group call.
+##############################################################
+Call 41
+Instance 41 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Display window initialization
+ In order to initialize the library, programmer should call GUIWndInit() function.
+##############################################################
+Call 127
+Instance 127 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+In order to call a particular
+ locomotive, it shall be possible to call a number associated with the tractive
+ unit'
+ s stock number.
+##############################################################
+Call 11
+Instance 11 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+A C application can simply call the abort() or exit()
+ function after printing out or logging the error information.
+##############################################################
+Call 45
+Instance 45 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should call gtk_editable_select() applied to a valid GtkEntry widget to perform the operation.
+##############################################################
+Call 21
+Instance 21 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.3.4 Message Input Port Proxy Binding
+ SceMiMessageInPortProxy *
+ SceMi::BindMessageInPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageInPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of input ports learned from the parameter file that is generated during
+ infrastructure linkage for one whose names match the transactorName and portName arguments.
+##############################################################
+Call 80
+Instance 80 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Speech followed by data
+ 
+ Cab radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ M
+ M
+ M
+ M
+ M
+ M
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ General purpose
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ Operational
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ T - Transparent; NT - Non-transparent
+ 
+ Table 4-4: GSM bearer services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 47
+ 
+ 4.3.3
+ 
+ The following supplementary services, identified in section 2, are to be supported for
+ each type of mobile radio:
+ 
+ Supplementary service
+ 
+ Cab radio
+ 
+ General
+ purpose radio
+ 
+ Operational
+ radio
+ 
+ Calling Line Identification Presentation (CLIP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Connected Line Identification Presentation
+ (CoLP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on Mobile Subscriber Busy
+ (CFB)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not
+ Reachable (CFNRc)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country
+ (BOIC-exHC)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming
+ Outside the Home PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Unstructured Supplementary Service Data
+ (USSD)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Enhanced Multi-Level Precedence and Preemption (eMLPP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 4-5: GSM supplementary services to be supported
+ 
+ Page
+ 
+ 48
+ 
+ PSA167D006-15
+ 
+ 4
+ 
+ 4.3.4
+ 
+ Mobile equipment core specification
+ 
+ The following EIRENE features are to be supported for each type of mobile radio:
+ 
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Direct mode (section 15)
+ 
+ O
+ 
+ N/A
+ 
+ O
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ N/A
+ 
+ O
+ 
+ Multiple driver communications
+ (section 5)
+ 
+ M
+ 
+ N/A
+ 
+ N/A
+ 
+ Railway emergency calls
+ (section 13)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Table 4-6: EIRENE features to be supported
+ 
+ 4.3.5
+ 
+ If a Railway emergency call set up from an EIRENE radio is unsuccessful, the radio
+ shall automatically re-attempt the call setup until the call setup is successful, a retry
+ timer expires (duration 30 seconds, as specified in the [EIRENE FRS]) or the user
+ abandons the call.
+##############################################################
+Call 3
+Instance 3 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Similarly the only thing a
+ device support layer knows about it’s associated driver is how to call it.
+##############################################################
+Call 97
+Instance 97 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Emergency access
+ 
+ Page
+ 
+ 60
+ 
+ PSA167D006-15
+ 
+ 5
+ 
+ 5.5.5
+ 
+ Cab radio
+ 
+ Emergency access shall be provided to initiate the following call: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Emergency call number
+ 
+ Group call
+ 
+ 0
+ 
+ Functional number
+ 
+ Table 5-2: Call types requiring MMI emergency access
+ 
+ Priority access
+ 5.5.6
+ 
+ Priority access shall be provided to initiate the following: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Primary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Secondary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Power supply controller
+ (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Other drivers in area
+ 
+ Group call
+ 
+ 2
+ 
+ Functional number
+ 
+ Other drivers on same
+ train
+ 
+ Point-to-point
+ (Multi Party)
+ 
+ 3
+ 
+ Functional number
+ 
+ Chief conductor
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ (*) For these destinations, see the requirement below.
+##############################################################
+Call 2
+Instance 2 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+The record support layer in turn knows nothing about it’s device support layer other than how to call it.
+##############################################################
+Call 50
+Instance 50 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+Should create a GtkMenu widget, and call GUITrackFloatingPopup.
+##############################################################
+Call 167
+Instance 167 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ 14.3.2
+ 
+ If a shunting group ID is activated, the Cab radio shall proceed to re-establish the
+ group call.
+##############################################################
+Call 44
+Instance 44 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+In GTK port, the function should call gtk_widget_destroy() for the given window or for the toplevel window if NULL.
+##############################################################
+Call 23
+Instance 23 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+4.3.3.5 Message Output Port Proxy Binding
+ SceMiMessageOutPortProxy *
+ SceMi::BindMessageOutPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageOutPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of output ports learned from the parameter file that was generated during
+ infrastructure linkage for one whose names match the transactorName and portName argument.
+##############################################################
+Call 10
+Instance 10 of Call belongs to 2
+
+~~~~~~
+Corresponding Sentence :- 
+•
+ 
+ Else if the SceMiEC * pointer passed to the function is NULL (or nothing is passed since the
+ default is NULL in each API function), and an error handler was registered, that error handler is
+ called from within the errant API call.
+##############################################################

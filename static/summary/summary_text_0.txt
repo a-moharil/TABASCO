@@ -1,0 +1,1230 @@
+Top-most context words from the cluster :-
+***********************************************
+calling , called , dispatch , contact , send , respond , pass , handled , manage , force , connect , construct , queue , processes , operations , make , support , store , use , retrieve , initiate , contacted , closure , controlled , allow , speak , answered , returned , returns , alarm , route , status , receiving , pointer , sending , controls , signals , processed , interpreted , disconnected , originating , terminate , guidance , contain , frame , issue , subscribers , tender , railway , deleted
+***********************************************
+Call 12
+Instance 12 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Because every API call returns either a success or fatal error status, and because the detailed nature of
+ errors is fully described within the returned error message, the SceMiErrorType enum has only two
+ values pertaining to success (SceMiOK) or failure (SceMiError).
+##############################################################
+Call 75
+Instance 75 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.7
+ 
+ Termination of VGCS/VBS calls
+ 
+ 3.7.1
+ 
+ An entitled controller may terminate a VGCS/VBS call based on DTMF signalling [EN
+ 301 515, Index [4] & [5]].
+##############################################################
+Call 54
+Instance 54 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Only the initiator of the call may talk with all other group members
+ listening only.
+##############################################################
+Call 73
+Instance 73 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+3.4.3
+ 
+ In order to achieve these times the passage of the call through any networks external to
+ GSM (eg from the GSM MSC to a controller linked by an ISDN connection) must take
+ less than 250ms.
+##############################################################
+Call 68
+Instance 68 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+However call waiting does not operate during
+ the prior set up of the call between the parties A and B (including alerting if used).
+##############################################################
+Call 0
+Instance 0 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The actual subroutine call is: post_event(event_num)
+ I/O Event: The I/O event scanning system processes records based on external
+ interrupts.
+##############################################################
+Call 5
+Instance 5 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+for(;;){
+ wait();
+ dSceMi->ServiceLoop();
+ }
+ }
+ 
+ Between each call to the service loop, the autonomous thread yields to other threads in the system by
+ calling the wait() function.
+##############################################################
+Call 57
+Instance 57 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Multi-party call
+ A voice communication method whereby a number of parties defined by the call
+ initiator may participate in the call.
+##############################################################
+Call 40
+Instance 40 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Watcom C typically generates the following (of course, in OMF format):
+ e8 00 00 00 00
+ 
+ call
+ 
+ somefunc
+ 
+ $OWROOT/bld/wl/c/obj2supp.c
+ static bool CheckSpecials( fix_data *fix, frame_spec *targ )
+ /**********************************************************/
+ {
+ .
+##############################################################
+Call 58
+Instance 58 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Railway emergency call
+ A high priority call for informing drivers, controllers and other concerned
+ personnel of a level of danger requiring all Railway movements in a pre-defined
+ area to stop.
+##############################################################
+Call 27
+Instance 27 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+::ServiceLoop()
+ 
+ Some applications might like to force a return from the ::ServiceLoop() call after processing each
+ message.
+##############################################################
+Call 79
+Instance 79 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+2 In the case of a controller as a group call originator, joiner and re-joiner speaking for the first time.
+##############################################################
+Call 15
+Instance 15 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Rather, they are deleted
+ when the entire interface is shut down during the call to SceMi::ShutDown().
+##############################################################
+Call 29
+Instance 29 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+All parameters in a SceMiParameters object must be overridden before that object is
+ passed to the SceMi::Init() call to construct the interface (see 4.3.3.2 on page 65).
+##############################################################
+Call 60
+Instance 60 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Tromboning
+ Tromboning may occur when a call is placed to a roaming mobile in the same
+ country as the call originator.
+##############################################################
+Call 63
+Instance 63 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The
+ NSS contains mobile services switching centres (MSCs) with primary responsibility
+ for call control.
+##############################################################
+Call 62
+Instance 62 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+To meet additional functionality and
+ performance requirements, this standard is to be supplemented by: (I)
+ −
+ 
+ the following GSM services:
+ 
+ −
+ 
+ voice broadcast service;
+ 
+ −
+ 
+ voice group call service;
+ 
+ −
+ 
+ enhanced multi-level precedence and pre-emption;
+ 
+ −
+ 
+ General Packet Radio Service (GPRS);
+ 
+ −
+ 
+ railway specific applications:
+ 
+ −
+ 
+ exchange of number and location information between train and ground to support
+ functional and location dependent addressing;
+ 
+ −
+ 
+ emergency calls;
+ 
+ −
+ 
+ shunting mode;
+ 
+ −
+ 
+ multiple driver communications;
+ 
+ −
+ 
+ direct mode facility for set-to-set operation;
+ 
+ −
+ 
+ railway specific features, network parameters and standards:
+ 
+ −
+ 
+ link assurance signal;
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 27
+ 
+ −
+ 
+ calling and connected line presentation of functional identities;
+ 
+ −
+ 
+ cab radio, man-machine and other interfaces;
+ 
+ −
+ 
+ environmental specifications;
+ 
+ −
+ 
+ controller position functional specifications;
+ 
+ −
+ 
+ system configuration (numbering plans, priority levels, subscriber details, closed
+ user groups, etc).
+##############################################################
+Call 14
+Instance 14 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+When any SCE-MI operation encounters a warning or wishes to issue an informational message, the
+ following procedure is followed:
+ 
+ •
+ 
+ If an info handler was registered, that info handler is called from within the API call that wants to
+ issue the warning.
+##############################################################
+Call 8
+Instance 8 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+When any SCE-MI operation encounters an error, the following procedure is followed:
+ 
+ •
+ 
+ 62 of 94
+ 
+ If the SceMiEC * pointer passed into the function was non-NULL, the values of the SceMiEC
+ structure are filled out by the errant call with appropriate information describing the error, and
+ control is returned to the caller.
+##############################################################
+Call 74
+Instance 74 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.4.4
+ 
+ Achievement of fast call setup times requires information in the setup message to be
+ compressed.
+##############################################################
+Call 67
+Instance 67 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Railway service
+ 
+ Requirement
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ Location dependent addressing (section 11)
+ 
+ M
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ Multiple driver communications (section 5)
+ 
+ M
+ 
+ Emergency calls (section 13)
+ 
+ M
+ 
+ Notes
+ 
+ Table 2-4: Railway specific services to be supported
+ 
+ 2.6
+ 
+ Alerting duration
+ 
+ 2.6.1
+ 
+ The call waiting service (CW) permits a party A to be notified of an incoming call from
+ party C whilst the traffic channel is not available for the incoming call and party A is
+ engaged in an active call with party B.
+##############################################################
+Call 64
+Instance 64 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The MSC is supported by a visitor location register (VLR)
+ containing temporary details of subscribers active within the MSC area, a group
+ call register (GCR) containing attributes of voice group and broadcast call
+ configurations for the related MSC area and home location registers (HLRs)
+ holding subscriber details on a permanent basis.
+##############################################################
+Call 69
+Instance 69 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Therefore the alerting duration has to be as short as possible in order to minimize the
+ risk for the party A of missing notification of an incoming call from party C with a
+ higher eMLPP priority.
+##############################################################
+Call 7
+Instance 7 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Error handling in SCE-MI was designed to be flexible enough to either use a traditional style of error
+ handling where an error status is returned and checked with each call, or a callback based scheme where
+ a registered error handler is called when an error occurs.
+##############################################################
+Call 13
+Instance 13 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The SceMiEC::Type returned from API
+ functions to the caller can be either of these two values depending on whether the call was a success or
+ a failure.
+##############################################################
+Call 70
+Instance 70 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.4
+ 
+ Call setup time requirement
+ 
+ 3.4.1
+ 
+ Call setup time requirement is dependent upon the eMLPP priority of a call [EN 301 515,
+ Index [27]].
+##############################################################
+Call 19
+Instance 19 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+This call is the means by which graceful decoupling of the hardware side
+ and the software side is achieved.
+##############################################################
+Call 71
+Instance 71 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The required priority level for each call type is given in section 10.2.
+##############################################################
+Call 59
+Instance 59 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Shunting emergency call
+ A Railway emergency call used to instruct shunting teams to cease shunting
+ movements immediately.
+##############################################################
+Call 77
+Instance 77 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 41
+ 
+ 3.8.2
+ 
+ The network shall send the SET-PARAMETER message with the attribute “D-ATT =
+ T”1 [EN 301 515, Index [6]] to the mobile station of the talking subscriber if it receives the 3digit sequence “## # ” transmitted via DTMF or the group call SETUP message2 from a
+ controller terminal.
+##############################################################
+Call 22
+Instance 22 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+This call signals that it is okay to send a new message to the input
+ port.
+##############################################################
+Call 6
+Instance 6 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Each time it is so notified, the port proxy on the software side
+ makes a call to the user registered input ready callback.
+##############################################################
+Call 53
+Instance 53 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Broadcast call
+ A call made to all members of a pre-defined group within a local geographical
+ area.
+##############################################################
+Call 16
+Instance 16 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+With each call, the application can pass
+ version numbers corresponding to those it is familiar with and the SCE-MI can respond with a version
+ handle that is compatible with the queried version.
+##############################################################
+Call 33
+Instance 33 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+In multi-threaded environments, it makes sense to
+ place the service loop call in its own continually running thread.
+##############################################################
+Call 24
+Instance 24 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+It is
+ also inside this call that the SCE-MI dispatches any input ready or receive callbacks that might be
+ needed.
+##############################################################
+Call 17
+Instance 17 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+This handle can then be passed onto the initialization
+ call described in the next section.
+##############################################################
+Call 65
+Instance 65 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+1.4.3.3
+ 
+ Voice broadcast and group call facilities: All mobiles are to support these services as
+ defined in the relevant GSM specifications.
+##############################################################
+Call 61
+Instance 61 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Tromboning is the term given to the routing of a
+ call via the mobile’s home country and back.
+##############################################################
+Call 26
+Instance 26 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The return argument is the number of output messages that arrived and were processed since the last call
+ to ::ServiceLoop().
+##############################################################
+Call 37
+Instance 37 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+There is also important function void
+ AddCallIns( instruction *ins, cn call ) located in $OWROOT/bld/cg/c/bldcall.c.
+##############################################################
+Call 28
+Instance 28 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The ::ServiceLoop() call will always guarantee that a separate call is made to the g()
+ 
+ 68 of 94
+ 
+ Functional Requirements Specification: Standard Co-Emulation Modeling Interface (SCE-MI)
+ 
+ Formal Functional Specification
+ 
+ function for each message processed.
+##############################################################
+Call 78
+Instance 78 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+However, receiving the 3-digit sequence “# ## ” or the group call
+ SETUP message related to an additional controller while any other controller is talking
+ shall not result in sending another SET-PARAMETER message with the attribute “DATT = T”.
+##############################################################
+Call 76
+Instance 76 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.7.2
+ 
+ The network shall terminate the ongoing VGCS/VBS call if it receives the 3-digit
+ sequence “***” transmitted via DTMF signals.
+##############################################################
+Call 9
+Instance 9 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+It is up to the application code to check the error status
+ after each call to the API and take appropriate abortive action if an error is detected.
+##############################################################
+Call 55
+Instance 55 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Page
+ 
+ 20
+ 
+ PSA167D006-15
+ 
+ List of definitions
+ 
+ Functional addressing/numbering
+ A term used to describe the process of addressing a call using a number
+ representing the function a user is performing, rather than a number identifying
+ the user’s terminal equipment.
+##############################################################
+Call 20
+Instance 20 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+It is also during this call that termination (Close()) callbacks
+ registered by the application are called.
+##############################################################
+Call 56
+Instance 56 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Group call
+ A call made to all members of a pre-defined group within a local geographical
+ area.
+##############################################################
+Call 72
+Instance 72 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ Note: Authentication may be delayed if necessary to achieve the required call setup
+ times.
+##############################################################
+Top-most context words from the cluster :-
+***********************************************
+calling , called , make , reply , involving , dispatch , speak , contact , communication , answered , notification , originating , notices , broadcast , send , functions , connect , transferred , via , initiate , respond , voice , argument , initial , line , talk , tone , answer , controls , situation , signal , request , controlled , instruction , pass ,  , operation , communications , alarm , confirmation , establish , confirm , messages , contacted , stopping , transmitted , caller , handled , handle , terminate
+***********************************************
+Call 28
+Instance 28 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The ::ServiceLoop() call will always guarantee that a separate call is made to the g()
+ 
+ 68 of 94
+ 
+ Functional Requirements Specification: Standard Co-Emulation Modeling Interface (SCE-MI)
+ 
+ Formal Functional Specification
+ 
+ function for each message processed.
+##############################################################
+Call 25
+Instance 25 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Since these messages cannot
+ be handled until a call to ::ServiceLoop() is made, it is advisable that applications call this function
+ frequently.
+##############################################################
+Call 53
+Instance 53 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Broadcast call
+ A call made to all members of a pre-defined group within a local geographical
+ area.
+##############################################################
+Call 9
+Instance 9 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+It is up to the application code to check the error status
+ after each call to the API and take appropriate abortive action if an error is detected.
+##############################################################
+Call 16
+Instance 16 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+With each call, the application can pass
+ version numbers corresponding to those it is familiar with and the SCE-MI can respond with a version
+ handle that is compatible with the queried version.
+##############################################################
+Call 55
+Instance 55 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Page
+ 
+ 20
+ 
+ PSA167D006-15
+ 
+ List of definitions
+ 
+ Functional addressing/numbering
+ A term used to describe the process of addressing a call using a number
+ representing the function a user is performing, rather than a number identifying
+ the user’s terminal equipment.
+##############################################################
+Call 13
+Instance 13 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The SceMiEC::Type returned from API
+ functions to the caller can be either of these two values depending on whether the call was a success or
+ a failure.
+##############################################################
+Call 70
+Instance 70 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.4
+ 
+ Call setup time requirement
+ 
+ 3.4.1
+ 
+ Call setup time requirement is dependent upon the eMLPP priority of a call [EN 301 515,
+ Index [27]].
+##############################################################
+Call 27
+Instance 27 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+::ServiceLoop()
+ 
+ Some applications might like to force a return from the ::ServiceLoop() call after processing each
+ message.
+##############################################################
+Call 71
+Instance 71 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The required priority level for each call type is given in section 10.2.
+##############################################################
+Call 73
+Instance 73 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+3.4.3
+ 
+ In order to achieve these times the passage of the call through any networks external to
+ GSM (eg from the GSM MSC to a controller linked by an ISDN connection) must take
+ less than 250ms.
+##############################################################
+Call 26
+Instance 26 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The return argument is the number of output messages that arrived and were processed since the last call
+ to ::ServiceLoop().
+##############################################################
+Call 6
+Instance 6 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Each time it is so notified, the port proxy on the software side
+ makes a call to the user registered input ready callback.
+##############################################################
+Call 68
+Instance 68 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+However call waiting does not operate during
+ the prior set up of the call between the parties A and B (including alerting if used).
+##############################################################
+Call 61
+Instance 61 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Tromboning is the term given to the routing of a
+ call via the mobile’s home country and back.
+##############################################################
+Call 22
+Instance 22 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+This call signals that it is okay to send a new message to the input
+ port.
+##############################################################
+Call 14
+Instance 14 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+When any SCE-MI operation encounters a warning or wishes to issue an informational message, the
+ following procedure is followed:
+ 
+ •
+ 
+ If an info handler was registered, that info handler is called from within the API call that wants to
+ issue the warning.
+##############################################################
+Call 57
+Instance 57 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Multi-party call
+ A voice communication method whereby a number of parties defined by the call
+ initiator may participate in the call.
+##############################################################
+Call 69
+Instance 69 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Therefore the alerting duration has to be as short as possible in order to minimize the
+ risk for the party A of missing notification of an incoming call from party C with a
+ higher eMLPP priority.
+##############################################################
+Call 56
+Instance 56 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Group call
+ A call made to all members of a pre-defined group within a local geographical
+ area.
+##############################################################
+Call 64
+Instance 64 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The MSC is supported by a visitor location register (VLR)
+ containing temporary details of subscribers active within the MSC area, a group
+ call register (GCR) containing attributes of voice group and broadcast call
+ configurations for the related MSC area and home location registers (HLRs)
+ holding subscriber details on a permanent basis.
+##############################################################
+Call 79
+Instance 79 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+2 In the case of a controller as a group call originator, joiner and re-joiner speaking for the first time.
+##############################################################
+Call 5
+Instance 5 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+for(;;){
+ wait();
+ dSceMi->ServiceLoop();
+ }
+ }
+ 
+ Between each call to the service loop, the autonomous thread yields to other threads in the system by
+ calling the wait() function.
+##############################################################
+Call 59
+Instance 59 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Shunting emergency call
+ A Railway emergency call used to instruct shunting teams to cease shunting
+ movements immediately.
+##############################################################
+Call 72
+Instance 72 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ Note: Authentication may be delayed if necessary to achieve the required call setup
+ times.
+##############################################################
+Call 37
+Instance 37 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+There is also important function void
+ AddCallIns( instruction *ins, cn call ) located in $OWROOT/bld/cg/c/bldcall.c.
+##############################################################
+Call 19
+Instance 19 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+This call is the means by which graceful decoupling of the hardware side
+ and the software side is achieved.
+##############################################################
+Call 54
+Instance 54 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Only the initiator of the call may talk with all other group members
+ listening only.
+##############################################################
+Call 7
+Instance 7 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Error handling in SCE-MI was designed to be flexible enough to either use a traditional style of error
+ handling where an error status is returned and checked with each call, or a callback based scheme where
+ a registered error handler is called when an error occurs.
+##############################################################
+Call 33
+Instance 33 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+In multi-threaded environments, it makes sense to
+ place the service loop call in its own continually running thread.
+##############################################################
+Call 74
+Instance 74 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.4.4
+ 
+ Achievement of fast call setup times requires information in the setup message to be
+ compressed.
+##############################################################
+Call 65
+Instance 65 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+1.4.3.3
+ 
+ Voice broadcast and group call facilities: All mobiles are to support these services as
+ defined in the relevant GSM specifications.
+##############################################################
+Call 15
+Instance 15 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Rather, they are deleted
+ when the entire interface is shut down during the call to SceMi::ShutDown().
+##############################################################
+Call 60
+Instance 60 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Tromboning
+ Tromboning may occur when a call is placed to a roaming mobile in the same
+ country as the call originator.
+##############################################################
+Call 77
+Instance 77 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(M)
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 41
+ 
+ 3.8.2
+ 
+ The network shall send the SET-PARAMETER message with the attribute “D-ATT =
+ T”1 [EN 301 515, Index [6]] to the mobile station of the talking subscriber if it receives the 3digit sequence “## # ” transmitted via DTMF or the group call SETUP message2 from a
+ controller terminal.
+##############################################################
+Call 20
+Instance 20 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+It is also during this call that termination (Close()) callbacks
+ registered by the application are called.
+##############################################################
+Call 78
+Instance 78 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+However, receiving the 3-digit sequence “# ## ” or the group call
+ SETUP message related to an additional controller while any other controller is talking
+ shall not result in sending another SET-PARAMETER message with the attribute “DATT = T”.
+##############################################################
+Call 58
+Instance 58 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Railway emergency call
+ A high priority call for informing drivers, controllers and other concerned
+ personnel of a level of danger requiring all Railway movements in a pre-defined
+ area to stop.
+##############################################################
+Call 40
+Instance 40 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Watcom C typically generates the following (of course, in OMF format):
+ e8 00 00 00 00
+ 
+ call
+ 
+ somefunc
+ 
+ $OWROOT/bld/wl/c/obj2supp.c
+ static bool CheckSpecials( fix_data *fix, frame_spec *targ )
+ /**********************************************************/
+ {
+ .
+##############################################################
+Call 12
+Instance 12 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Because every API call returns either a success or fatal error status, and because the detailed nature of
+ errors is fully described within the returned error message, the SceMiErrorType enum has only two
+ values pertaining to success (SceMiOK) or failure (SceMiError).
+##############################################################
+Call 0
+Instance 0 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+The actual subroutine call is: post_event(event_num)
+ I/O Event: The I/O event scanning system processes records based on external
+ interrupts.
+##############################################################
+Call 75
+Instance 75 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.7
+ 
+ Termination of VGCS/VBS calls
+ 
+ 3.7.1
+ 
+ An entitled controller may terminate a VGCS/VBS call based on DTMF signalling [EN
+ 301 515, Index [4] & [5]].
+##############################################################
+Call 24
+Instance 24 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+It is
+ also inside this call that the SCE-MI dispatches any input ready or receive callbacks that might be
+ needed.
+##############################################################
+Call 17
+Instance 17 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+This handle can then be passed onto the initialization
+ call described in the next section.
+##############################################################
+Call 8
+Instance 8 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+When any SCE-MI operation encounters an error, the following procedure is followed:
+ 
+ •
+ 
+ 62 of 94
+ 
+ If the SceMiEC * pointer passed into the function was non-NULL, the values of the SceMiEC
+ structure are filled out by the errant call with appropriate information describing the error, and
+ control is returned to the caller.
+##############################################################
+Call 67
+Instance 67 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+Railway service
+ 
+ Requirement
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ Location dependent addressing (section 11)
+ 
+ M
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ Multiple driver communications (section 5)
+ 
+ M
+ 
+ Emergency calls (section 13)
+ 
+ M
+ 
+ Notes
+ 
+ Table 2-4: Railway specific services to be supported
+ 
+ 2.6
+ 
+ Alerting duration
+ 
+ 2.6.1
+ 
+ The call waiting service (CW) permits a party A to be notified of an incoming call from
+ party C whilst the traffic channel is not available for the incoming call and party A is
+ engaged in an active call with party B.
+##############################################################
+Call 29
+Instance 29 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+All parameters in a SceMiParameters object must be overridden before that object is
+ passed to the SceMi::Init() call to construct the interface (see 4.3.3.2 on page 65).
+##############################################################
+Call 76
+Instance 76 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+(I)
+ 
+ 3.7.2
+ 
+ The network shall terminate the ongoing VGCS/VBS call if it receives the 3-digit
+ sequence “***” transmitted via DTMF signals.
+##############################################################
+Call 62
+Instance 62 of Call belongs to 1
+
+~~~~~~
+Corresponding Sentence :- 
+To meet additional functionality and
+ performance requirements, this standard is to be supplemented by: (I)
+ −
+ 
+ the following GSM services:
+ 
+ −
+ 
+ voice broadcast service;
+ 
+ −
+ 
+ voice group call service;
+ 
+ −
+ 
+ enhanced multi-level precedence and pre-emption;
+ 
+ −
+ 
+ General Packet Radio Service (GPRS);
+ 
+ −
+ 
+ railway specific applications:
+ 
+ −
+ 
+ exchange of number and location information between train and ground to support
+ functional and location dependent addressing;
+ 
+ −
+ 
+ emergency calls;
+ 
+ −
+ 
+ shunting mode;
+ 
+ −
+ 
+ multiple driver communications;
+ 
+ −
+ 
+ direct mode facility for set-to-set operation;
+ 
+ −
+ 
+ railway specific features, network parameters and standards:
+ 
+ −
+ 
+ link assurance signal;
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 27
+ 
+ −
+ 
+ calling and connected line presentation of functional identities;
+ 
+ −
+ 
+ cab radio, man-machine and other interfaces;
+ 
+ −
+ 
+ environmental specifications;
+ 
+ −
+ 
+ controller position functional specifications;
+ 
+ −
+ 
+ system configuration (numbering plans, priority levels, subscriber details, closed
+ user groups, etc).
+##############################################################

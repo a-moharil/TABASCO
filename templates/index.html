@@ -1,0 +1,129 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<html>
+<title>TABASCO</title>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<!--    <img src="/static/images/tue.png" style="display: inline-block;vertical-align: top;width: 50px;height: 50px;margin-top: 15px;margin-left: 20px" >-->
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="{{url_for('upload')}}">Home
+            <span class="visually-hidden">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Separated link</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</nav>
+<body>
+<div class="progress">
+  <div class="progress-bar bg-danger" role="progressbar" style="width: 33%;" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-success" role="progressbar" style="width: 35%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-info" role="progressbar" style="width: 33%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+    <div>
+
+        <img src = '/static/images/tue1.png' style="float:right;width:220px;height:220px;margin-right: 20px">
+     <img src = '/static/images/blogo.png' style="float:left;width:195px;height:195px; margin-top: 8px; margin-left: 20px"> </div>
+<div class="content">
+    <h1 style="text-align: center; margin-top: 50px">TABASCO</h1>
+
+    {% if tasks|length < 1 %}
+    <h4 style="text-align: center">Welcome to the Transformer Based Contextualization Toolkit</h4>
+    {% else %}
+    <table>
+        <tr>
+            <th>Task</th>
+            <th>Added</th>
+            <th>Actions</th>
+        </tr>
+        {% for task in tasks %}
+            <tr>
+                <td>{{ task.content }}</td>
+                <td>{{ task.date_created.date() }}</td>
+                <td>
+                    <a href="/delete/{{task.id}}">Delete</a>
+                    <br>
+                    <a href="/update/{{task.id}}">Update</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+            <div class="alert alert-dismissible alert-warning" style="width: 400px; height: 150px; text-align: center; margin-left: 745px; margin-top: 70px">
+  <button type="button" class="btn-close" data-bs-dismiss="alert" onclick="this.parentElement.style.display='none';"></button>
+                <strong>Heads up!</strong> <a href="#" class="alert-link"><p>Max permitted file size is 500MB</p> <p>Accepted formats :- '.pdf' </p></a>
+</div>
+    </div>
+<div style="margin-top: 20px">
+  <meta charset="UTF-8">
+  <title>Flask-File Drag Drop System</title>
+  {{ dropzone.load_css() }}
+  {{ dropzone.style('border: 2.8px dashed #0087F7; margin: 7%; min-height: 300px; min-width: 170px;') }}
+
+  {{ dropzone.create(action='upload') }}
+  {{ dropzone.load_js() }}
+    {{ dropzone.config() }} </div>
+<div>
+
+
+    <form style=" width: 100vw; margin-left : 38vw; margin-top : 20px;" action="{{url_for('get_list')}}" method="POST">
+        <h6> <strong>* Select N for Top N Nouns [step = 25] </strong></h6>
+        <p><strong>25</strong><input type="range" class="form-range" id="customRange1" style="width: 450px; margin-top: 0px;text-align: center; margin-bottom: 20px" min="25" max="200" step="25" name="ip_range" id="iprange"  onchange="output.value = customRange1.value">200<strong></strong></p>
+        <h7> Selected Value :</h7> <output id="output" for="customRange1"> <small id="emailHelp" class="form-text text-muted" style="margin-top: 0px"><strong>Select a value.</strong></small></output> <!-- Just to display selected value -->
+        <br><button type="submit" class = "btn btn-outline-success" style="margin-left: 175px; margin-top: 20px">submit</button><br>
+    </form>
+
+
+    </div>
+
+
+</body>
+<div style="margin-top: 100px">
+  <ul class="pagination pagination-sm">
+    <li class="page-item active">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#">Work performed by Ambarish Moharil and Prof.Dr.Arpit Sharma</a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+  </ul>
+    <div class="progress">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 10%;"></div>
+</div>
+</div>
+</html>
+
+{% endblock %}

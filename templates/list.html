@@ -1,0 +1,103 @@
+{% extends 'base.html' %}
+
+{%block body%}
+<html xmlns="http://www.w3.org/1999/html">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="{{url_for('upload')}}">Home
+            <span class="visually-hidden">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Separated link</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<head>
+    <title></title>
+</head>
+<body>
+<div class="progress">
+  <div class="progress-bar bg-danger" role="progressbar" style="width: 33%;" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-success" role="progressbar" style="width: 35%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-info" role="progressbar" style="width: 33%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<h3 style="margin-top: 20px"><strong> Top {{ip_for_range}} Most Frequent Nouns from the PDF are as follows:- </strong> </h3>
+          <blockquote class="blockquote" style="margin-top: 20px">
+            {% for word, fr in zipped %}
+              <strong style="margin-right: 20px">   ["{{ word }}" : {{fr}}]    </strong>
+            {% endfor %}
+
+  </blockquote>
+
+            <div style="text-align: center; margin-top: 50px"><h6> <strong>Frequency Distribution of Nouns </strong></h6>
+              <a href="/static/frq_plot/frq_plot.png" target="_blank">
+        <img  src= {{url_for('static', filename = 'frq_plot/frq_plot.png')}} alt="Chart" class = "child" width="800" height="500" style="margin-top: 0px; margin-bottom: 50px" data-bs-target="_blank"></a>
+            </div>
+
+
+
+
+<form style=" width: 100vw; margin-left : 40vw; margin-top : 1vw;" action="{{url_for('target_mat')}}" method="POST">
+<div class="form-group w-25">
+  <h6> <strong>Enter The Target Term </strong></h6>
+  <small id="emailHelp" class="form-text text-muted" style="margin-top: 0px"><strong>Select a term from the above list for which you need the context.</strong></small>
+  <input type="text" class="form-control" placeholder="Enter the Target Word" id="targetword" name="target_word" style="margin-bottom: 30px">
+     <h6> <strong>* Select Frequency [step = 50] </strong></h6>
+
+  <p style="text-align: center"><strong> 50 </strong><input type="range" class="form-range" id="customRange2" style="width: 350px; margin-top: 0px;text-align: center; margin-bottom: 0.01px" min="50" max="3000" step="50" name="ip_freq" id="ipfreq" onchange="output.value = customRange2.value"><strong> 3000 </strong></p>
+  <h7>Selected Value :</h7>
+  <output id="output" for="customRange2" > <small id="emailHelp" class="form-text text-muted" style="margin-top: 0px"><strong>Select a frequency value.</strong></small> </output></div> <!-- Just to display selected value -->
+
+  <div>  <button type="submit" class="btn btn-primary" id="targetword" style="margin-top: 40px; margin-left: 175.5px">Submit</button>
+</div> </form>
+
+
+</body>
+<div style="margin-top: 100px">
+  <ul class="pagination pagination-sm">
+    <li class="page-item active">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#">Work performed by Ambarish Moharil and Prof.Dr.Arpit Sharma</a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+  </ul>
+  <div class="progress">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div>
+</div>
+</html>
+{% endblock %}

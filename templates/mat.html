@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{%block body%}
+<html>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="{{url_for('upload')}}">Home
+            <span class="visually-hidden">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Pricing</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Separated link</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<head>
+    <title></title>
+</head>
+<body>
+<div class="progress">
+  <div class="progress-bar bg-danger" role="progressbar" style="width: 33%;" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-success" role="progressbar" style="width: 35%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-info" role="progressbar" style="width: 33%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+    <div>
+        <img src = '/static/images/tue1.png' style="float:right;width:220px;height:220px;margin-right: 20px">
+     <img src = '/static/images/blogo.png' style="float:left;width:195px;height:195px; margin-top: 8px; margin-left: 20px"> </div>
+<div style="text-align: center; margin-top: 20px">
+    <h3 style="margin-top: 20px"> Selected Target Word is:-
+        <strong><p>{{ word }}</p></strong> </h3>
+
+    {% if (k == 1) %}
+    <p><h4> {{word}} is predicted to be used in {{k}} context</h4></p> </div>
+    {% endif %}
+
+    {% if (k > 1 )%}
+    <p><h4> {{word}} is predicted to be used in {{k}} distinct contexts </h4></p> </div>
+    {% endif %}
+
+    <div style="text-align: center;"><img src= {{url_cluster}} alt="Chart" class = "child"></div>
+
+
+<form style=" width: 100vw; margin-left : 38.6vw; margin-top : 1vw;" action="{{url_for('context')}}" method="POST">
+    <br><small id="emailHelp" class="form-text text-muted"><strong>The above chart shows the predicted context clusters for the word {{word}}</strong></small></br>
+          <h6> <strong>* Select Threshold [step = 0.01] </strong></h6>
+  <p><strong> 0.1 </strong><input type="range" class="form-range" id="customRange3" style="width: 450px; margin-top: 0px;text-align: center; margin-bottom: 10px" min="0.1" max="0.9" step="0.01" name="thresh" id="ipthresh"  onchange="output.value = customRange3.value" ><strong> 0.9 </strong></p>
+
+  <h7>Selected Threshold : </h7><output id="output" for="customRange3"><small id="emailHelp" class="form-text text-muted" style="margin-top: 0px"><strong>Select a threshold value. [Advised = 0.48] </strong></small></output> <!-- Just to display selected value -->
+       <br><button type="submit" class="btn btn-primary" id="getcontext" style="margin-left: 175px; margin-top: 20px">Get Context</button><br>
+        </form>
+</body>
+<div style="margin-top: 100px">
+  <ul class="pagination pagination-sm">
+    <li class="page-item active">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#">Work performed by Ambarish Moharil and Prof.Dr.Arpit Sharma</a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+  </ul>
+  <div class="progress">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+</div>
+</html>
+{% endblock %}

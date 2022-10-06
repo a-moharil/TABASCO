@@ -1,0 +1,9278 @@
+
+Call 1
+Instance 1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The IOC software is designed so that the database access layer knows nothing about the
+ record support layer other than how to call it.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , to , calling , apply , connect , perform , called , interrupt , arrange , driver , it , make , speak , generate , added , join , support , contacted , get , associated , created , logging , … , create , using , selecting , arguments , operation , establish , store , commands , releasing , of , fill , generated , argument , modified , via , switch , destroy , status , automatically , select , during , maintain , valid , about , derive , initiate , how , implement , used , necessary , functions , local , changing , cache , instance , selection , names , out , be
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 2
+Instance 2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The record support layer in turn knows nothing about it’s device support layer other than how to call it.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , to , connect , perform , called , apply , interrupt , arrange , driver , make , speak , join , generate , contacted , it , added , get , support , create , associated , created , establish , … , operation , logging , using , store , selecting , releasing , destroy , arguments , switch , maintain , status , of , select , commands , automatically , initiate , via , argument , valid , fill , derive , generated , modified
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 3
+Instance 3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Similarly the only thing a
+ device support layer knows about it’s associated driver is how to call it.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , connect , called , apply , interrupt , perform , driver , arrange , to , make , speak , join , contacted , generate , associated , added , create , get , it , logging , support , operation , via , commands , created , destroy , functions , store , … , releasing , selecting , status , instance , using , arguments , select , automatically , establish , valid , of , maintain , local , switch , argument , line , cache , initiate , generated , modified , necessary , implement , used , interface , relocation , fill , sent , applied , shell , during , derive , into , software
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 4
+Instance 4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+But these findings
+ do not call for changing the requirements as such.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , for , do , these , not , define , derive , assume , changing , indicate , required , contains
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 10
+Instance 1̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+•
+ 
+ Else if the SceMiEC * pointer passed to the function is NULL (or nothing is passed since the
+ default is NULL in each API function), and an error handler was registered, that error handler is
+ called from within the errant API call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 11
+Instance 1̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+A C application can simply call the abort() or exit()
+ function after printing out or logging the error information.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , calling , make , interrupt , join , create , contacted , apply , connect , added , using , generate , perform , initiate , establish , get , via , automatically , logging , releasing , inform , sent , selecting , maintain , activated , arrange ,  , into , applied , pushes , during , after , sends , activate , necessary , speak , of , up , select , … , line , simply , destroy , generated , service , switch , associated , dedicated , operation , status ,  , used , various , to , can , ‘ ,  , functions , local , choose , commands , it , created , derive , be , an , another , within , the ,  , der , use , arguments , return , adjust , valid , software , fetch , with , from , release , modified , communicate , store ,  , registered , about , driver , tool , out , argument , notification , application , issuing , procedure , passed , replaces , receive , indicate , active , changing
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 18
+Instance 1̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.3.2 Initialization
+ static SceMi *
+ SceMi::Init(
+ int version,
+ SceMiParameters *parameters,
+ SceMiEC *ec=NULL );
+ 
+ This call is the constructor of the SCE-MI interface.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , line , argument , calling , method , operation , arguments , object , function , interface , pointer , instruction , functions , construct , generate , application , commands , select , library , service , file , apply ,  , software
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 21
+Instance 2̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.3.4 Message Input Port Proxy Binding
+ SceMiMessageInPortProxy *
+ SceMi::BindMessageInPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageInPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of input ports learned from the parameter file that is generated during
+ infrastructure linkage for one whose names match the transactorName and portName arguments.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , method , operation , called , application , line , instruction , calling , function , interface , argument , generate , object , software , construct , arguments , functions , shell , routine , service , void
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 23
+Instance 2̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.3.5 Message Output Port Proxy Binding
+ SceMiMessageOutPortProxy *
+ SceMi::BindMessageOutPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageOutPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of output ports learned from the parameter file that was generated during
+ infrastructure linkage for one whose names match the transactorName and portName argument.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , method , operation , called , application , line , instruction , calling , function , argument , interface , generate , object , software , construct , arguments , functions , routine , shell
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 30
+Instance 3̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.6.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageInPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageInPortBinding object originally furnished to the
+ SceMi::BindMessageInPortProxy() call that created this port proxy object (see 4.3.3.4 on page 66).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , argument , arguments , commands , called , file , calling , object , line , application , driver , interface , instance , function , apply , functions , operation , relocation , make , select , interrupt , layer , valid , create , logging , pointer , software , status , via , during , support , applied , shell , generate , generated , necessary , of , destroy , join , instruction , connect , created , request , speak , service , associated , description , routine ,  , library , message
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 31
+Instance 3̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Notice that no SceMiEC * error status object is passed to the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , function , calling , called , operation , interface
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 32
+Instance 3̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.7.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageOutPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageOutPortBinding object originally furnished to the
+ SceMi::BindMessageOutPortProxy() call that created this port proxy object (see 4.3.3.5 on page 67).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , argument , arguments , commands , called , file , calling , object , line , driver , application , instance , interface , function , apply , functions , operation , relocation , select , make , interrupt , valid , logging , create , pointer , layer , status , via , software , during , applied , support , generated , generate , shell , destroy , of , connect , necessary , join , speak , service , created , request , instruction , associated , provider , routine , ‘ , perform ,  , message , description , library
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 34
+Instance 3̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The Member State CIAs should call upon this service when issuing a new card to get
+ the computed search keys of the driver’s surname and first names, so to store them in
+ their local data store.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , upon , make , join , contacted , create , using , initiate , get , establish , derive , sent , inform , arrange , calling , proceed , added , interrupt , apply , … ,  , ‘ , sends , required , releasing , store , connect , when ,  , fetch , active , generate , perform , via , activated , maintain , with , should , dedicated ,  , automatically , tool , their , local , interaction , selecting , issuing , applied , speak , notification , contact , necessary , provides , into , verify , after
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 35
+Instance 3̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Instead of calling PutObjRec(), we will call OWLEmitData().
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , called , join , create , make , contacted , using , generate , will , get , speak , arrange , initiate , apply , … , interrupt , connect , establish , ‘
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 36
+Instance 3̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+$OWROOT/bld/cg/intel/386/c/386rgtbl.c
+ extern
+ 
+ hw_reg_set
+ 
+ FixedRegs() {
+ 
+ /************************************
+ return the set of register which may not be modified within this routine
+ */
+ 
+ hw_reg_set
+ 
+ fixed;
+ 
+ // ...
+ HW_CTurnOn( fixed, HW_EBX ); // PIC
+ return( fixed );
+ }
+ 
+ extern
+ 
+ hw_reg_set
+ 
+ AllCacheRegs() {
+ 
+ /***************************************
+ return the set of all registers that could be used to cache values
+ */
+ 
+ hw_reg_set all;
+ // ...
+ HW_CTurnOff( all, HW_EBX ); // PIC
+ return( all );
+ }
+ 
+ SciTech Software, Inc.
+ 
+ Open Watcom Linux Port
+ Compiler / Linker Software Requirements Specification
+ 
+ Page 36 of 55
+ 
+ Position-Independent Function Prologue
+ prologue:
+ 
+ .L1:
+ 
+ pushl
+ 
+ %ebp
+ 
+ movl
+ 
+ %esp, %ebp
+ 
+ subl
+ 
+ $80, %esp
+ 
+ pushl
+ 
+ %edi
+ 
+ pushl
+ 
+ %esi
+ 
+ pushl
+ 
+ %ebx
+ 
+ call
+ 
+ .L1
+ 
+ popl
+ 
+ %ebx
+ 
+ addl
+ 
+ $_GLOBAL_OFFSET_TABLE_+[.-.L1], %ebx
+ 
+ The call instruction pushes the absolute address of the next instruction onto the stack.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , switch , transmit , called , message , calling , monitor , answer , commands , select , relocation , communicate , item
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 38
+Instance 3̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The corresponding GNU assembler line is call function@PLT.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , select , called , shell , status , apply , commands , display , construct , operation , driver , line , message , function , make , argument , generate , support , pointer , interrupt , functions , record , access , programmer , interface
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 39
+Instance 3̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Gcc, nasm, and other Linux compilers typically generate the following:
+ e8 fc ff ff ff
+ 
+ call
+ 
+ somefunc
+ 
+ (0xfffffffc is the implicit addend for R386_PC32 relocation).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , ff , calling , binding , select , apply , destroy , called , commands , display , make , fc , line , argument , join , window , switch , return , interrupt , relocation , message , operation , create , description , via , arguments , status , release , generate , code , functions , necessary , parameters , selection ,  , procedure , object , static , perform , pointer , clearing , sequence , file , replacing , inform
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 41
+Instance 4̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Display window initialization
+ In order to initialize the library, programmer should call GUIWndInit() function.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , called , create , make , apply , generate , interrupt , join , via , functions , using , inform , added , necessary , perform , logging , connect , automatically , simply , applied ,  , programmer , maintain , line , can , selecting , select , contacted , arrange , application , get , will , operation , argument , arguments , driver , of , object , associated , from , the , valid , various , software , releasing , pushes , initiate , return , sent , sends , method , during , dedicated , after , speak , within , to , status , destroy , service , interface
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 42
+Instance 4̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+When ported, this function should make a call of gtk_window_new(), and apply parameters passed in
+ info.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , apply , programmer , operation , destroy , function , calling , selection , select , commands , relocation , shell , argument , instance , make , status , necessary , driver , called , display , create , interrupt , pointer , join , support , release , functions , out , version , arguments , construct , window , logging , ported , associated , exit
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 44
+Instance 4̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In GTK port, the function should call gtk_widget_destroy() for the given window or for the toplevel window if NULL.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , apply , join , interrupt , maintain , inform , generate , added , necessary , via , using , arrange , select , selecting , applied , get , automatically , functions , release , releasing , valid , programmer , connect , perform , logging , contacted , line ,  , return , initiate , establish , simply , can , of , arguments , application , pushes , associated , status ,  , operation , argument , destroy , an , derive , various , software , during , the , switch , … , dedicated , ‘ , to , tool , after , be , into ,  , generated , with , driver ,  , activated , within , object , sent , commands , sends , function , created ,  , will , adjust , corresponding , another , local , support , ported , speak , up , service , replaces , pointer , display ,  ,  , instance , replacing , modified , der , store , layer , different , passed , it , choose , verify , out , selected , used , transmit , searches , selection , confirm , from , is , parameters , indicate , shell , requiring , construct
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 45
+Instance 4̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_select() applied to a valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , apply , join , interrupt , maintain , inform , generate , added , necessary , via , using , arrange , select , selecting , applied , get , automatically , functions , release , releasing , valid , programmer , connect , perform , logging , contacted , line ,  , return , initiate , establish , simply , can , of , arguments , application , pushes , associated , status ,  , operation , argument , destroy , an , derive , various , software , during , the , switch , … , dedicated , ‘ , to , tool , after , be , into ,  , generated , with , driver ,  , activated , within , object , sent , commands , sends , function , created ,  , will , adjust , corresponding , another , local , support , ported , speak , up , service , replaces , pointer , display ,  ,  , instance , replacing , modified , der , store , layer , different , passed , it , choose , verify , out , selected , used , transmit , searches , selection , confirm , from , is , parameters , indicate , shell , requiring , construct
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 46
+Instance 4̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_select() applied to valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , generate , apply , interrupt , join , via , necessary , arrange , inform , select , functions , added , connect , argument , arguments , line , perform , maintain , get , using , valid ,  , logging , applied , programmer , destroy , return , operation , release , switch , contacted , application , of , commands , selecting , software , automatically , speak , status , function , created ,  , display , to , releasing , establish , initiate , ported , … , ‘ , pointer , be , driver , derive ,  , associated , object , tool , used ,  , during , support , the , parameters , generated , requiring , can , sent , instance , static , will , activated , replacing ,  , modified , selection , approach
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 47
+Instance 4̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , called , make , apply , interrupt , generate , various , functions , added , join , get , arrange , perform , selecting , contacted , using , via , connect , automatically , inform , logging , select , applied , pushes , destroy , used , initiate , generated , maintain , arguments , line , created , derive , establish , valid , to , of , speak , argument , different , sent , simply , be , can , … , driver , operation , replaces , store , sends ,  , switch , it , will , associated , return , tool , commands , during , the , necessary , support , choose , application ,  , an ,  , releasing , status , into , release , ‘ , searches , der , communicate , activated , software , about ,  , service , after
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 48
+Instance 4̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Instead of calling _wpi_getsystemmetrics() the function should call various GTK functions to get
+ different values.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , generate , apply , interrupt , join , via , necessary , arrange , inform , select , functions , added , connect , argument , arguments , line , perform , maintain , get , using , valid ,  , logging , applied , programmer , destroy , return , operation , release , switch , contacted , application , of , commands , selecting , software , automatically , speak , status , function , created ,  , display , to , releasing , establish , initiate , ported , … , ‘ , pointer , be , driver , derive ,  , associated , object , tool , used ,  , during , support , the , parameters , generated , requiring , can , sent , instance , static , will , activated , replacing ,  , modified , selection , approach
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 49
+Instance 4̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , apply , make , join , called , generate , interrupt , via , maintain , get , perform , logging , using ,  , arrange , line , inform , necessary , releasing , select , return , valid , release , connect , destroy , applied , initiate , added , contacted , speak , argument , automatically , arguments , functions , switch , of , selecting , commands , operation , establish , into , object , will , status , to , programmer , during , application , store , up , associated
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 50
+Instance 5̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should create a GtkMenu widget, and call GUITrackFloatingPopup.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , apply , generate , join , interrupt , via , functions , line ,  , maintain , application , perform , using , inform , added , of , simply , select , logging , necessary , arguments , automatically , can , software , object , argument , get , valid , connect , selecting , programmer , status , interface , corresponding , the , arrange , construct , pointer , associated , will , within , driver , applied , operation , be , dedicated , return , destroy , to , releasing , notice
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 51
+Instance 5̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The function should call GUIGetAbsRect().
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , make , create , called , apply , interrupt , join , via , generate , necessary , get , inform , switch , maintain , arrange , connect , return , using , select , programmer , perform , added , logging , contacted , arguments ,  , line , functions , argument , initiate , transmit , adjust , of , destroy , release , … , status , display , automatically , associated , confirm ,  , establish , commands , valid , replacing , selecting , operation , ‘ , communicate , support , generated , speak , function , tool , created , during , pointer , software , applied , sent , to , dedicated , 
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 52
+Instance 5̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The function should call gdk_window_get_children(), get the child's gui_window via
+ GUIFindWindowFromHWND, and call necessary callback.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , answer , sign , sent , ‘ , contacted , called , notification , speak , status , id , join , signal , initiate , connect , inform , calling , code , establish , priority , 
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 66
+Instance 6̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ Supplementary service
+ Calling Line Identification Presentation (CLIP)
+ 
+ Requirement
+ 
+ Notes
+ 
+ M
+ 
+ Note 1
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ Connected Line Identification Presentation (CoLP)
+ 
+ M
+ 
+ Note 1
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ Note 2
+ 
+ Call Forwarding on Mobile Subscriber Busy (CFB)
+ 
+ M
+ 
+ Note 3
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not Reachable (CFNRc)
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country (BOIC-exHC)
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming Outside the Home
+ PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ Unstructured Supplementary Service Data (USSD)
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ Enhanced Multi-Level Precedence and Pre-emption (eMLPP)
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ Note 4
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ Notes 4 and 5
+ 
+ Note 1 - Provide additional safety check for driver-controller communications
+ Note 2 - Can be used for train number conversion (see section 11)
+ Note 3 - To be used for call forwarding where there are multiple radios in the cab
+ Note 4 - When available - Specification underway
+ Note 5 - Used for the transfer of functional numbers (sender and receiver) and railway emergency call
+ confirmation messages
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 2-3: GSM supplementary services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 37
+ 
+ 2.5
+ 
+ Railway specific services
+ 
+ 2.5.1
+ 
+ The railway specific services to be supported are listed in table 2-4.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , number , message , answer , voice , signal , numbers , status , record , called , ‘ , contract , contacted , reply , communication , port , commands
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 80
+Instance 8̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Speech followed by data
+ 
+ Cab radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ M
+ M
+ M
+ M
+ M
+ M
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ General purpose
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ Operational
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ T - Transparent; NT - Non-transparent
+ 
+ Table 4-4: GSM bearer services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 47
+ 
+ 4.3.3
+ 
+ The following supplementary services, identified in section 2, are to be supported for
+ each type of mobile radio:
+ 
+ Supplementary service
+ 
+ Cab radio
+ 
+ General
+ purpose radio
+ 
+ Operational
+ radio
+ 
+ Calling Line Identification Presentation (CLIP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Connected Line Identification Presentation
+ (CoLP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on Mobile Subscriber Busy
+ (CFB)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not
+ Reachable (CFNRc)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country
+ (BOIC-exHC)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming
+ Outside the Home PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Unstructured Supplementary Service Data
+ (USSD)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Enhanced Multi-Level Precedence and Preemption (eMLPP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 4-5: GSM supplementary services to be supported
+ 
+ Page
+ 
+ 48
+ 
+ PSA167D006-15
+ 
+ 4
+ 
+ 4.3.4
+ 
+ Mobile equipment core specification
+ 
+ The following EIRENE features are to be supported for each type of mobile radio:
+ 
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Direct mode (section 15)
+ 
+ O
+ 
+ N/A
+ 
+ O
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ N/A
+ 
+ O
+ 
+ Multiple driver communications
+ (section 5)
+ 
+ M
+ 
+ N/A
+ 
+ N/A
+ 
+ Railway emergency calls
+ (section 13)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Table 4-6: EIRENE features to be supported
+ 
+ 4.3.5
+ 
+ If a Railway emergency call set up from an EIRENE radio is unsuccessful, the radio
+ shall automatically re-attempt the call setup until the call setup is successful, a retry
+ timer expires (duration 30 seconds, as specified in the [EIRENE FRS]) or the user
+ abandons the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , id ,  , contacted , ‘ , signal , speak , answer , connect , activated ,  , request , indication , initiate , status , validity , provider , called , mode , numbers , telephone , … , join , services , establish , priority , approach , sent ,  , selection , reply , select , notification , service , procedure , interrupt , calling , leader , commands , arrange , using , make , legitimacy , number , persons , package , volume , claims , community , members , destroy , instance , clearing , get , conversion ,  , handheld , command , messages , needs , verify , operations , permanent , relocation , answering , controllers , busy , communication , event , temporary , information , local , dedicated , team , line , radio , releasing
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 85
+Instance 8̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Call other drivers in the area
+ 
+ 5.3.3
+ 
+ On receipt of a ‘Call other drivers in area’ request, the radio shall initiate a group call
+ using the ‘all trains’ group identification (see section 9) with eMLPP priority level 2
+ (see section 10.2).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , mode , designation , procedure , ‘ , indication , notification ,  , signal , command , id , called , answer , answering , sign , iii , signs , messages , services
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 88
+Instance 8̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Each of the
+ other cabs on the train will be contacted using its functional number (registered by the
+ other drivers prior to the establishment of the call).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , speak , calling , contacted , connect , commands , called , join , ‘ , select , relocation ,  , instance , package , arrange , status , interrupt , line , selection , id , apply , destroy ,  , driver , approach , request , access , make , release , claims , provider , record , service , validity ,  , get , necessary , local , … , operation , support , answer , added , requirements , sent , reply , generate , legitimacy , numbers , during , conversion , telephone , via , releasing , argument , create , out , procedure , applied , dedicated , inputs ,  , initiate , using , notification , another , needs , communication , into , 
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 93
+Instance 9̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 57
+ 
+ Call other authorised users
+ 5.3.11
+ 
+ The Cab radio shall be capable of being used as a standard GSM telephone, such that
+ the driver is able to call any valid number subject to closed user group, call barring or
+ other restrictions.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , request , called , answer , reply , services , connection , connect
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 97
+Instance 9̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Emergency access
+ 
+ Page
+ 
+ 60
+ 
+ PSA167D006-15
+ 
+ 5
+ 
+ 5.5.5
+ 
+ Cab radio
+ 
+ Emergency access shall be provided to initiate the following call: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Emergency call number
+ 
+ Group call
+ 
+ 0
+ 
+ Functional number
+ 
+ Table 5-2: Call types requiring MMI emergency access
+ 
+ Priority access
+ 5.5.6
+ 
+ Priority access shall be provided to initiate the following: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Primary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Secondary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Power supply controller
+ (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Other drivers in area
+ 
+ Group call
+ 
+ 2
+ 
+ Functional number
+ 
+ Other drivers on same
+ train
+ 
+ Point-to-point
+ (Multi Party)
+ 
+ 3
+ 
+ Functional number
+ 
+ Chief conductor
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ (*) For these destinations, see the requirement below.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , commands , called , status , calling , contacted , window , line , support , interrupt , answer , access , driver , speak , message , port , communication , number , tools , operation , function , ports , shell , apply , record
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 111
+Instance 1̲1̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Table 5A-1: Call arbitration rules
+ 
+ Page
+ 
+ 74
+ 
+ PSA167D006-15
+ 
+ 5A
+ 
+ 5A.2
+ 
+ Handling of calls
+ 
+ Call termination of outgoing calls table
+ 
+ Type of call
+ 
+ Replacing handset
+ 
+ Clearing call
+ 
+ Notes
+ 
+ Point-to-point
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Voice Broadcast call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Group call (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call (other
+ drivers same train)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2)
+ 
+ Voice Group call
+ (emergency)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2) (3)
+ 
+ (1)
+ (2)
+ (3)
+ 
+ Action by the driver on using the "Emergency", "Intercom" or "Public Address" functions has the same
+ effect as activating the ‘Call clear’ procedure
+ If the driver activates the "Intercom" or "Public Address" procedures, the emergency call is
+ transferred to the loudspeaker.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , procedure ,  , number , ‘ , contacted , answer , connect , request , id , numbers , mode
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 127
+Instance 1̲2̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In order to call a particular
+ locomotive, it shall be possible to call a number associated with the tractive
+ unit'
+ s stock number.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , speak , id , called , commands , contacted , numbers , sent , connect , number , request , calling , status , answer , provider , telephone , reply , ports , line , signal , claims
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 151
+Instance 1̲5̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 14.2.2
+ 
+ If a shunting group ID is activated, the operational radio shall proceed to re-establish
+ the group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+called
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 154
+Instance 1̲5̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Table 14-1: Operational radio “regular shunting mode ON” procedure
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 125
+ 
+ 14.2.4
+ 
+ After the “regular shunting mode ON” procedure has been completed, the procedures
+ shown in table 14-2 and 14-3 shall be used to register the shunting leader and shunting
+ members to a dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 155
+Instance 1̲5̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Activate the selected group ID and set up the
+ dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , number , designation , id , name , code , command , sign , answer , calling
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 157
+Instance 1̲5̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Activate dedicated group ID and join the group
+ call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , calling , function
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 160
+Instance 1̲6̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+User Action
+ 
+ Application action
+ 
+ Inform all members to deregister their
+ member functional numbers before
+ releasing the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 161
+Instance 1̲6̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Release dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , id , contacted ,  , signal , speak , activated , ‘ , connect , initiate , sent , commands , called ,  , status , priority , join , establish , request , numbers , answer , information , dedicated , notification , … , operational , selection , calling , interrupt , provider , leader ,  , mode , claims , line , select , members , requirements , relocation , team , indication , approach , arrange , argument , make , telephone , using , release , package , instance , validity ,  , conversion , local , procedure , signalling , service , releasing , temporary , messages , operation , arguments
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 163
+Instance 1̲6̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In the meantime, all other shunting team
+ members remain active within the dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , answer , status , id ,  , establish , join , selection ,  , ‘ , initiate , time , select , make , called , signal , clearing , activated , necessary , declaration , sign , switch , validity , event , contacted , priority , mode , connect , indication , test , numbers , operational , notification , communication , dedicated , apply , number , code , destroy , interrupt , added , speak , arrange , regular , calling , release , releasing , sequence , … , adjust , signalling , leader , critical , approach , volume ,  , sent , verify , cancel , procedure , conversion , team , assurance , command , up , name , inform , temporary , using , supervisory , designation , community , members , confirm , check , permanent , feature , perform , language , an , commands , another , out , date , clear , retrieve , profile , direct , completion , into , self , synthesis
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 165
+Instance 1̲6̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Maintain dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , called , status , id , line , speak , select , contacted , join , interrupt , priority , commands , apply
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 167
+Instance 1̲6̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 14.3.2
+ 
+ If a shunting group ID is activated, the Cab radio shall proceed to re-establish the
+ group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 170
+Instance 1̲7̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Activate dedicated group ID and join the group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+voice
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 171
+Instance 1̲7̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 14.4.2
+ 
+ The common shunting group provides a point of contact for leaders and team
+ members to set up a dedicated shunting group call for their shunting operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , answer , sign , sent , ‘ , contacted , called , notification , speak , status , id , join , signal , initiate , connect , inform , calling , code , establish , priority , 
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 173
+Instance 1̲7̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+17
+ 
+ Version 1.0
+ 
+ EUROPEAN INTEGRATED RAILWAY RADIO
+ ENHANCED NETWORK
+ 
+ UIC Project EIRENE
+ Functional Requirements Specification
+ 
+ Source:
+ Date:
+ Reference:
+ Version:
+ No of pages:
+ 
+ GSM-R Functional Group
+ 17 May 2006
+ PSA167D005
+ 7
+ Cover + 93 pages
+ 
+ Document History
+ 
+ Version
+ 
+ Date
+ 
+ Details
+ 
+ 6.0
+ 
+ 21 October 2003
+ 
+ O-9000 (FCR 00-87.2)
+ O-9001 (FCR 02-97.2)
+ O-9002 (FCR 01-98.1)
+ O-9003 (FCR 02-103.1)
+ 
+ 7.0
+ 
+ 29 March 2006
+ 
+ O-9018
+ O-9027
+ O-9028
+ O-9031
+ O-9043
+ O-9044
+ O-9054
+ O-9059
+ O-9061
+ O-9072
+ O-9077
+ O-9079
+ O-9087
+ O-9090
+ O-9098
+ 
+ 7
+ 
+ PSA167D005-7
+ 
+ 17 May 2006
+ 
+ Approved by GSM-R
+ Operators Group,
+ Functional Group and
+ Industry Group
+ 
+ Page
+ 
+ 1
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ Document History
+ 
+ 1
+ 
+ List of abbreviations
+ 
+ 5
+ 
+ List of definitions
+ 
+ 7
+ 
+ 1
+ 1.1
+ 1.2
+ 1.3
+ 1.4
+ 1.5
+ 
+ Introduction
+ General
+ Scope
+ Applicability
+ System overview
+ Structure of the specification
+ 
+ 13
+ 13
+ 13
+ 14
+ 14
+ 16
+ 
+ 2
+ 2.1
+ 2.2
+ 2.3
+ 2.4
+ 2.5
+ 
+ Network requirements
+ Introduction
+ Voice services
+ Data services
+ Call related services
+ Railway specific services
+ 
+ 17
+ 17
+ 17
+ 18
+ 20
+ 22
+ 
+ 3
+ 3.1
+ 3.2
+ 3.3
+ 3.4
+ 3.5
+ 
+ Network configuration
+ Introduction
+ Coverage and performance
+ Network interconnection
+ Call set-up time requirement
+ Broadcast and group call areas
+ 
+ 23
+ 23
+ 23
+ 23
+ 23
+ 24
+ 
+ 4
+ 4.1
+ 4.2
+ 4.3
+ 
+ Mobile equipment core specification
+ Introduction
+ Services and facilities
+ Environmental and physical requirements
+ 
+ 27
+ 27
+ 27
+ 29
+ 
+ 5
+ 5.1
+ 5.2
+ 5.3
+ 5.4
+ 5.5
+ 5.6
+ 5.7
+ 5.8
+ 5.9
+ 5.10
+ 
+ Cab radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ Driver man-machine interface
+ Deleted
+ Deleted
+ Driver safety device interface
+ Train-borne recorder
+ Control/command interfaces
+ Other interfaces
+ 
+ 31
+ 31
+ 31
+ 46
+ 46
+ 48
+ 48
+ 48
+ 48
+ 49
+ 49
+ 
+ 6
+ 6.1
+ 6.2
+ 6.3
+ 
+ General purpose radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ 
+ 51
+ 51
+ 51
+ 54
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 1
+ 
+ Page
+ 
+ 6.4
+ 
+ Man-machine interface
+ 
+ 55
+ 
+ 7
+ 7.1
+ 7.2
+ 7.3
+ 7.4
+ 
+ Operational radio
+ Introduction
+ Operational radio functions
+ Environmental and physical requirements
+ Operational radio man-machine interface
+ 
+ 57
+ 57
+ 57
+ 62
+ 63
+ 
+ 8
+ 8.1
+ 8.2
+ 8.3
+ 8.4
+ 8.5
+ 
+ Controller equipment specifications
+ General
+ Primary controller’s MMI
+ Other controllers’ MMIs
+ Controller terminal interface
+ Environmental specification
+ 
+ 65
+ 65
+ 65
+ 66
+ 66
+ 66
+ 
+ 9
+ 9.1
+ 9.2
+ 9.3
+ 9.4
+ 9.5
+ 
+ Numbering plan
+ General
+ Numbering plan requirements
+ Telephone numbers
+ Group numbers
+ Calls from external networks to the EIRENE network
+ 
+ 67
+ 67
+ 67
+ 68
+ 69
+ 69
+ 
+ 10
+ 10.1
+ 10.2
+ 10.3
+ 10.4
+ 10.5
+ 10.6
+ 
+ Subscriber management
+ Introduction
+ Allocation of priorities
+ Call restriction
+ Group membership
+ Network selection list
+ Access matrix
+ 
+ 71
+ 71
+ 71
+ 72
+ 73
+ 73
+ 73
+ 
+ 11
+ 11.1
+ 11.2
+ 11.3
+ 11.4
+ 
+ Functional numbering and location dependent addressing
+ General
+ Functional addressing
+ Functional addressing registration procedures principles
+ Location dependent addressing
+ 
+ 75
+ 75
+ 75
+ 77
+ 78
+ 
+ 12
+ 12.1
+ 12.2
+ 12.3
+ 12.4
+ 
+ Text messaging
+ Introduction
+ Definition of the service
+ Performance
+ Interface
+ 
+ 81
+ 81
+ 81
+ 81
+ 81
+ 
+ 13
+ 13.1
+ 13.2
+ 13.3
+ 13.4
+ 
+ Railway emergency calls
+ Introduction
+ Management of Railway emergency calls
+ Receipt of Railway emergency calls
+ Confirmation of Railway emergency calls
+ 
+ 83
+ 83
+ 83
+ 85
+ 85
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ 14
+ 14.1
+ 14.2
+ 14.3
+ 14.4
+ 14.5
+ 
+ Shunting mode
+ Introduction
+ Functional requirements
+ Group membership
+ Link assurance signal
+ Constraints
+ 
+ 87
+ 87
+ 87
+ 88
+ 89
+ 90
+ 
+ 15
+ 15.1
+ 15.2
+ 
+ Direct mode
+ Introduction
+ Functional requirements
+ 
+ 91
+ 91
+ 91
+ 
+ A
+ 
+ References
+ 
+ 93
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 3
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 4
+ 
+ PSA167D005-7
+ 
+ List of abbreviations
+ 
+ CENELEC
+ 
+ European Committee for Electrotechnical Standardisation
+ 
+ CTS
+ 
+ Centralised Train Signalling
+ 
+ DSD
+ 
+ Driver Safety Device
+ 
+ EIRENE
+ 
+ European Integrated Railway Radio Enhanced Network
+ 
+ EMC
+ 
+ Electromagnetic Compatibility
+ 
+ ERTMS
+ 
+ European Rail Traffic Management System
+ 
+ ETCS
+ 
+ European Train Control System
+ 
+ GPS
+ 
+ Global Positioning System
+ 
+ MMI
+ 
+ Man-Machine Interface
+ 
+ PTT
+ 
+ Push-To-Talk
+ 
+ RBC
+ 
+ Radio Block Centre
+ 
+ TCS
+ 
+ Train Control System
+ 
+ UIC
+ 
+ Union Internationale des Chemins de Fer
+ 
+ VBS
+ 
+ Voice Broadcast Service
+ 
+ VGCS
+ 
+ Voice Group Call Service
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 5
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 6
+ 
+ PSA167D005-7
+ 
+ List of definitions
+ 
+ Balise
+ A passive or active device normally mounted in proximity to the track for
+ communications with passing trains.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , function , message , commands , instance , request , calling , interrupt , line , driver , shell
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 181
+Instance 1̲8̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+1.4
+ 
+ System overview
+ 
+ 1.4.1
+ 
+ Extent of specification
+ 
+ 1.4.1.1
+ 
+ To meet the functionality and performance requirements of EIRENE, the following
+ system services are required:
+ −
+ 
+ Page
+ 
+ 14
+ 
+ voice services:
+ − point-to-point voice calls;
+ − public emergency calls;
+ − broadcast voice calls;
+ − group voice calls;
+ − multi-party voice calls;
+ 
+ PSA167D005-7
+ 
+ 1
+ 
+ Introduction
+ 
+ −
+ 
+ data services:
+ − text message bearer service;
+ − bearer service for general data applications;
+ − bearer service for automatic fax;
+ − bearer service for train control applications;
+ 
+ −
+ 
+ call related services:
+ − closed user group;
+ − multi-level priority and pre-emption;
+ − advanced call handling, such as call hold, call transfer, call queuing, etc;
+ − auto answer service;
+ − barring incoming or outgoing calls;
+ − call supervisory indications;
+ − charging information;
+ 
+ −
+ 
+ railway specific applications:
+ − support for functional addressing by train, engine or coach number or
+ functional number;
+ − call specific persons depending upon user location;
+ − specific mode for shunting operations providing a link assurance signal;
+ − multiple driver communications within the same train;
+ − railway operational emergency calls;
+ 
+ −
+ 
+ direct mode facility for local set-to-set operation without network infrastructure;
+ 
+ −
+ 
+ railway specific features:
+ − set-up of urgent or frequent calls through single keystroke or similar;
+ − display of functional identity of calling/called party;
+ − fast and guaranteed call set-up;
+ − seamless communication support for train speeds up to 500 km/h;
+ − automatic and manual test modes with fault indications;
+ − control over mobile network selection;
+ − control over system configuration.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , speak , calling , commands , telephone
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 193
+Instance 1̲9̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ −
+ 
+ A mechanism shall be provided by the system to arbitrate between those users
+ wishing to speak within the group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , record , display , voice , position , message
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 195
+Instance 1̲9̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(O)
+ 
+ 2.3.12
+ 
+ Where fax functionality is provided, it shall be possible to interrupt the fax to make or
+ receive a high priority voice or data call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , window , record , message , display , device , release , database
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 196
+Instance 1̲9̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 2.4
+ 
+ Call related services
+ 
+ 2.4.1
+ 
+ The EIRENE network will support the following call related services:
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ display of identity of called/calling user; (M)
+ restriction of display of called/calling user; (O)
+ priority and pre-emption; (M)
+ closed user group; (M)
+ call forwarding; (M)
+ call hold; (M)
+ call waiting; (M)
+ charging information; (O)
+ call barring.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , ‘ , contacted , speak , called , connect ,  ,  , request ,  , out , … , sent , calling , notification
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 218
+Instance 2̲1̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 4.2
+ 
+ Services and facilities
+ 
+ 4.2.1
+ 
+ The following voice telephony services, identified in section 2, are to be supported for
+ each type of mobile radio:
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational radio
+ 
+ Point-to-point voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Public emergency voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Broadcast voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Group voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Multi-party voice calls
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Table 4-1: Voice telephony services to be supported
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 27
+ 
+ 4.2.2
+ 
+ The following data applications, identified in section 2, are to be supported for each
+ type of mobile radio:
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Text message service
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ General data applications
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Automatic fax
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Train control applications
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Table 4-2: Data applications to be supported
+ 
+ 4.2.3
+ 
+ The following call related services are to be supported for each type of mobile radio:
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Display of calling user identity
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Display of called user identity
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Restriction of display of user identity
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ EIRENE closed user group
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ - unconditional
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ - if user busy
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ - if no reply
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ - if not reachable
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call hold
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call waiting
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Display of call charging information
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call barring
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Auto answer service
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Call supervisory information
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call forwarding:
+ 
+ Table 4-3: Call related features to be supported
+ 
+ Page
+ 
+ 28
+ 
+ PSA167D005-7
+ 
+ 4
+ 
+ 4.2.4
+ 
+ Mobile equipment core specification
+ 
+ The following EIRENE features are to be supported for each type of mobile radio:
+ 
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Location dependent addressing
+ (section 11)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Direct mode (section 15)
+ 
+ O
+ 
+ N/A
+ 
+ O
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ N/A
+ 
+ O
+ 
+ Multiple driver communications within the
+ same train (section 5)
+ 
+ M
+ 
+ N/A
+ 
+ N/A
+ 
+ Railway emergency calls
+ (section 13)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Table 4-4: EIRENE specific features to be supported
+ 
+ 4.3
+ 
+ Environmental and physical requirements
+ 
+ 4.3.1
+ 
+ This sub-section defines the core environmental and physical requirements for all
+ EIRENE mobile equipment.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , connect , telephone , request , operation , speak , calling , commands , sent , line , id , provider
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 219
+Instance 2̲1̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 5.2.1.2
+ 
+ The following functions will be provided:
+ Driver call-related functions:
+ −
+ 
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ call controller: (M)
+ − primary controller;
+ − secondary controller;
+ − power supply controller;
+ call other drivers in the area; (M)
+ send Railway emergency call; (M)
+ confirm receipt of Railway emergency call; (M)
+ communicate with other drivers on same train; (M)
+ call train staff; (M)
+ call other authorised users; (M)
+ receive incoming voice calls; (M)
+ terminate calls; (M)
+ receive text messages; (M)
+ enter/leave shunting mode; (M)
+ enter/leave direct mode; (O)
+ monitor calls to other on-train users/devices; (M)
+ forward calls/cancel call forwarding to/from driver handheld; (O)
+ 
+ Other driver-related functions:
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ powering up radio; (M)
+ switch radio MMI on and off; (M)
+ select language; (M)
+ adjust loudspeaker volume; (M)
+ select mobile radio network; (M)
+ register and deregister train number; (M)
+ register and deregister on-train users; (O)
+ register and deregister stock number; (M)
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 31
+ 
+ −
+ −
+ −
+ 
+ store/retrieve numbers and their details; (M)
+ invoke supplementary services; (M)
+ invoke tests; (M)
+ 
+ Other Cab radio functions:
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ automatic connection of incoming calls to appropriate on-train users or devices
+ (conductor, public address system, data systems, etc); (M)
+ automatic establishment of outgoing calls initiated by on-train users or devices; (M)
+ automatic handling of calls of varying priorities; (M)
+ send to the controller(s) a signal on activation of driver safety device; (M)
+ transmit Railway emergency call event indication to ‘train-borne recorder’; (M)
+ run-time diagnostics.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , display , calling , release , called , switch , select , replace , message , window , interrupt , join , destroy
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 222
+Instance 2̲2̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ Call controller
+ 
+ 5.2.2.1
+ 
+ It shall be possible for the driver to initiate a call to any of the following types of
+ controller with a minimum of driver action being required (eg a single keystroke): (M)
+ −
+ −
+ −
+ 
+ 5.2.2.2
+ 
+ Page
+ 
+ primary controller;
+ secondary controller;
+ power supply controller.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , speak , telephone , request , id , sent , notification , radio , service , line , calling , commands , connect , activated , ‘ , signal , selected , message
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 228
+Instance 2̲2̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+This shall also
+ indicate if the called party was busy or if the network could not connect the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , telephone , sent , speak , connect , line , request , radio , calling , id , notification
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 233
+Instance 2̲3̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 5.2.2.16 If the train moves out of the group call area whilst the call is in progress, an audible
+ and visual indication of the loss of call shall be provided to the driver.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , id ,  , ‘ , connect , called , speak , signal , answer , telephone , sent , activated ,  , numbers , notification , provider , initiate , join , establish , line , calling , request , status , leader ,  , service , indication , information , … , commands , claims , services , procedure , get , priority , communicate , number , interrupt , radio , members , package , using , mode , make , messages , approach
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 238
+Instance 2̲3̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 5.2.2.23 If the train moves out of the call area whilst the call is in progress, it will leave the call
+ and an audible and visual indication of the loss of call shall be provided to the driver.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , id , radio , telephone , called , sent , signal , answer , request , speak , initiate
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 251
+Instance 2̲5̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 5.2.2.37 For calls between a controller and the lead cab, it shall be possible to add the controller
+ to the multi-driver call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , communicate , release , inform , join , maintain , speak
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 252
+Instance 2̲5̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In the latter case, the controller is automatically added into the multidriver call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , calling , telephone , sent , service , line , operation , connect , speak , join , interrupt , request , commands , status , id , generate , application
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 253
+Instance 2̲5̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Call train staff
+ 5.2.2.38 It shall be possible for the driver to contact members of on-board train staff using a
+ point-to-point voice call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted ,  , procedure , called , speak , join , signal , commands , ‘ , id , messages , sent , designation , status , answer , conversion , connect , line , calling , activated , request , initiate , legitimacy , interrupt , establish , clearing , indication , answering , mode , approach , signalling , notification , numbers , sign , make , transfer , binding , using , selection , description , termination , inform , select , communicate , claims , providing , services
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 254
+Instance 2̲5̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Call other authorised users
+ 5.2.2.42 The Cab radio shall be capable of being used as a standard telephone, such that the
+ driver is able to call any valid number subject to pre-defined call restrictions.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , telephone , connect , calling , sent
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 274
+Instance 2̲7̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 5.2.2.74 The driver shall be able to terminate communications (voice or data) by selecting
+ another call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , number , numbers , signal , answer , id , contacted , status , speak , sign , called , connect , reply , priority , ‘ ,  , commands , voice , operations , sent , procedure , provider , request , users , time , telephone , interrupt , communication , message , establish , calling , needs , operational , controllers , subscribers , volume , activated , join , communications , conductor , mode , initiate , information , persons , answering , event , signalling , record
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 288
+Instance 2̲8̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 6.2.1.2
+ 
+ The following functions will be provided:
+ Call related functions
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ call authorised users (including controllers); (M)
+ send Railway emergency calls; (O)
+ receive Railway emergency calls; (O)
+ receive incoming calls; (M)
+ group and broadcast calls; (M)
+ terminate calls; (M)
+ 
+ Other functions
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 6.2.2
+ 
+ switch radio on and off; (M)
+ select language; (M)
+ select mobile radio network; (M)
+ adjust loudspeaker volume; (M)
+ register and deregister functional numbers; (M)
+ store/retrieve numbers and their details; (M)
+ computer interface.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , ‘ ,  , called , indication , answer , contacted , procedure , id , mode , messages , join , signal , 
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 289
+Instance 2̲8̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(O)
+ 
+ Call related functions
+ Call authorised users
+ 
+ 6.2.2.1
+ 
+ The General purpose radio shall be capable of use as a standard telephone, such that
+ the user is able to call any valid number subject to call restrictions enforced by the
+ network.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , ‘ , indication ,  , answer , connect , called , sent , numbers , id , speak , notification , signal , initiate , telephone , join , activated , establish , status , number ,  , request , sign , reply , community , interrupt , initiated , provider , arrange , information , … , messages ,  , mode , verify , event , procedure , make , validity , get , commands , persons , local , priority , members , communication , using , via , inform , confirm , select
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 306
+Instance 3̲0̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 7.2.1.2
+ 
+ The following functions will be provided:
+ Call related functions
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ call authorised users; (M)
+ call controller; (M)
+ send Railway emergency calls; (M)
+ receive Railway emergency calls; (M)
+ receive incoming calls; (M)
+ group and broadcast calls; (M)
+ terminate calls; (M)
+ shunting mode communications; (O)
+ enter/leave direct mode; (O)
+ 
+ Other functions
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 7.2.2
+ 
+ switch radio on/off; (M)
+ select language; (M)
+ select mobile radio network; (M)
+ adjust loudspeaker volume; (M)
+ register and deregister functional number; (M)
+ store/retrieve numbers and their details; (M)
+ computer interface.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , contacted , calling , connect
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 309
+Instance 3̲0̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The number of the controller selected shall then be used
+ to establish the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called , speak , telephone , request , operation , sent , connect , commands , calling
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 337
+Instance 3̲3̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 71
+ 
+ UIC Priority
+ 
+ Automatic
+ answering*
+ 
+ Pre-emption
+ (of)
+ 
+ Railway emergency
+ 
+ Y
+ 
+ Control-command
+ (safety) and below
+ 
+ Control-command (safety)
+ 
+ Y
+ 
+ Public emergency,
+ group calls between
+ drivers in the same
+ area and below
+ 
+ Public emergency and group calls
+ between drivers in the same area
+ 
+ Y
+ 
+ Railway operation,
+ Control-command
+ information and
+ below
+ 
+ Railway operation
+ (eg calls from or for drivers and
+ controllers) and Control-command
+ information
+ 
+ Y**
+ 
+ Railway information
+ and below
+ 
+ N
+ 
+ -
+ 
+ Railway information and all other
+ calls
+ *
+ **
+ 
+ Automatic call answering applies only to voice calls
+ Mandatory for Cab radio, optional for other user equipment
+ Table 10-1: Allocation of priorities
+ 
+ 10.2.3
+ 
+ The lowest priority ongoing call shall be pre-empted before that of a higher priority.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , record , speak , calling , called , status , contacted , device , line , driver , ports , interrupt , connect , commands , window , message , requirements , migration , release , priority , position , support , shell , access , join
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 354
+Instance 3̲5̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Train emergency call
+ 
+ 13.1.6
+ 
+ The Train emergency call shall be sent to all drivers and controller(s) within an area,
+ which is pre-defined to meet operational requirements.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , id , contacted , called , sent , signal , line ,  , ‘ , calling , initiate , notification , status , join , activated ,  , speak , mode , telephone , answer , establish , connect , messages , make , priority , using , service , numbers , procedure , package , provider , services , commands , information , radio , leader , interrupt ,  , … , select , get , number , command , dedicated , request , destroy , inform , release , indication , approach
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 362
+Instance 3̲6̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 13.2.2.3i During this period the user shall be provided with an audible and visual indication
+ that the system is trying to connect the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , designation , mode , ‘ , procedure ,  , description , signal , called , name , messages , answering ,  , answer
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 363
+Instance 3̲6̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 13.2.2.3ii After the 30 second period, if the connection was unsuccessful, the system shall
+ provide another audible and visual indication that it was unable to connect the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , id , contacted , request , activated , signal , called , speak , answer , sent , connect , ‘
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 380
+Instance 3̲8̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The shunting leader can then choose the moment when he takes or rejects the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , prepares , request , ‘ , arrange , notification , validity , join , documentation , initiate , prove , initiated , called , confirm , permanent , sent ,  , requested , awarding , sequence
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 381
+Instance 3̲8̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+14.4.5
+ 
+ The link assurance signal shall be deactivated upon receipt of a shunting emergency
+ call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , awarding , conform , request , claims , requested , called , prove , ‘ , needs , speak , provider , join , operator , approach , notification , at , another , validity , releasing , commands , arrange , inputs , temporary , requirements , fetch , selecting , sent , contract , local
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 383
+Instance 3̲8̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Figure 1: Generic status quo picture of public tendering procedures
+ The procedure can be described as follows: A Contracting Authority prepares a call for tender
+ based on a set of documents, usually consisting of a) the publication of a contract notice b) the tender
+ contract documentation c) the (technical) specifications, d) additional documents.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , join , inform , called , arrange , confirm , create , make , releasing , sent , initiate , apply , verify , derive , calling , necessary , prepares , request , sends , transmit , maintain , get , cancel , prove , establish
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 384
+Instance 3̲8̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+•
+ 
+ VCD systems provide single point of contact to attestations from public sources and information
+ necessary to prove conformance to a given call for tender.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 386
+Instance 3̲8̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Create a tender-specific VCD Package through interconnection of VCD and call for tender;
+ 4.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , request , receipt , sent , releasing
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 387
+Instance 3̲8̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Table 1: Major outcomes of Stage 1
+ Outcome
+ 
+ Approach
+ 
+ Benefit
+ 
+ Superset or
+ evidences: Basic
+ semantic
+ interoperability
+ model of
+ European
+ criteria and
+ evidences
+ available in a
+ Member State
+ 
+ Mapping between
+ national attestations,
+ national criteria of
+ qualitative selection and
+ exclusion and “European”
+ criteria according to
+ articles 45-50 of directive
+ 2004/18/EC
+ 
+ Subset of
+ evidences:
+ Formal
+ representation of
+ relevant criteria
+ and evidences
+ of a particular
+ call for tender
+ 
+ Relevant criteria and
+ evidences should be
+ specified either in the call
+ for tender or should be
+ directly retrievable from
+ the contracting authority.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , prepares , requested , notification , called , claims , description
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 389
+Instance 3̲8̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+EC
+ approval
+ Figure 8: Main actors and functions in public tendering foreseen in stage 1 – pre-VCD mapping
+ A contracting authority sends a notification on a Call for Tender to a Publication body that publishes
+ the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , request , arrange , ‘ , approach , awarding , join , validity , speak , claims , conform , instance , prove , selection , requested ,  ,  , operator ,  , fill , releasing , at , called , id , …
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 390
+Instance 3̲9̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The Call for Tender contains the definition of evidences and the specific criteria on qualitative
+ selection and exclusion that are relevant to this particular call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , awarding , requested , request
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 391
+Instance 3̲9̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+2.2.3.11 Define the interaction among Publication Body and Contracting Authority
+ In order to derive sufficient mapping information the economic operator has to provide the criteria that
+ are relevant to a particular call for tender.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , request , awarding , issuing , requested , temporary , called , provider , arrange , ‘ , id , contacted , activated , notification , validity , releasing ,  , sent , selection , local , connect , speak , selecting
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 392
+Instance 3̲9̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The overall procedure would be simplified dramatically when
+ the relevant criteria for a particular call for tender could be fetched either from a publication body or
+ directly from the contracting authority.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , receipt , request , sent , releasing , awarding , issuing
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 393
+Instance 3̲9̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Therefore it would be
+ 2009-05-19, Version 1.0 – pending EC approval
+ 
+ PEPPOL Deliverable D2.1:
+ page 55 of 127
+ Functional and non-functional requirements specification for the VCD,
+ including critical synthesis, comparison and assessment of national vs. pan-European needs
+ 
+ important that the evidence requested is valid at the time of awarding or when the call for tender is
+ closed.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 394
+Instance 3̲9̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+We assume that the
+ attestation must be valid when the call for tender is closed instead of pre-serving permanent validity of
+ attestations at the temporary storage of the national VCD service provider.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , awarding , request , called , provider , temporary , join , speak , releasing , commands , local , sent , connect , reply , validity
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 395
+Instance 3̲9̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+3.1.2.8 Specification of subset of evidences and related criteria by the contracting authority
+ 
+ Description
+ A contracting authority sends a notification on a Call for Tender to a Publication body that publishes
+ the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , arrange , inform ,  , necessary , ‘ , make , join , verify , fill , confirm , … , instance , called ,  , name , initiate ,  , release , derive , define ,  , approach , description , requiring , apply , retrieve , notification , facility , create , select , validity , get , destroy , request , critical , implement
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 396
+Instance 3̲9̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Measurement
+ The evaluation of relevant legal regulations
+ 3.3.2.4 Legal effect of subset criteria and evidences specified by the contracting authority
+ Description
+ 
+ EC
+ 
+ A contracting authority sends a contract notice to a Publication body that publishes the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , initiate , … , match , derive , requiring , immediate , claims , establish ,  , called , ‘ , inform , speak , provides , dedicated , sent , serving , make , join , arrange , confirm , requested , with , do
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 398
+Instance 3̲9̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Thus the VCD system will be primary a tool for the economic operator to arrange a VCD package
+ instance which is conform according to the requirements stated in particular call for tender which he
+ can fill through additional inputs.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , sign , answer , number , code , registration
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 399
+Instance 3̲9̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+public or
+ private) and select his abilities to…
+ 
+ Type of
+ legitimacy
+ 
+ EC
+ 
+ [set public rules/laws](high)
+ 
+ [implement public rules/laws](medium)
+ [verify accordance to public rules/laws](medium)
+ [obey public rules/laws ](low)
+ Urgency is the degree to which stakeholder claims call for
+ immediate attention and participation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , sign , flag
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 400
+Instance 4̲0̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+WARC Tools Phase III Functional Requirements Specification
+ 
+ 4
+ 
+ FR 6 — The migration workflow shall be able to call external tools and services (e.g., database queries,
+ shell commands, web service).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+answer
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 401
+Instance 4̲0̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+C
+ 
+ ers:LOG
+ 
+ 22a
+ 
+ Logbook number
+ 
+ attribute
+ 
+ GBRLOGNO
+ 
+ ers:LOG
+ 
+ 22b
+ 
+ Sequence within logbook number
+ 
+ attribute
+ 
+ GBRLOGSE
+ Q
+ 
+ ers:LOG
+ 
+ 25
+ 
+ Vessel's Community fleet register
+ (CFR) number
+ 
+ attribute
+ 
+ IR
+ 
+ ers:LOG
+ 
+ 25a
+ 
+ RSS Number (unique identifier for
+ UK vessel)
+ 
+ attribute
+ 
+ GBRRSSNO
+ 
+ Copyright © 2009,2010 UK Fisheries Administrations All Rights Reserved
+ PROTECT – COMMERCIAL [when completed]
+ 
+ C
+ 
+ C
+ 
+ O
+ 
+ C
+ 
+ Support
+ Y|N|N/A
+ 
+ Notes
+ 
+ UK Fishing Vessel’s Electronic Logbook Functional Requirement Specification
+ [including Product Profile & Self Declaration Form]
+ Page 21 of 49
+ 
+ Version 1.2
+ Item
+ 
+ Ref
+ No
+ 
+ ers:LOG
+ ers:LOG
+ 
+ 26
+ 27
+ 
+ Feature Element or attribute name
+ Vessel’s main identification
+ Vessel’s external identification
+ 
+ XML
+ Syntax
+ 
+ Code
+ 
+ Description and content
+ 
+ Status
+ 
+ attribute
+ attribute
+ 
+ RC
+ XR
+ 
+ International radio call sign
+ Side (hull) registration number of the
+ vessel
+ Name of the vessel
+ The name of the vessel's master.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , sign , flag , called , contacted , answer , registration
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 402
+Instance 4̲0̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the receiving
+ vessel
+ Flag state of the receiving vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , sign , flag , called , answer , contacted , registration
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 403
+Instance 4̲0̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the partner
+ vessel(s)
+ 
+ ers:RLC
+ 
+ 57
+ 
+ Date
+ 
+ attribute
+ 
+ DA
+ 
+ ers:RLC
+ 
+ 58
+ 
+ Time
+ 
+ attribute
+ 
+ TI
+ 
+ ers:RLC
+ 
+ 59
+ 
+ Receiving vessel CFR number
+ 
+ attribute
+ 
+ IR
+ 
+ ers:RLC
+ 
+ 59a
+ 
+ Receiving vessel external id
+ 
+ attribute
+ 
+ GBRRXR
+ 
+ ers:RLC
+ 
+ 60
+ 
+ Receiving vessel radio call sign
+ 
+ attribute
+ 
+ TT
+ 
+ ers:RLC
+ 
+ 61
+ 
+ Flag state of receiving vessel
+ 
+ attribute
+ 
+ TC
+ 
+ ers:RLC
+ 
+ 62
+ 
+ Other Partner Vessel(s) CFR numbers
+ 
+ attribute
+ 
+ RF
+ 
+ ers:RLC
+ 
+ 62a
+ 
+ Other partner vessel(s) external id
+ 
+ attribute
+ 
+ GBRPXR
+ 
+ ers:RLC
+ 
+ 63
+ 
+ Other Partner vessel(s) radio call
+ signs
+ 
+ attribute
+ 
+ TF
+ 
+ ers:RLC
+ 
+ 64
+ 
+ Flag state(s) of other partner vessel(s)
+ 
+ attribute
+ 
+ FC
+ 
+ Flag state of the other partner vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 404
+Instance 4̲0̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the receiving
+ vessel, if donor vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 405
+Instance 4̲0̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the donor
+ vessel, if receiving vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 1
+Instance 1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The IOC software is designed so that the database access layer knows nothing about the
+ record support layer other than how to call it.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , to , calling , apply , connect , perform , called , interrupt
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 2
+Instance 2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The record support layer in turn knows nothing about it’s device support layer other than how to call it.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , to , connect , perform , called , apply , interrupt
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 3
+Instance 3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Similarly the only thing a
+ device support layer knows about it’s associated driver is how to call it.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , connect , called , apply , interrupt , perform , driver , arrange , to
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 4
+Instance 4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+But these findings
+ do not call for changing the requirements as such.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+for
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 10
+Instance 1̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+•
+ 
+ Else if the SceMiEC * pointer passed to the function is NULL (or nothing is passed since the
+ default is NULL in each API function), and an error handler was registered, that error handler is
+ called from within the errant API call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 11
+Instance 1̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+A C application can simply call the abort() or exit()
+ function after printing out or logging the error information.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , calling , make , interrupt , join , create , contacted , apply , connect , added , using , generate , perform , initiate
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 18
+Instance 1̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.3.2 Initialization
+ static SceMi *
+ SceMi::Init(
+ int version,
+ SceMiParameters *parameters,
+ SceMiEC *ec=NULL );
+ 
+ This call is the constructor of the SCE-MI interface.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 21
+Instance 2̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.3.4 Message Input Port Proxy Binding
+ SceMiMessageInPortProxy *
+ SceMi::BindMessageInPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageInPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of input ports learned from the parameter file that is generated during
+ infrastructure linkage for one whose names match the transactorName and portName arguments.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+method
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 23
+Instance 2̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.3.5 Message Output Port Proxy Binding
+ SceMiMessageOutPortProxy *
+ SceMi::BindMessageOutPort(
+ const char *transactorName,
+ const char *portName,
+ const SceMiMessageOutPortBinding *binding,
+ SceMiEC *ec=NULL );
+ 
+ This call searches the list of output ports learned from the parameter file that was generated during
+ infrastructure linkage for one whose names match the transactorName and portName argument.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+method
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 30
+Instance 3̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.6.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageInPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageInPortBinding object originally furnished to the
+ SceMi::BindMessageInPortProxy() call that created this port proxy object (see 4.3.3.4 on page 66).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , argument , arguments
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 31
+Instance 3̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Notice that no SceMiEC * error status object is passed to the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 32
+Instance 3̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+4.3.7.2 Replacing Port Binding
+ void ReplaceBinding(
+ const SceMiMessageOutPortBinding* binding,
+ SceMiEC* ec=NULL );
+ 
+ This method replaces the SceMiMessageOutPortBinding object originally furnished to the
+ SceMi::BindMessageOutPortProxy() call that created this port proxy object (see 4.3.3.5 on page 67).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , argument , arguments , commands
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 34
+Instance 3̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The Member State CIAs should call upon this service when issuing a new card to get
+ the computed search keys of the driver’s surname and first names, so to store them in
+ their local data store.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , called , upon , make , join
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 35
+Instance 3̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Instead of calling PutObjRec(), we will call OWLEmitData().
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+calling
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 36
+Instance 3̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+$OWROOT/bld/cg/intel/386/c/386rgtbl.c
+ extern
+ 
+ hw_reg_set
+ 
+ FixedRegs() {
+ 
+ /************************************
+ return the set of register which may not be modified within this routine
+ */
+ 
+ hw_reg_set
+ 
+ fixed;
+ 
+ // ...
+ HW_CTurnOn( fixed, HW_EBX ); // PIC
+ return( fixed );
+ }
+ 
+ extern
+ 
+ hw_reg_set
+ 
+ AllCacheRegs() {
+ 
+ /***************************************
+ return the set of all registers that could be used to cache values
+ */
+ 
+ hw_reg_set all;
+ // ...
+ HW_CTurnOff( all, HW_EBX ); // PIC
+ return( all );
+ }
+ 
+ SciTech Software, Inc.
+ 
+ Open Watcom Linux Port
+ Compiler / Linker Software Requirements Specification
+ 
+ Page 36 of 55
+ 
+ Position-Independent Function Prologue
+ prologue:
+ 
+ .L1:
+ 
+ pushl
+ 
+ %ebp
+ 
+ movl
+ 
+ %esp, %ebp
+ 
+ subl
+ 
+ $80, %esp
+ 
+ pushl
+ 
+ %edi
+ 
+ pushl
+ 
+ %esi
+ 
+ pushl
+ 
+ %ebx
+ 
+ call
+ 
+ .L1
+ 
+ popl
+ 
+ %ebx
+ 
+ addl
+ 
+ $_GLOBAL_OFFSET_TABLE_+[.-.L1], %ebx
+ 
+ The call instruction pushes the absolute address of the next instruction onto the stack.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 38
+Instance 3̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The corresponding GNU assembler line is call function@PLT.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 39
+Instance 3̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Gcc, nasm, and other Linux compilers typically generate the following:
+ e8 fc ff ff ff
+ 
+ call
+ 
+ somefunc
+ 
+ (0xfffffffc is the implicit addend for R386_PC32 relocation).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 41
+Instance 4̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Display window initialization
+ In order to initialize the library, programmer should call GUIWndInit() function.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , called , create , make , apply , generate
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 42
+Instance 4̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+When ported, this function should make a call of gtk_window_new(), and apply parameters passed in
+ info.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 44
+Instance 4̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In GTK port, the function should call gtk_widget_destroy() for the given window or for the toplevel window if NULL.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , apply , join , interrupt , maintain , inform , generate , added , necessary
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 45
+Instance 4̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_select() applied to a valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , apply , join , interrupt , maintain , inform , generate , added , necessary
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 46
+Instance 4̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_select() applied to valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , generate , apply
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 47
+Instance 4̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , called , make , apply , interrupt , generate , various
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 48
+Instance 4̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Instead of calling _wpi_getsystemmetrics() the function should call various GTK functions to get
+ different values.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , generate , apply
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 49
+Instance 4̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should call gtk_editable_get_selection_bounds() and gtk_editable_get_chars()
+ applied to valid GtkEntry widget to perform the operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , apply , make , join , called
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 50
+Instance 5̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Should create a GtkMenu widget, and call GUITrackFloatingPopup.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , create , make , called , apply , generate
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 51
+Instance 5̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The function should call GUIGetAbsRect().
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , calling , make , create , called , apply , interrupt
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 52
+Instance 5̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The function should call gdk_window_get_children(), get the child's gui_window via
+ GUIFindWindowFromHWND, and call necessary callback.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 66
+Instance 6̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ Supplementary service
+ Calling Line Identification Presentation (CLIP)
+ 
+ Requirement
+ 
+ Notes
+ 
+ M
+ 
+ Note 1
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ Connected Line Identification Presentation (CoLP)
+ 
+ M
+ 
+ Note 1
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ Note 2
+ 
+ Call Forwarding on Mobile Subscriber Busy (CFB)
+ 
+ M
+ 
+ Note 3
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not Reachable (CFNRc)
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country (BOIC-exHC)
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming Outside the Home
+ PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ Unstructured Supplementary Service Data (USSD)
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ Enhanced Multi-Level Precedence and Pre-emption (eMLPP)
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ Note 4
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ Notes 4 and 5
+ 
+ Note 1 - Provide additional safety check for driver-controller communications
+ Note 2 - Can be used for train number conversion (see section 11)
+ Note 3 - To be used for call forwarding where there are multiple radios in the cab
+ Note 4 - When available - Specification underway
+ Note 5 - Used for the transfer of functional numbers (sender and receiver) and railway emergency call
+ confirmation messages
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 2-3: GSM supplementary services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 37
+ 
+ 2.5
+ 
+ Railway specific services
+ 
+ 2.5.1
+ 
+ The railway specific services to be supported are listed in table 2-4.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 80
+Instance 8̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Speech followed by data
+ 
+ Cab radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ M
+ M
+ M
+ M
+ M
+ M
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ General purpose
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ Operational
+ radio
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ O
+ 
+ T - Transparent; NT - Non-transparent
+ 
+ Table 4-4: GSM bearer services to be supported
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 47
+ 
+ 4.3.3
+ 
+ The following supplementary services, identified in section 2, are to be supported for
+ each type of mobile radio:
+ 
+ Supplementary service
+ 
+ Cab radio
+ 
+ General
+ purpose radio
+ 
+ Operational
+ radio
+ 
+ Calling Line Identification Presentation (CLIP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Calling Line Identification Restriction (CLIR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Connected Line Identification Presentation
+ (CoLP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Connected Line Identification Restriction (CoLR)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding Unconditional (CFU)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on Mobile Subscriber Busy
+ (CFB)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call Forwarding on No Reply (CFNRy)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call forwarding on Mobile Subscriber Not
+ Reachable (CFNRc)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call waiting (CW)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Call hold (HOLD)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Multi Party Service (MPTY)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Closed User Group (CUG)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Advice of Charge (Information) (AoCI)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Advice of Charge (Charging) (AoCC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of All Outgoing Calls (BAOC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Outgoing International Calls (BOIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ BOIC except those to Home PLMN Country
+ (BOIC-exHC)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Barring of All Incoming Calls (BAIC)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Barring of Incoming Calls when Roaming
+ Outside the Home PLMN Country (BIC-Roam)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Unstructured Supplementary Service Data
+ (USSD)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Sub-addressing*
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Enhanced Multi-Level Precedence and Preemption (eMLPP)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Explicit Call Transfer (ECT)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Completion of Calls to Busy Subscribers (CCBS)
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ User-to-User Signalling 1 (UUS1)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ * Sub-addressing is not a GSM supplementary service but for convenience is listed in the above table
+ 
+ Table 4-5: GSM supplementary services to be supported
+ 
+ Page
+ 
+ 48
+ 
+ PSA167D006-15
+ 
+ 4
+ 
+ 4.3.4
+ 
+ Mobile equipment core specification
+ 
+ The following EIRENE features are to be supported for each type of mobile radio:
+ 
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Direct mode (section 15)
+ 
+ O
+ 
+ N/A
+ 
+ O
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ N/A
+ 
+ O
+ 
+ Multiple driver communications
+ (section 5)
+ 
+ M
+ 
+ N/A
+ 
+ N/A
+ 
+ Railway emergency calls
+ (section 13)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Table 4-6: EIRENE features to be supported
+ 
+ 4.3.5
+ 
+ If a Railway emergency call set up from an EIRENE radio is unsuccessful, the radio
+ shall automatically re-attempt the call setup until the call setup is successful, a retry
+ timer expires (duration 30 seconds, as specified in the [EIRENE FRS]) or the user
+ abandons the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , id ,  , contacted
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 85
+Instance 8̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Call other drivers in the area
+ 
+ 5.3.3
+ 
+ On receipt of a ‘Call other drivers in area’ request, the radio shall initiate a group call
+ using the ‘all trains’ group identification (see section 9) with eMLPP priority level 2
+ (see section 10.2).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 88
+Instance 8̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Each of the
+ other cabs on the train will be contacted using its functional number (registered by the
+ other drivers prior to the establishment of the call).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 93
+Instance 9̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 57
+ 
+ Call other authorised users
+ 5.3.11
+ 
+ The Cab radio shall be capable of being used as a standard GSM telephone, such that
+ the driver is able to call any valid number subject to closed user group, call barring or
+ other restrictions.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 97
+Instance 9̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Emergency access
+ 
+ Page
+ 
+ 60
+ 
+ PSA167D006-15
+ 
+ 5
+ 
+ 5.5.5
+ 
+ Cab radio
+ 
+ Emergency access shall be provided to initiate the following call: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Emergency call number
+ 
+ Group call
+ 
+ 0
+ 
+ Functional number
+ 
+ Table 5-2: Call types requiring MMI emergency access
+ 
+ Priority access
+ 5.5.6
+ 
+ Priority access shall be provided to initiate the following: (M)
+ Destination
+ 
+ Call type
+ 
+ eMLPP priority
+ designation
+ 
+ Additional
+ information
+ 
+ Primary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Secondary controller (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Power supply controller
+ (*)
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ Other drivers in area
+ 
+ Group call
+ 
+ 2
+ 
+ Functional number
+ 
+ Other drivers on same
+ train
+ 
+ Point-to-point
+ (Multi Party)
+ 
+ 3
+ 
+ Functional number
+ 
+ Chief conductor
+ 
+ Point-to-point
+ 
+ 3
+ 
+ Functional number
+ 
+ (*) For these destinations, see the requirement below.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 111
+Instance 1̲1̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Table 5A-1: Call arbitration rules
+ 
+ Page
+ 
+ 74
+ 
+ PSA167D006-15
+ 
+ 5A
+ 
+ 5A.2
+ 
+ Handling of calls
+ 
+ Call termination of outgoing calls table
+ 
+ Type of call
+ 
+ Replacing handset
+ 
+ Clearing call
+ 
+ Notes
+ 
+ Point-to-point
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Voice Broadcast call
+ (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Group call (normal)
+ 
+ Call terminated
+ 
+ Call terminated
+ 
+ (1)
+ 
+ Multi-party call (other
+ drivers same train)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2)
+ 
+ Voice Group call
+ (emergency)
+ 
+ Voice to loudspeaker
+ 
+ Call terminated
+ 
+ (2) (3)
+ 
+ (1)
+ (2)
+ (3)
+ 
+ Action by the driver on using the "Emergency", "Intercom" or "Public Address" functions has the same
+ effect as activating the ‘Call clear’ procedure
+ If the driver activates the "Intercom" or "Public Address" procedures, the emergency call is
+ transferred to the loudspeaker.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 127
+Instance 1̲2̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In order to call a particular
+ locomotive, it shall be possible to call a number associated with the tractive
+ unit'
+ s stock number.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 151
+Instance 1̲5̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 14.2.2
+ 
+ If a shunting group ID is activated, the operational radio shall proceed to re-establish
+ the group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 154
+Instance 1̲5̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Table 14-1: Operational radio “regular shunting mode ON” procedure
+ 
+ PSA167D006-15
+ 
+ Page
+ 
+ 125
+ 
+ 14.2.4
+ 
+ After the “regular shunting mode ON” procedure has been completed, the procedures
+ shown in table 14-2 and 14-3 shall be used to register the shunting leader and shunting
+ members to a dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 155
+Instance 1̲5̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Activate the selected group ID and set up the
+ dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 157
+Instance 1̲5̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Activate dedicated group ID and join the group
+ call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 160
+Instance 1̲6̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+User Action
+ 
+ Application action
+ 
+ Inform all members to deregister their
+ member functional numbers before
+ releasing the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 161
+Instance 1̲6̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Release dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+id
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 163
+Instance 1̲6̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In the meantime, all other shunting team
+ members remain active within the dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+answer
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 165
+Instance 1̲6̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Maintain dedicated group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 167
+Instance 1̲6̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 14.3.2
+ 
+ If a shunting group ID is activated, the Cab radio shall proceed to re-establish the
+ group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 170
+Instance 1̲7̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Activate dedicated group ID and join the group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 171
+Instance 1̲7̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 14.4.2
+ 
+ The common shunting group provides a point of contact for leaders and team
+ members to set up a dedicated shunting group call for their shunting operation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 173
+Instance 1̲7̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+17
+ 
+ Version 1.0
+ 
+ EUROPEAN INTEGRATED RAILWAY RADIO
+ ENHANCED NETWORK
+ 
+ UIC Project EIRENE
+ Functional Requirements Specification
+ 
+ Source:
+ Date:
+ Reference:
+ Version:
+ No of pages:
+ 
+ GSM-R Functional Group
+ 17 May 2006
+ PSA167D005
+ 7
+ Cover + 93 pages
+ 
+ Document History
+ 
+ Version
+ 
+ Date
+ 
+ Details
+ 
+ 6.0
+ 
+ 21 October 2003
+ 
+ O-9000 (FCR 00-87.2)
+ O-9001 (FCR 02-97.2)
+ O-9002 (FCR 01-98.1)
+ O-9003 (FCR 02-103.1)
+ 
+ 7.0
+ 
+ 29 March 2006
+ 
+ O-9018
+ O-9027
+ O-9028
+ O-9031
+ O-9043
+ O-9044
+ O-9054
+ O-9059
+ O-9061
+ O-9072
+ O-9077
+ O-9079
+ O-9087
+ O-9090
+ O-9098
+ 
+ 7
+ 
+ PSA167D005-7
+ 
+ 17 May 2006
+ 
+ Approved by GSM-R
+ Operators Group,
+ Functional Group and
+ Industry Group
+ 
+ Page
+ 
+ 1
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ Document History
+ 
+ 1
+ 
+ List of abbreviations
+ 
+ 5
+ 
+ List of definitions
+ 
+ 7
+ 
+ 1
+ 1.1
+ 1.2
+ 1.3
+ 1.4
+ 1.5
+ 
+ Introduction
+ General
+ Scope
+ Applicability
+ System overview
+ Structure of the specification
+ 
+ 13
+ 13
+ 13
+ 14
+ 14
+ 16
+ 
+ 2
+ 2.1
+ 2.2
+ 2.3
+ 2.4
+ 2.5
+ 
+ Network requirements
+ Introduction
+ Voice services
+ Data services
+ Call related services
+ Railway specific services
+ 
+ 17
+ 17
+ 17
+ 18
+ 20
+ 22
+ 
+ 3
+ 3.1
+ 3.2
+ 3.3
+ 3.4
+ 3.5
+ 
+ Network configuration
+ Introduction
+ Coverage and performance
+ Network interconnection
+ Call set-up time requirement
+ Broadcast and group call areas
+ 
+ 23
+ 23
+ 23
+ 23
+ 23
+ 24
+ 
+ 4
+ 4.1
+ 4.2
+ 4.3
+ 
+ Mobile equipment core specification
+ Introduction
+ Services and facilities
+ Environmental and physical requirements
+ 
+ 27
+ 27
+ 27
+ 29
+ 
+ 5
+ 5.1
+ 5.2
+ 5.3
+ 5.4
+ 5.5
+ 5.6
+ 5.7
+ 5.8
+ 5.9
+ 5.10
+ 
+ Cab radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ Driver man-machine interface
+ Deleted
+ Deleted
+ Driver safety device interface
+ Train-borne recorder
+ Control/command interfaces
+ Other interfaces
+ 
+ 31
+ 31
+ 31
+ 46
+ 46
+ 48
+ 48
+ 48
+ 48
+ 49
+ 49
+ 
+ 6
+ 6.1
+ 6.2
+ 6.3
+ 
+ General purpose radio
+ Introduction
+ Functional requirements
+ Environmental and physical requirements
+ 
+ 51
+ 51
+ 51
+ 54
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 1
+ 
+ Page
+ 
+ 6.4
+ 
+ Man-machine interface
+ 
+ 55
+ 
+ 7
+ 7.1
+ 7.2
+ 7.3
+ 7.4
+ 
+ Operational radio
+ Introduction
+ Operational radio functions
+ Environmental and physical requirements
+ Operational radio man-machine interface
+ 
+ 57
+ 57
+ 57
+ 62
+ 63
+ 
+ 8
+ 8.1
+ 8.2
+ 8.3
+ 8.4
+ 8.5
+ 
+ Controller equipment specifications
+ General
+ Primary controller’s MMI
+ Other controllers’ MMIs
+ Controller terminal interface
+ Environmental specification
+ 
+ 65
+ 65
+ 65
+ 66
+ 66
+ 66
+ 
+ 9
+ 9.1
+ 9.2
+ 9.3
+ 9.4
+ 9.5
+ 
+ Numbering plan
+ General
+ Numbering plan requirements
+ Telephone numbers
+ Group numbers
+ Calls from external networks to the EIRENE network
+ 
+ 67
+ 67
+ 67
+ 68
+ 69
+ 69
+ 
+ 10
+ 10.1
+ 10.2
+ 10.3
+ 10.4
+ 10.5
+ 10.6
+ 
+ Subscriber management
+ Introduction
+ Allocation of priorities
+ Call restriction
+ Group membership
+ Network selection list
+ Access matrix
+ 
+ 71
+ 71
+ 71
+ 72
+ 73
+ 73
+ 73
+ 
+ 11
+ 11.1
+ 11.2
+ 11.3
+ 11.4
+ 
+ Functional numbering and location dependent addressing
+ General
+ Functional addressing
+ Functional addressing registration procedures principles
+ Location dependent addressing
+ 
+ 75
+ 75
+ 75
+ 77
+ 78
+ 
+ 12
+ 12.1
+ 12.2
+ 12.3
+ 12.4
+ 
+ Text messaging
+ Introduction
+ Definition of the service
+ Performance
+ Interface
+ 
+ 81
+ 81
+ 81
+ 81
+ 81
+ 
+ 13
+ 13.1
+ 13.2
+ 13.3
+ 13.4
+ 
+ Railway emergency calls
+ Introduction
+ Management of Railway emergency calls
+ Receipt of Railway emergency calls
+ Confirmation of Railway emergency calls
+ 
+ 83
+ 83
+ 83
+ 85
+ 85
+ 
+ 2
+ 
+ PSA167D005-7
+ 
+ List of contents
+ 
+ 14
+ 14.1
+ 14.2
+ 14.3
+ 14.4
+ 14.5
+ 
+ Shunting mode
+ Introduction
+ Functional requirements
+ Group membership
+ Link assurance signal
+ Constraints
+ 
+ 87
+ 87
+ 87
+ 88
+ 89
+ 90
+ 
+ 15
+ 15.1
+ 15.2
+ 
+ Direct mode
+ Introduction
+ Functional requirements
+ 
+ 91
+ 91
+ 91
+ 
+ A
+ 
+ References
+ 
+ 93
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 3
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 4
+ 
+ PSA167D005-7
+ 
+ List of abbreviations
+ 
+ CENELEC
+ 
+ European Committee for Electrotechnical Standardisation
+ 
+ CTS
+ 
+ Centralised Train Signalling
+ 
+ DSD
+ 
+ Driver Safety Device
+ 
+ EIRENE
+ 
+ European Integrated Railway Radio Enhanced Network
+ 
+ EMC
+ 
+ Electromagnetic Compatibility
+ 
+ ERTMS
+ 
+ European Rail Traffic Management System
+ 
+ ETCS
+ 
+ European Train Control System
+ 
+ GPS
+ 
+ Global Positioning System
+ 
+ MMI
+ 
+ Man-Machine Interface
+ 
+ PTT
+ 
+ Push-To-Talk
+ 
+ RBC
+ 
+ Radio Block Centre
+ 
+ TCS
+ 
+ Train Control System
+ 
+ UIC
+ 
+ Union Internationale des Chemins de Fer
+ 
+ VBS
+ 
+ Voice Broadcast Service
+ 
+ VGCS
+ 
+ Voice Group Call Service
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 5
+ 
+ PAGE LEFT INTENTIONALLY BLANK
+ 
+ Page
+ 
+ 6
+ 
+ PSA167D005-7
+ 
+ List of definitions
+ 
+ Balise
+ A passive or active device normally mounted in proximity to the track for
+ communications with passing trains.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 181
+Instance 1̲8̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+1.4
+ 
+ System overview
+ 
+ 1.4.1
+ 
+ Extent of specification
+ 
+ 1.4.1.1
+ 
+ To meet the functionality and performance requirements of EIRENE, the following
+ system services are required:
+ −
+ 
+ Page
+ 
+ 14
+ 
+ voice services:
+ − point-to-point voice calls;
+ − public emergency calls;
+ − broadcast voice calls;
+ − group voice calls;
+ − multi-party voice calls;
+ 
+ PSA167D005-7
+ 
+ 1
+ 
+ Introduction
+ 
+ −
+ 
+ data services:
+ − text message bearer service;
+ − bearer service for general data applications;
+ − bearer service for automatic fax;
+ − bearer service for train control applications;
+ 
+ −
+ 
+ call related services:
+ − closed user group;
+ − multi-level priority and pre-emption;
+ − advanced call handling, such as call hold, call transfer, call queuing, etc;
+ − auto answer service;
+ − barring incoming or outgoing calls;
+ − call supervisory indications;
+ − charging information;
+ 
+ −
+ 
+ railway specific applications:
+ − support for functional addressing by train, engine or coach number or
+ functional number;
+ − call specific persons depending upon user location;
+ − specific mode for shunting operations providing a link assurance signal;
+ − multiple driver communications within the same train;
+ − railway operational emergency calls;
+ 
+ −
+ 
+ direct mode facility for local set-to-set operation without network infrastructure;
+ 
+ −
+ 
+ railway specific features:
+ − set-up of urgent or frequent calls through single keystroke or similar;
+ − display of functional identity of calling/called party;
+ − fast and guaranteed call set-up;
+ − seamless communication support for train speeds up to 500 km/h;
+ − automatic and manual test modes with fault indications;
+ − control over mobile network selection;
+ − control over system configuration.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 193
+Instance 1̲9̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ −
+ 
+ A mechanism shall be provided by the system to arbitrate between those users
+ wishing to speak within the group call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 195
+Instance 1̲9̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(O)
+ 
+ 2.3.12
+ 
+ Where fax functionality is provided, it shall be possible to interrupt the fax to make or
+ receive a high priority voice or data call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 196
+Instance 1̲9̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 2.4
+ 
+ Call related services
+ 
+ 2.4.1
+ 
+ The EIRENE network will support the following call related services:
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ display of identity of called/calling user; (M)
+ restriction of display of called/calling user; (O)
+ priority and pre-emption; (M)
+ closed user group; (M)
+ call forwarding; (M)
+ call hold; (M)
+ call waiting; (M)
+ charging information; (O)
+ call barring.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 218
+Instance 2̲1̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ 4.2
+ 
+ Services and facilities
+ 
+ 4.2.1
+ 
+ The following voice telephony services, identified in section 2, are to be supported for
+ each type of mobile radio:
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational radio
+ 
+ Point-to-point voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Public emergency voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Broadcast voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Group voice calls
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Multi-party voice calls
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Table 4-1: Voice telephony services to be supported
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 27
+ 
+ 4.2.2
+ 
+ The following data applications, identified in section 2, are to be supported for each
+ type of mobile radio:
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Text message service
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ General data applications
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Automatic fax
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Train control applications
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Table 4-2: Data applications to be supported
+ 
+ 4.2.3
+ 
+ The following call related services are to be supported for each type of mobile radio:
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Display of calling user identity
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Display of called user identity
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Restriction of display of user identity
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ EIRENE closed user group
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ - unconditional
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ - if user busy
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ - if no reply
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ - if not reachable
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call hold
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call waiting
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Display of call charging information
+ 
+ O
+ 
+ O
+ 
+ O
+ 
+ Call barring
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Auto answer service
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Call supervisory information
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Call forwarding:
+ 
+ Table 4-3: Call related features to be supported
+ 
+ Page
+ 
+ 28
+ 
+ PSA167D005-7
+ 
+ 4
+ 
+ 4.2.4
+ 
+ Mobile equipment core specification
+ 
+ The following EIRENE features are to be supported for each type of mobile radio:
+ 
+ Cab radio
+ 
+ General purpose
+ radio
+ 
+ Operational
+ radio
+ 
+ Functional addressing (section 11)
+ 
+ M
+ 
+ M
+ 
+ M
+ 
+ Location dependent addressing
+ (section 11)
+ 
+ M
+ 
+ O
+ 
+ O
+ 
+ Direct mode (section 15)
+ 
+ O
+ 
+ N/A
+ 
+ O
+ 
+ Shunting mode (section 14)
+ 
+ M
+ 
+ N/A
+ 
+ O
+ 
+ Multiple driver communications within the
+ same train (section 5)
+ 
+ M
+ 
+ N/A
+ 
+ N/A
+ 
+ Railway emergency calls
+ (section 13)
+ 
+ M
+ 
+ O
+ 
+ M
+ 
+ Table 4-4: EIRENE specific features to be supported
+ 
+ 4.3
+ 
+ Environmental and physical requirements
+ 
+ 4.3.1
+ 
+ This sub-section defines the core environmental and physical requirements for all
+ EIRENE mobile equipment.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 219
+Instance 2̲1̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 5.2.1.2
+ 
+ The following functions will be provided:
+ Driver call-related functions:
+ −
+ 
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ call controller: (M)
+ − primary controller;
+ − secondary controller;
+ − power supply controller;
+ call other drivers in the area; (M)
+ send Railway emergency call; (M)
+ confirm receipt of Railway emergency call; (M)
+ communicate with other drivers on same train; (M)
+ call train staff; (M)
+ call other authorised users; (M)
+ receive incoming voice calls; (M)
+ terminate calls; (M)
+ receive text messages; (M)
+ enter/leave shunting mode; (M)
+ enter/leave direct mode; (O)
+ monitor calls to other on-train users/devices; (M)
+ forward calls/cancel call forwarding to/from driver handheld; (O)
+ 
+ Other driver-related functions:
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ powering up radio; (M)
+ switch radio MMI on and off; (M)
+ select language; (M)
+ adjust loudspeaker volume; (M)
+ select mobile radio network; (M)
+ register and deregister train number; (M)
+ register and deregister on-train users; (O)
+ register and deregister stock number; (M)
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 31
+ 
+ −
+ −
+ −
+ 
+ store/retrieve numbers and their details; (M)
+ invoke supplementary services; (M)
+ invoke tests; (M)
+ 
+ Other Cab radio functions:
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ automatic connection of incoming calls to appropriate on-train users or devices
+ (conductor, public address system, data systems, etc); (M)
+ automatic establishment of outgoing calls initiated by on-train users or devices; (M)
+ automatic handling of calls of varying priorities; (M)
+ send to the controller(s) a signal on activation of driver safety device; (M)
+ transmit Railway emergency call event indication to ‘train-borne recorder’; (M)
+ run-time diagnostics.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 222
+Instance 2̲2̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ Call controller
+ 
+ 5.2.2.1
+ 
+ It shall be possible for the driver to initiate a call to any of the following types of
+ controller with a minimum of driver action being required (eg a single keystroke): (M)
+ −
+ −
+ −
+ 
+ 5.2.2.2
+ 
+ Page
+ 
+ primary controller;
+ secondary controller;
+ power supply controller.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+contacted
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 228
+Instance 2̲2̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+This shall also
+ indicate if the called party was busy or if the network could not connect the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+contacted
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 233
+Instance 2̲3̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 5.2.2.16 If the train moves out of the group call area whilst the call is in progress, an audible
+ and visual indication of the loss of call shall be provided to the driver.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+contacted
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 238
+Instance 2̲3̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 5.2.2.23 If the train moves out of the call area whilst the call is in progress, it will leave the call
+ and an audible and visual indication of the loss of call shall be provided to the driver.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 251
+Instance 2̲5̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 5.2.2.37 For calls between a controller and the lead cab, it shall be possible to add the controller
+ to the multi-driver call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 252
+Instance 2̲5̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+In the latter case, the controller is automatically added into the multidriver call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+ , contacted , called
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 253
+Instance 2̲5̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Call train staff
+ 5.2.2.38 It shall be possible for the driver to contact members of on-board train staff using a
+ point-to-point voice call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 254
+Instance 2̲5̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Call other authorised users
+ 5.2.2.42 The Cab radio shall be capable of being used as a standard telephone, such that the
+ driver is able to call any valid number subject to pre-defined call restrictions.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 274
+Instance 2̲7̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 5.2.2.74 The driver shall be able to terminate communications (voice or data) by selecting
+ another call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 288
+Instance 2̲8̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 6.2.1.2
+ 
+ The following functions will be provided:
+ Call related functions
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ call authorised users (including controllers); (M)
+ send Railway emergency calls; (O)
+ receive Railway emergency calls; (O)
+ receive incoming calls; (M)
+ group and broadcast calls; (M)
+ terminate calls; (M)
+ 
+ Other functions
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 6.2.2
+ 
+ switch radio on and off; (M)
+ select language; (M)
+ select mobile radio network; (M)
+ adjust loudspeaker volume; (M)
+ register and deregister functional numbers; (M)
+ store/retrieve numbers and their details; (M)
+ computer interface.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 289
+Instance 2̲8̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(O)
+ 
+ Call related functions
+ Call authorised users
+ 
+ 6.2.2.1
+ 
+ The General purpose radio shall be capable of use as a standard telephone, such that
+ the user is able to call any valid number subject to call restrictions enforced by the
+ network.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+contacted
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 306
+Instance 3̲0̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(I)
+ 
+ 7.2.1.2
+ 
+ The following functions will be provided:
+ Call related functions
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 
+ call authorised users; (M)
+ call controller; (M)
+ send Railway emergency calls; (M)
+ receive Railway emergency calls; (M)
+ receive incoming calls; (M)
+ group and broadcast calls; (M)
+ terminate calls; (M)
+ shunting mode communications; (O)
+ enter/leave direct mode; (O)
+ 
+ Other functions
+ −
+ −
+ −
+ −
+ −
+ −
+ −
+ 7.2.2
+ 
+ switch radio on/off; (M)
+ select language; (M)
+ select mobile radio network; (M)
+ adjust loudspeaker volume; (M)
+ register and deregister functional number; (M)
+ store/retrieve numbers and their details; (M)
+ computer interface.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 309
+Instance 3̲0̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The number of the controller selected shall then be used
+ to establish the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 337
+Instance 3̲3̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 
+ PSA167D005-7
+ 
+ Page
+ 
+ 71
+ 
+ UIC Priority
+ 
+ Automatic
+ answering*
+ 
+ Pre-emption
+ (of)
+ 
+ Railway emergency
+ 
+ Y
+ 
+ Control-command
+ (safety) and below
+ 
+ Control-command (safety)
+ 
+ Y
+ 
+ Public emergency,
+ group calls between
+ drivers in the same
+ area and below
+ 
+ Public emergency and group calls
+ between drivers in the same area
+ 
+ Y
+ 
+ Railway operation,
+ Control-command
+ information and
+ below
+ 
+ Railway operation
+ (eg calls from or for drivers and
+ controllers) and Control-command
+ information
+ 
+ Y**
+ 
+ Railway information
+ and below
+ 
+ N
+ 
+ -
+ 
+ Railway information and all other
+ calls
+ *
+ **
+ 
+ Automatic call answering applies only to voice calls
+ Mandatory for Cab radio, optional for other user equipment
+ Table 10-1: Allocation of priorities
+ 
+ 10.2.3
+ 
+ The lowest priority ongoing call shall be pre-empted before that of a higher priority.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 354
+Instance 3̲5̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ Train emergency call
+ 
+ 13.1.6
+ 
+ The Train emergency call shall be sent to all drivers and controller(s) within an area,
+ which is pre-defined to meet operational requirements.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+id
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 362
+Instance 3̲6̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 13.2.2.3i During this period the user shall be provided with an audible and visual indication
+ that the system is trying to connect the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 363
+Instance 3̲6̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+(M)
+ 13.2.2.3ii After the 30 second period, if the connection was unsuccessful, the system shall
+ provide another audible and visual indication that it was unable to connect the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 380
+Instance 3̲8̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The shunting leader can then choose the moment when he takes or rejects the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 381
+Instance 3̲8̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+14.4.5
+ 
+ The link assurance signal shall be deactivated upon receipt of a shunting emergency
+ call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 383
+Instance 3̲8̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Figure 1: Generic status quo picture of public tendering procedures
+ The procedure can be described as follows: A Contracting Authority prepares a call for tender
+ based on a set of documents, usually consisting of a) the publication of a contract notice b) the tender
+ contract documentation c) the (technical) specifications, d) additional documents.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+join
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 384
+Instance 3̲8̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+•
+ 
+ VCD systems provide single point of contact to attestations from public sources and information
+ necessary to prove conformance to a given call for tender.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 386
+Instance 3̲8̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Create a tender-specific VCD Package through interconnection of VCD and call for tender;
+ 4.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 387
+Instance 3̲8̲7 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Table 1: Major outcomes of Stage 1
+ Outcome
+ 
+ Approach
+ 
+ Benefit
+ 
+ Superset or
+ evidences: Basic
+ semantic
+ interoperability
+ model of
+ European
+ criteria and
+ evidences
+ available in a
+ Member State
+ 
+ Mapping between
+ national attestations,
+ national criteria of
+ qualitative selection and
+ exclusion and “European”
+ criteria according to
+ articles 45-50 of directive
+ 2004/18/EC
+ 
+ Subset of
+ evidences:
+ Formal
+ representation of
+ relevant criteria
+ and evidences
+ of a particular
+ call for tender
+ 
+ Relevant criteria and
+ evidences should be
+ specified either in the call
+ for tender or should be
+ directly retrievable from
+ the contracting authority.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 389
+Instance 3̲8̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+EC
+ approval
+ Figure 8: Main actors and functions in public tendering foreseen in stage 1 – pre-VCD mapping
+ A contracting authority sends a notification on a Call for Tender to a Publication body that publishes
+ the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 390
+Instance 3̲9̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The Call for Tender contains the definition of evidences and the specific criteria on qualitative
+ selection and exclusion that are relevant to this particular call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 391
+Instance 3̲9̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+2.2.3.11 Define the interaction among Publication Body and Contracting Authority
+ In order to derive sufficient mapping information the economic operator has to provide the criteria that
+ are relevant to a particular call for tender.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 392
+Instance 3̲9̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+The overall procedure would be simplified dramatically when
+ the relevant criteria for a particular call for tender could be fetched either from a publication body or
+ directly from the contracting authority.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 393
+Instance 3̲9̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Therefore it would be
+ 2009-05-19, Version 1.0 – pending EC approval
+ 
+ PEPPOL Deliverable D2.1:
+ page 55 of 127
+ Functional and non-functional requirements specification for the VCD,
+ including critical synthesis, comparison and assessment of national vs. pan-European needs
+ 
+ important that the evidence requested is valid at the time of awarding or when the call for tender is
+ closed.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 394
+Instance 3̲9̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+We assume that the
+ attestation must be valid when the call for tender is closed instead of pre-serving permanent validity of
+ attestations at the temporary storage of the national VCD service provider.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 395
+Instance 3̲9̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+3.1.2.8 Specification of subset of evidences and related criteria by the contracting authority
+ 
+ Description
+ A contracting authority sends a notification on a Call for Tender to a Publication body that publishes
+ the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 396
+Instance 3̲9̲6 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Measurement
+ The evaluation of relevant legal regulations
+ 3.3.2.4 Legal effect of subset criteria and evidences specified by the contracting authority
+ Description
+ 
+ EC
+ 
+ A contracting authority sends a contract notice to a Publication body that publishes the call.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 398
+Instance 3̲9̲8 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+Thus the VCD system will be primary a tool for the economic operator to arrange a VCD package
+ instance which is conform according to the requirements stated in particular call for tender which he
+ can fill through additional inputs.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 399
+Instance 3̲9̲9 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+public or
+ private) and select his abilities to…
+ 
+ Type of
+ legitimacy
+ 
+ EC
+ 
+ [set public rules/laws](high)
+ 
+ [implement public rules/laws](medium)
+ [verify accordance to public rules/laws](medium)
+ [obey public rules/laws ](low)
+ Urgency is the degree to which stakeholder claims call for
+ immediate attention and participation.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 400
+Instance 4̲0̲0 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+WARC Tools Phase III Functional Requirements Specification
+ 
+ 4
+ 
+ FR 6 — The migration workflow shall be able to call external tools and services (e.g., database queries,
+ shell commands, web service).
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 401
+Instance 4̲0̲1 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+C
+ 
+ ers:LOG
+ 
+ 22a
+ 
+ Logbook number
+ 
+ attribute
+ 
+ GBRLOGNO
+ 
+ ers:LOG
+ 
+ 22b
+ 
+ Sequence within logbook number
+ 
+ attribute
+ 
+ GBRLOGSE
+ Q
+ 
+ ers:LOG
+ 
+ 25
+ 
+ Vessel's Community fleet register
+ (CFR) number
+ 
+ attribute
+ 
+ IR
+ 
+ ers:LOG
+ 
+ 25a
+ 
+ RSS Number (unique identifier for
+ UK vessel)
+ 
+ attribute
+ 
+ GBRRSSNO
+ 
+ Copyright © 2009,2010 UK Fisheries Administrations All Rights Reserved
+ PROTECT – COMMERCIAL [when completed]
+ 
+ C
+ 
+ C
+ 
+ O
+ 
+ C
+ 
+ Support
+ Y|N|N/A
+ 
+ Notes
+ 
+ UK Fishing Vessel’s Electronic Logbook Functional Requirement Specification
+ [including Product Profile & Self Declaration Form]
+ Page 21 of 49
+ 
+ Version 1.2
+ Item
+ 
+ Ref
+ No
+ 
+ ers:LOG
+ ers:LOG
+ 
+ 26
+ 27
+ 
+ Feature Element or attribute name
+ Vessel’s main identification
+ Vessel’s external identification
+ 
+ XML
+ Syntax
+ 
+ Code
+ 
+ Description and content
+ 
+ Status
+ 
+ attribute
+ attribute
+ 
+ RC
+ XR
+ 
+ International radio call sign
+ Side (hull) registration number of the
+ vessel
+ Name of the vessel
+ The name of the vessel's master.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 402
+Instance 4̲0̲2 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the receiving
+ vessel
+ Flag state of the receiving vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 403
+Instance 4̲0̲3 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the partner
+ vessel(s)
+ 
+ ers:RLC
+ 
+ 57
+ 
+ Date
+ 
+ attribute
+ 
+ DA
+ 
+ ers:RLC
+ 
+ 58
+ 
+ Time
+ 
+ attribute
+ 
+ TI
+ 
+ ers:RLC
+ 
+ 59
+ 
+ Receiving vessel CFR number
+ 
+ attribute
+ 
+ IR
+ 
+ ers:RLC
+ 
+ 59a
+ 
+ Receiving vessel external id
+ 
+ attribute
+ 
+ GBRRXR
+ 
+ ers:RLC
+ 
+ 60
+ 
+ Receiving vessel radio call sign
+ 
+ attribute
+ 
+ TT
+ 
+ ers:RLC
+ 
+ 61
+ 
+ Flag state of receiving vessel
+ 
+ attribute
+ 
+ TC
+ 
+ ers:RLC
+ 
+ 62
+ 
+ Other Partner Vessel(s) CFR numbers
+ 
+ attribute
+ 
+ RF
+ 
+ ers:RLC
+ 
+ 62a
+ 
+ Other partner vessel(s) external id
+ 
+ attribute
+ 
+ GBRPXR
+ 
+ ers:RLC
+ 
+ 63
+ 
+ Other Partner vessel(s) radio call
+ signs
+ 
+ attribute
+ 
+ TF
+ 
+ ers:RLC
+ 
+ 64
+ 
+ Flag state(s) of other partner vessel(s)
+ 
+ attribute
+ 
+ FC
+ 
+ Flag state of the other partner vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 404
+Instance 4̲0̲4 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the receiving
+ vessel, if donor vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Call 405
+Instance 4̲0̲5 of the word C̲a̲l̲l in the document belongs to cluster 2
+~~~~~
+
+C̲o̲r̲r̲e̲s̲p̲o̲n̲d̲i̲n̲g̲ ̲S̲e̲n̲t̲e̲n̲c̲e̲ ̲:̲-̲ 
+International radio call sign of the donor
+ vessel, if receiving vessel.
+
+~~~~~
+C̲o̲n̲t̲e̲x̲t̲ ̲W̲o̲r̲d̲s̲ ̲[̲M̲o̲s̲t̲ ̲s̲i̲m̲i̲l̲a̲r̲ ̲t̲o̲ ̲t̲h̲e̲ ̲t̲a̲r̲g̲e̲t̲ ̲t̲e̲r̲m̲]̲ ̲:̲-
+
+############################################################## 
+ 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<head>
+  <meta charset="UTF-8">
+  <title>Flask-File Drag Drop System</title>
+  {{ dropzone.load_css() }}
+  {{ dropzone.style('border: 2px dashed #0087F7; margin: 10%; min-height: 400px;') }}
+</head>
+<body>
+	<div style="color:black;text-align:center;">
+	SCP TOOLKIT` </div>
+
+  {{ dropzone.create(action='upload') }}
+  {{ dropzone.load_js() }}
+  {{ dropzone.config() }}
+    <form style=" width: 100vw; margin-left : 48vw; margin-top : 1vw;" action="{{url_for('')}}" method="POST">
+            <input type="submit" value="Get Results">
+        </form>
+
+</body>
+
+{% endblock %}

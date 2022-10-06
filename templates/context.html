@@ -1,0 +1,274 @@
+{% extends 'base.html' %}
+
+{%block body%}
+<html>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item">
+          <a class="nav-link active" href="{{url_for('upload')}}">Home
+            <span class="visually-hidden">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Separated link</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<head>
+    <title></title>
+</head>
+<body>
+<div class="progress">
+  <div class="progress-bar bg-danger" role="progressbar" style="width: 33%;" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-success" role="progressbar" style="width: 35%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+  <div class="progress-bar bg-info" role="progressbar" style="width: 33%;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div style="text-align: center;">
+    <h2 style="margin-top: 20px"> The number of context clusters predicted are {{k}}</h2>
+    <h6> <strong> Selected Threshold is {{th}} </strong> </h6></div>
+
+
+{% if (k == 1) %}
+ <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6> Threshold plot for Cluster 1 Label 0</h6>
+            <img src= {{url_1}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+    </div>
+        <div class="container">
+            <a href="{{url_for('result_1')}}" class="btn btn-primary" style="margin-left: 528.5px">Detailed Result : Cluster 1</a>
+        </div>
+
+    <div class="container" style="margin-top: 50px">
+            <a href="{{url_for('summary_result_1')}}" class="btn btn-warning" style="margin-left: 528.5px">Summary Result : Cluster 1</a>
+        </div>
+    {% endif %}
+
+{% if (k == 2) %}
+    <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6> Threshold plot for Cluster 1 Label 0</h6>
+            <img src= {{url_1}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+            <h6> Threshold plot for Cluster 2 Label 0</h6>
+             <img src= {{url_2}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="container">
+            <a href="{{url_for('result_1')}}" class="btn btn-primary" style="margin-left: 384.5px">Detailed Result : Cluster 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('result_2')}}" class = "btn btn-primary">Detailed Result : Cluster 2</a>
+        </div>
+
+
+    <div class="container" style="margin-top: 50px;">
+            <a href="{{url_for('summary_result_1')}}" class="btn btn-warning" style="margin-left: 384.5px">Summary Result : Cluster 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('summary_result_2')}}" class = "btn btn-warning">Summary Result : Cluster 2</a>
+        </div>
+
+
+
+
+
+{% endif %}
+
+{% if (k == 3) %}
+      <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6><strong> Threshold plot for Cluster 1 Label 0</strong></h6>
+            <img src= {{url_1}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+            <h6><strong> Threshold plot for Cluster 2 Label 0</strong></h6>
+             <img src= {{url_2}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6><strong> Threshold plot for Cluster 3 Label 0</strong></h6>
+            <img src= {{url_3}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="container">
+            <a href="{{url_for('result_1')}}" class="btn btn-primary" style="margin-left: 390.5px">Detailed Result : Cluster 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('result_2')}}" class = "btn btn-primary">Detailed Result : Cluster 2</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('result_3')}}" class="btn btn-primary" style="margin-left: 525.5px">Detailed Result : Cluster 3</a>
+        </div>
+
+    <div class="container" style="margin-top: 50px">
+            <a href="{{url_for('summary_result_1')}}" class="btn btn-warning" style="margin-left: 390.5px">Summary Result : Cluster 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('summary_result_2')}}" class = "btn btn-warning">Summary Result : Cluster 2</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('summary_result_3')}}" class="btn btn-warning" style="margin-left: 525.5px">Summary Result : Cluster 3</a>
+        </div>
+
+
+{% endif %}
+
+{% if (k == 4) %}
+    <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6> <strong> Threshold plot for Cluster 1 Label 0 </strong></h6>
+            <img src= {{url_1}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+            <h6> <strong>Threshold plot for Cluster 2 Label 0 </strong></h6>
+             <img src= {{url_2}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6><strong> Threshold plot for Cluster 3 Label 0</strong></h6>
+            <img src= {{url_3}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+            <h6> <strong>Threshold plot for Cluster 4 Label 0</strong></h6>
+             <img src= {{url_4}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+    <div class="container">
+            <a href="{{url_for('result_1')}}" class="btn btn-primary" style="margin-left: 390.5px"> Detailed Result : Cluster 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('result_2')}}" class = "btn btn-primary"> Detailed Result : Cluster 2</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('result_3')}}" class="btn btn-primary" style="margin-left: 390.5px">Detailed Result : Cluster 3</a>
+            <a href="#" ></a>
+            <a href="{{url_for('result_4')}}" class = "btn btn-primary">Detailed Result : Cluster 4</a>
+        </div>
+
+    <div class="container" style="margin-top: 50px">
+            <a href="{{url_for('summary_result_1')}}" class="btn btn-warning" style="margin-left: 390.5px">Summary Result : Cluster 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('summary_result_2')}}" class = "btn btn-warning">Summary Result : Cluster 2</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('summary_result_3')}}" class="btn btn-warning" style="margin-left: 390.5px">Summary Result : Cluster 3</a>
+            <a href="#" ></a>
+            <a href="{{url_for('summary_result_4')}}" class = "btn btn-warning">Summary Result : Cluster 4</a>
+        </div>
+
+
+
+{% endif %}
+
+{% if (k == 5) %}
+   <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6> Threshold plot for Cluster 1 Label 0<</h6>
+            <img src= {{url_1}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+            <h6> Threshold plot for Cluster 2 Label 0<</h6>
+             <img src= {{url_2}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6><strong> Threshold plot for Cluster 3 Label 0</strong></h6>
+            <img src= {{url_3}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+            <h6> <strong>Threshold plot for Cluster 4 Label 0</strong></h6>
+             <img src= {{url_4}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="row" style="text-align: center;">
+        <div class = "col-form-label-lg">
+            <h6><strong> Threshold plot for Cluster 5 Label 0</strong></h6>
+            <img src= {{url_5}} alt="Chart" height="400" width="700" style="vertical-align:middle; margin-bottom: 20px"> </h6>
+        </div>
+
+    </div>
+
+    </div>
+        <div class="container">
+            <a href="{{url_for('result_1')}}" class="btn btn-primary" style="margin-left: 508.5px">Detailed Result 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('result_2')}}" class = "btn btn-primary">Detailed Result 2</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('result_3')}}" class="btn btn-primary" style="margin-left: 508.5px">Detailed Result 3</a>
+            <a href="#" ></a>
+            <a href="{{url_for('result_4')}}" class = "btn btn-primary">Detailed Result 4</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('result_5')}}" class="btn btn-primary" style="margin-left: 575.5px">Detailed Result 5</a>
+        </div>
+
+ <div class="container" style="margin-top: 50px">
+            <a href="{{url_for('summary_result_1')}}" class="btn btn-warning" style="margin-left: 508.5px">Summary Result 1</a>
+            <a href="#" ></a>
+            <a href="{{url_for('summary_result_2')}}" class = "btn btn-warning">Summary Result 2</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('summary_result_3')}}" class="btn btn-warning" style="margin-left: 508.5px">Summary Result 3</a>
+            <a href="#" ></a>
+            <a href="{{url_for('summary_result_4')}}" class = "btn btn-warning">Summary Result 4</a>
+        </div>
+    <div class="container" style="margin-top: 30px">
+            <a href="{{url_for('summary_result_5')}}" class="btn btn-warning" style="margin-left: 575.5px">Summary Result 5</a>
+        </div>
+{% endif %}
+</body>
+<div style="margin-top: 100px">
+  <ul class="pagination pagination-sm">
+    <li class="page-item active">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#">Work performed by Ambarish Moharil and Prof.Dr.Arpit Sharma</a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="#"></a>
+  </ul>
+    <div class="progress">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
+</div>
+</html>
+{% endblock %}
