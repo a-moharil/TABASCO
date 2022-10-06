@@ -12,7 +12,7 @@ Once the document has been uploaded, TABASCO will ask the user to select the num
 ![topn](https://user-images.githubusercontent.com/93342024/194394989-1721598c-3d7f-4f9e-891a-5e2492482716.png)
 Once the document has been uploaded and N has been selected, the user can press the submit button to get the top N nouns for disambiguation.
 
-# Frequency List
+## Frequency List
 On the '\list' web-page, the user can see the N most frequently used nouns and their corresponding freqency of occurrence.
 ![lcrop](https://user-images.githubusercontent.com/93342024/194396088-e0469e6e-057d-4ad6-b909-edb6969edc1a.png)
 
@@ -20,9 +20,16 @@ The frequency plot on clicking will expand in another tab and the user can have 
 ![frq_plot](https://user-images.githubusercontent.com/93342024/194396590-4c5e648e-41bb-4347-b5f3-aa6e8cd83541.png)
 
 From this list of top N nouns, the user is supposed to select a term T that needs to be contextualized or is ambigous from the assessment and pre-judgement of the user. 
-The another parameter that the user needs to select is the maximum frequency F of occurrence of all the sentences consisting of the target term T. If F is lower than the actual frequency in which T occurs then TABASCO will consider only F sentences, if F is greater than the acutal frequency then the computation is done over the actual number of sentences in which T occcurs.
+The another parameter that the user needs to select is the maximum frequency F of occurrence of all the sentences consisting of the target term T. If F is lower than the actual frequency in which T occurs then TABASCO will consider only F sentences, if F is greater than the acutal frequency then the computation is done over the actual number of sentences in which T occcurs. F ranges from 0 to 3000 with a step size of 50.
 ![targterm](https://user-images.githubusercontent.com/93342024/194397703-06b4207e-9f1b-4f02-931c-69b483682b98.png)
 
 The user can click submit once the target term has been entered and F has been selected.
+
+## Target Matrix
+The '\targetmat' web-page displays the predicted contexts for the word T alog with the elbow plot of the clustering algorithm.
+![pred](https://user-images.githubusercontent.com/93342024/194398729-7f58d817-ba67-402e-a556-c3e4c5e0e468.png)
+After, obtaining this prediction regarding the number of context clusters, the user is directed to select the threshold \tau 
+
+
 
 
