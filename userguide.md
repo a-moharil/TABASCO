@@ -1,4 +1,4 @@
-# User Guide
+# User Guide : v1.1
 This document consists of the guidelines indicating the usage of TABASCO : A Transformer Based Contextuatlization Toolkit
 
 ## Home
