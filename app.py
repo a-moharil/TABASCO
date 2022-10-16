@@ -6,6 +6,7 @@ import requests
 import os
 import nltk
 nltk.download('punkt')
+nltk.download('stopwords')
 from scipy.stats import norm
 from sklearn.mixture import GaussianMixture #For GMM clustering
 import string
