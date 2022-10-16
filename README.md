@@ -3,4 +3,6 @@ We have designed and developed TABASCO, a tool for detecting and identifying int
 
 ![home](https://user-images.githubusercontent.com/93342024/194392001-68f3a2da-e44c-4386-83e4-2f510db101a6.png)
 
-**Check the userguide.md file for installation and usage instructions.
+**Check the userguide.md file for installation and usage instructions.**
+
+The ```python /data``` folder contains the merged .txt file the PURE Dataset (https://zenodo.org/record/1414117#.Y0wifdJBxGM). This can be used to reproduce the results stated in our paper.
