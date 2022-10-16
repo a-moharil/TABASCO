@@ -2,8 +2,10 @@ pandas==1.4.2
 numpy==1.22.3
 nltk==3.7
 torch==1.7.1+cu110
+torchvision==0.12.0
+torchaudio==0.7.2
 transformers==4.11.1
-sklearn==1.0.2
+scikit-learn==1.0.2
 kneed==0.7.0
 flask==1.1.2
 flask_dropzone==1.6.0
