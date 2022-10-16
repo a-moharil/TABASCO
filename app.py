@@ -1483,5 +1483,4 @@ if __name__ == '__main__':
                                            )
     bert_tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     model = DisambModel(bert_model, bert_tokenizer, device)
-    #serve(app, host="0.0.0.0", port=5000)
-    app.run(debug = True)
+    serve(app, host="0.0.0.0", port=5000)
