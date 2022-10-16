@@ -577,7 +577,7 @@ def get_word_vector(word_no, word_list ,static_list ,dynamic_list, threshold, fr
 
 #We are writing the output in txt files here.
 def write_contextual_output(cluster_number_str, sorted_list, dir_path ,clustering_type,directory_input, inp_str , word_of_cluster_list, sent_of_cluster, n_el_clus_list):
-    with open(dir_path + "/static/text/text_" + str(cluster_number_str) + ".txt", "a") as cw:
+    with open(dir_path + "/static/text/text_" + str(cluster_number_str) + ".txt", "a", encoding='utf-8') as cw:
         cw.write("\n")
         #cw.write("\nThe Target Word is " + "\u0332".join(inp_str.title()) + "\n")
         #cw.write("The word belongs to cluster {}".format(str(int(cluster_number_str) + 1)) + "\n")
@@ -787,7 +787,7 @@ def get_summary_results(cluster_word_list, cluster_sentence_list, sum_dict, clus
             sorted_summary_context_list.append(key)
 
 
-    with open(dir_path + "/static/summary/summary_text_" + str(cluster_num) + ".txt", "a") as cx:
+    with open(dir_path + "/static/summary/summary_text_" + str(cluster_num) + ".txt", "a", encoding='utf-8') as cx:
         cx.write("Top-most context words from the cluster :-")
         cx.write("\n" + "***********************************************" + "\n")
         if len(sorted_summary_context_list) >= 50:
@@ -808,7 +808,7 @@ def get_summary_results(cluster_word_list, cluster_sentence_list, sum_dict, clus
     cx.close()
 
     for word_idx in range(len(word_of_cluster_truncated)):
-        with open(dir_path + "/static/summary/summary_text_" + str(cluster_num) + ".txt", "a") as cw:
+        with open(dir_path + "/static/summary/summary_text_" + str(cluster_num) + ".txt", "a", encoding='utf-8') as cw:
                 # cw.write("The Target Word is " + inp_str.title() + "\n")
                 # cw.write("The word {} belongs to cluster {}".format(str(int(cluster_num) + 1)) + "\n")
                 for lab in str(word_of_cluster_truncated[word_idx]).split():
