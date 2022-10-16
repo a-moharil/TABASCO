@@ -7,6 +7,7 @@ import os
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
 from scipy.stats import norm
 from sklearn.mixture import GaussianMixture #For GMM clustering
 import string
