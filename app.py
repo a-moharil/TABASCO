@@ -666,7 +666,7 @@ def get_cluster_vocab_embeddings(list_of_cluster_sentences, n_th_cluster, tokeni
     return  word_list_refined, vector_list_refined #word_list_refined and vector_list_refined are passed to the get_context func above
 
 
-def tplot(self, clust, label_int, vector_mat_list,word_list_refined, vector_list_refined):
+def tplot(clust, label_int, vector_mat_list,word_list_refined, vector_list_refined):
     global label_
     label_int_list = []
     #locals()["word_list_refined" + str(clust)]
