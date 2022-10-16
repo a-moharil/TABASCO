@@ -1,12 +1,12 @@
 # User Guide : v1.1
 This document consists of the guidelines indicating the usage of TABASCO : A Transformer Based Contextuatlization Toolkit.
-  To use TABASCO:
-    1) Clone the repository in any of your local folders.
-    2) Install all the dependancies :
-    ```python pip install -r /path/to/requirements.txt```
-    3) In the repo directory use the following command to start the application :
-    ```python3 app.py ```
-    4) In your browswer open ```python http://localhost:5000``` to get to the home page of TABASCO 
+To use TABASCO:
+  1) Clone the repository in any of your local folders.
+  2) Install all the dependancies :
+  ```python pip install -r /path/to/requirements.txt```
+  3) In the repo directory use the following command to start the application :
+  ```python3 app.py ```
+  4) In your browswer open ```python http://localhost:5000``` to get to the home page of TABASCO 
     
 
 ## Home
