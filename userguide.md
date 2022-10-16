@@ -22,6 +22,9 @@ or
 
 Then go to the directory ```/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\```, open the google drive link in ``` ../bert-dependencies``` folder and unzip all the contents in the said directory.
 
+**TO NOTE : If you are using Windows :**
+  1) Kindly install python : https://www.python.org/downloads/
+  2) Make sure you tick the check box on : ADD TO PATH
 
 ## Home
 Once the user runs the app.py script on the terminal, a web-page will be hosted on the user local port (default: 5000). The home page of the toolkit looks as follows :
