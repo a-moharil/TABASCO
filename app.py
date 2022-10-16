@@ -667,7 +667,7 @@ def get_cluster_vocab_embeddings(list_of_cluster_sentences, n_th_cluster, tokeni
     return  word_list_refined, vector_list_refined #word_list_refined and vector_list_refined are passed to the get_context func above
 
 
-def tplot(clust, label_int, vector_mat_list,word_list_refined, vector_list_refined):
+def tplot(self, clust, label_int, vector_mat_list,word_list_refined, vector_list_refined):
     global label_
     label_int_list = []
     #locals()["word_list_refined" + str(clust)]
@@ -688,8 +688,11 @@ def tplot(clust, label_int, vector_mat_list,word_list_refined, vector_list_refin
 
     frame0 = pd.DataFrame(fer0, columns = ["Words", "Word Int", "Distance"])
 
-    frame0.plot.scatter(x="Word Int", y = "Distance", c='DarkBlue')
+    # frame0.plot.scatter(x="Word Int", y = "Distance", c='DarkBlue')
+    plt.xlabel("Word Int")
+    plt.ylabel("Distance")
     plt.title(f"Threshold Plot for the word {inp_str} and corresponding label {0}")
+    plt.scatter(frame0['Word Int'], frame0['Distance'],  marker = 'o')
     plt.savefig(dir_path + "/static/t_plot/tp_plot_" + str(clust) + "_scatter.png")
     plt.close()
 
