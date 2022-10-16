@@ -15,10 +15,12 @@ NOTE :- To use the GPU kindly follow the pytorch installation depending on your 
 
 POTENTIAL ERROR FIXES :
 
-After running the command ``` python app.py``` if you get an error ```<root dir>\<User>/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\pytorch_model.bin' not found or 
-```<root dir>\<User>/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\config.json' not found
+After running the command ``` python app.py``` if you get an error :
+```<root dir>\<User>/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\pytorch_model.bin' not found```
+or 
+```<root dir>\<User>/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\config.json' not found```
 
-Then go to the directory ```/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\```, unzip all the contents from the `` ../bert-dependencies``` folder and paste it the said directory.
+Then go to the directory ```/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\```, unzip all the contents from the ``` ../bert-dependencies``` folder and paste it the said directory.
 
 
 ## Home
