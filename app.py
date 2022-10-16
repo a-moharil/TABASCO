@@ -5,6 +5,7 @@ import re
 import requests
 import os
 import nltk
+nltk.download('punkt')
 from scipy.stats import norm
 from sklearn.mixture import GaussianMixture #For GMM clustering
 import string
