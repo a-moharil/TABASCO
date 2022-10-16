@@ -7,7 +7,7 @@ To use TABASCO:
   ```python pip install -r /path/to/requirements.txt```
   3) In the repo directory use the following command to start the application :
   ```python app.py ```
-  4) In your browswer open ```python http://localhost:5000``` to get to the home page of TABASCO 
+  4) In your browswer open ```http://localhost:5000```, (once the cursor in the terminal starts blinking) to get to the home page of TABASCO 
 
 NOTE :- To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
 
