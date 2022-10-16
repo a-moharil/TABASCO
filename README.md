@@ -5,4 +5,4 @@ We have designed and developed TABASCO, a tool for detecting and identifying int
 
 **Check the userguide.md file for installation and usage instructions.**
 
-The ```python /data``` folder contains the merged .txt file the PURE Dataset (https://zenodo.org/record/1414117#.Y0wifdJBxGM). This can be used to reproduce the results stated in our paper.
+The ``` ./data``` folder contains the merged .txt file the PURE Dataset (https://zenodo.org/record/1414117#.Y0wifdJBxGM). This can be used to reproduce the results stated in our paper.
