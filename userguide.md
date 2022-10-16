@@ -10,6 +10,7 @@ To use TABASCO:
   4) In your browswer open ```python http://localhost:5000``` to get to the home page of TABASCO 
 
 NOTE :- To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
+
 **we highly recommend using the GPU to accelerate the computation and reduce the processing time.** 
 
 
