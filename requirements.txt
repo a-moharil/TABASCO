@@ -6,9 +6,14 @@ torchvision
 torchaudio
 transformers
 scikit-learn
+matplotlib
 kneed
 flask
 flask_dropzone
 werkzeug
 scipy
 waitress
+PyPDF2
+seaborn
+scikit-learn-extra
+yellowbrick
