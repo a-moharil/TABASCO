@@ -13,7 +13,7 @@ NOTE :- To use the GPU kindly follow the pytorch installation depending on your 
 
 **we highly recommend using the GPU to accelerate the computation and reduce the processing time.** 
 
-POTENTIAL ERROR FIXES :
+**POTENTIAL ERROR FIXES :**
 
 After running the command ``` python app.py``` if you get an error :
 ```<root dir>\<User>/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\pytorch_model.bin' not found```
