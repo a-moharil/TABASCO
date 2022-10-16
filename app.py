@@ -7,7 +7,6 @@ import os
 import nltk
 from scipy.stats import norm
 from sklearn.mixture import GaussianMixture #For GMM clustering
-from termcolor import colored
 import string
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
