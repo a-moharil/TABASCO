@@ -24,7 +24,6 @@ from PyPDF2 import PdfReader
 import seaborn as sns
 from scipy.spatial.distance import cosine
 import pickle
-from sklearn_extra.cluster import KMedoids
 import os
 import random
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
