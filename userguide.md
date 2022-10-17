@@ -48,7 +48,8 @@ It is to be noted that the maximum upload file size is 500 mb and the allowed fo
 
 Once the document has been uploaded, TABASCO will ask the user to select the number N of most frequently occurring top nouns from the document. This number ranges from 25 to 200, with a step size of 25.
 ![topn](https://user-images.githubusercontent.com/93342024/194394989-1721598c-3d7f-4f9e-891a-5e2492482716.png)
-Once the document has been uploaded and N has been selected, the user can press the submit button to get the top N nouns for disambiguation.
+
+After selecting N, the user can press the submit button to get the top N nouns for disambiguation.
 
 ## Frequency List
 On the '\list' web-page, the user can see the N most frequently used nouns and their corresponding freqency of occurrence.
