@@ -3,13 +3,25 @@ This document consists of the guidelines indicating the usage of TABASCO : A Tra
 
 To use TABASCO:
   1) Clone the repository in any of your local folders.
-  2) Install all the dependancies :
-  ```python pip install -r /path/to/requirements.txt```
+  2) Install all the dependancies :`
+  ```pip install -r /path/to/requirements.txt```
   3) In the repo directory use the following command to start the application :
-  ```python app.py ```
-  4) In your browswer open ```python http://localhost:5000``` to get to the home page of TABASCO 
+  ```python app.py ``` or ```python3 app.py ```
+  4) In your browswer open ```http://localhost:5000```, (once the cursor in the terminal starts blinking) to get to the home page of TABASCO 
 
-NOTE :- To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
+NOTE :- 
+1) To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
+2) Before installing CUDA, make sure you have the appropriate nvidia-drivers installed on your machine :
+   
+   a) Nvidia-Driver installation guide for Ubuntu 20.04 : https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
+   
+   b) Nvidia-Driver ```.exe```  download link for Windows :- https://www.nvidia.com/download/index.aspx
+   
+4) Make sure that you have CUDA installed on your device. 
+   
+   a) Installation guide for Windows :- https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+   
+   b) Installation guide for Linux :- https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
 
 **we highly recommend using the GPU to accelerate the computation and reduce the processing time.** 
 
@@ -20,8 +32,11 @@ After running the command ``` python app.py``` if you get an error :
 or 
 ```<root dir>\<User>/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\config.json' not found```
 
-Then go to the directory ```/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\```, open the google drive link in ``` ../bert-dependencies``` folder and unzip all the contents in the said directory.
+Then go to the directory ```/.cache\\huggingface\\hub\\models--bert-base-uncased\\snapshots\\5546055f03398095e385d7dc625e636cc8910bf2\\```, open the google drive link in ``` ./bert-dependencies``` folder and unzip all the contents in the said directory.
 
+**TO NOTE : If you are using Windows :**
+  1) Kindly install python : https://www.python.org/downloads/.
+  2) Make sure you tick the check box on : ```ADD TO PATH``` while installing.
 
 ## Home
 Once the user runs the app.py script on the terminal, a web-page will be hosted on the user local port (default: 5000). The home page of the toolkit looks as follows :
