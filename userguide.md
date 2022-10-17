@@ -45,6 +45,7 @@ When directed on the home page, the user is requested to upload a document via t
 
 ![upload_final](https://user-images.githubusercontent.com/93342024/194393556-04245dd0-0b8c-4a4f-828e-72a1d729f1bb.png)
 It is to be noted that the maximum upload file size is 500 mb and the allowed format is strictly restrited to '.pdf' and '.txt'.
+
 Once the document has been uploaded, TABASCO will ask the user to select the number N of most frequently occurring top nouns from the document. This number ranges from 25 to 200, with a step size of 25.
 ![topn](https://user-images.githubusercontent.com/93342024/194394989-1721598c-3d7f-4f9e-891a-5e2492482716.png)
 Once the document has been uploaded and N has been selected, the user can press the submit button to get the top N nouns for disambiguation.
