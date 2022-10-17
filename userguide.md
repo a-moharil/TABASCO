@@ -11,7 +11,13 @@ To use TABASCO:
 
 NOTE :- 
 1) To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
-2) Make sure that you have CUDA installed on your device. 
+2) Before installing CUDA, make sure you have the appropriate nvidia-drivers installed on your machine :
+   
+   a) Nvidia-Driver installation guide for Ubuntu 20.04 : https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
+   
+   b) Nvidia-Driver ```.exe```  download link for Windows :- https://www.nvidia.com/download/index.aspx
+   
+4) Make sure that you have CUDA installed on your device. 
    
    a) Installation guide for Windows :- https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
    
