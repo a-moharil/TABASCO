@@ -12,7 +12,9 @@ To use TABASCO:
 NOTE :- 
 1) To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
 2) Make sure that you have CUDA installed on your device. 
+   
    a) Installation guide for Windows :- https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+   
    b) Installation guide for Linux :- https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
 
 **we highly recommend using the GPU to accelerate the computation and reduce the processing time.** 
