@@ -3,13 +3,17 @@ This document consists of the guidelines indicating the usage of TABASCO : A Tra
 
 To use TABASCO:
   1) Clone the repository in any of your local folders.
-  2) Install all the dependancies :
+  2) Install all the dependancies :`
   ```pip install -r /path/to/requirements.txt```
   3) In the repo directory use the following command to start the application :
   ```python app.py ``` or ```python3 app.py ```
   4) In your browswer open ```http://localhost:5000```, (once the cursor in the terminal starts blinking) to get to the home page of TABASCO 
 
-NOTE :- To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
+NOTE :- 
+1) To use the GPU kindly follow the pytorch installation depending on your OS and CUDA version : https://pytorch.org/.
+2) Make sure that you have CUDA installed on your device. 
+   a) Installation guide for Windows :- https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+   b) Installation guide for Linux :- https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
 
 **we highly recommend using the GPU to accelerate the computation and reduce the processing time.** 
 
