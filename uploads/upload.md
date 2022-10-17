@@ -1,1 +1,1 @@
-This where the uploaded corpus will appear
+This is where the uploaded corpus will appear
